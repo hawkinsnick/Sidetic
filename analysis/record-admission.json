@@ -1,0 +1,372 @@
+[
+  {
+    "record_id": "sidetic:ediana:300",
+    "lines": [
+      {
+        "source_pointer": "/ S1 (S.I.1.1)/1",
+        "reading_sha256": "6e3d1654a35a9c97acf4a44bdb521ac14371bbffd6d4ddf3cb6dbb8a61a1cdeb",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S1 (S.I.1.1)/2",
+        "reading_sha256": "af718063ca3f56a937c2178051d3af819d685ec76552bbb3a47f326abc02e016",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:309",
+    "lines": [
+      {
+        "source_pointer": "/ S10 (S III)/1",
+        "reading_sha256": "9263c5e38ba0956019b6b783736de0e7f780482868c7366e4fa3c2240a51ad0b",
+        "syntactic_flags": [
+          "source_markup"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:310",
+    "lines": [
+      {
+        "source_pointer": "/ S11 (“S13”, S I.2.6)/1",
+        "reading_sha256": "1d7eed2fe21c9b8a6e5cbb4aa5466cdf8475fad1ab8712f65d2c94434395b98a",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S11 (“S13”, S I.2.6)/2",
+        "reading_sha256": "7c90860b570436d35042e8bc8073b8a779771ba5d2e1275501296a69324691f6",
+        "syntactic_flags": [
+          "question_mark",
+          "source_markup"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:301",
+    "lines": [
+      {
+        "source_pointer": "/ S2 (S.I.1.2)/1",
+        "reading_sha256": "ef0f9bec20165bbe9b4175e91b45caf93fc3b645e7dd8cc388a92ab5ce2e9c65",
+        "syntactic_flags": [
+          "brackets",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:302",
+    "lines": [
+      {
+        "source_pointer": "/ S3 (S.I.2.1) (scriptio continua)/1",
+        "reading_sha256": "c600f4c2b251a7d90915e1bef0777ffee97a1a4fd7edefca524083bd47e4b8ea",
+        "syntactic_flags": [
+          "question_mark",
+          "combining_underdot",
+          "source_markup"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S3 (S.I.2.1) (scriptio continua)/2",
+        "reading_sha256": "8e86abb39b482f92b65b1f8de945af57a3b671cc47f00b75acbc5d1238961861",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S3 (S.I.2.1) (scriptio continua)/3",
+        "reading_sha256": "e0f3bf91999e4940ebc24a32782e550bc53abd3e0139bb4780962a8ee2932340",
+        "syntactic_flags": [
+          "source_markup"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S3 (S.I.2.1) (scriptio continua)/4",
+        "reading_sha256": "05035468a72f5616b16fbc5d65adc67e66b6014c4fe6634cc1c0a341c51f3b27",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:303",
+    "lines": [
+      {
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/1",
+        "reading_sha256": "bb1bb617b9578321326439fe57f686bd1a2017e00c083d1122f94fe933cfa384",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/2",
+        "reading_sha256": "8c5d6663c0437cdc01cdec50c6b9b00e0b6ff2d6410225c3b954175a9356b18b",
+        "syntactic_flags": [
+          "source_markup"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/3",
+        "reading_sha256": "b340bfb5b165423deee03fac8ab44765f6bb26ce8e72ab465c7e89b580b7a525",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/4",
+        "reading_sha256": "a3c676bd53557e3e8055da3de7b2ea0504c518b424dd99e1303c1fd65514ba71",
+        "syntactic_flags": [
+          "source_markup"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/5",
+        "reading_sha256": "936ff36b238d65ea17c80dffaee3c19ea1d57c7af330e729ae721a336d95a837",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/6",
+        "reading_sha256": "9d156f40aa6452629fd1940cf6558d274438de2933af4a35d1aeaa4c710dd69a",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:304",
+    "lines": [
+      {
+        "source_pointer": "/ S5 (S II.1.1) (scriptio continua)/1",
+        "reading_sha256": "35cc59bf1a03295e9510e19a2b878c22732a19f54ccdfe802a0317c40c3b20cf",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S5 (S II.1.1) (scriptio continua)/2",
+        "reading_sha256": "c98d9467c87a1777347ed24158b889588f5863b90386b020c91d36d396e032d1",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:305",
+    "lines": [
+      {
+        "source_pointer": "/ S6 (S I.1.3) (scriptio continua)/1",
+        "reading_sha256": "6b04f26d79b2c424f88bbf887beb9b6892966d107cbe422070d7313880e0adbe",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S6 (S I.1.3) (scriptio continua)/2",
+        "reading_sha256": "7c2f4346fd67d19d181efd86a7fb45d37db3ff95348a2e935643fd3b31c78453",
+        "syntactic_flags": [
+          "source_markup"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:306",
+    "lines": [
+      {
+        "source_pointer": "/ S7 (S I.2.3) (scriptio continua)/1",
+        "reading_sha256": "ebaa9d14308f7e8ffcaeb8405c804c8eacc828f807680e5438b0c1db6bae5876",
+        "syntactic_flags": [
+          "brackets",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:307",
+    "lines": [
+      {
+        "source_pointer": "/ S8 (S I.2.4) (scriptio continua)/1",
+        "reading_sha256": "01d9dfd6be10f2c7cd08d7ecdfdb26320b86e1cc5011f4a8e90032a16e4243f0",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S8 (S I.2.4) (scriptio continua)/2",
+        "reading_sha256": "073206b5c39fb4cbf28c0cd9f7f6dc48ceaa01c19fbbd1cee11816483bcceccd",
+        "syntactic_flags": [
+          "brackets",
+          "source_markup",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S8 (S I.2.4) (scriptio continua)/3",
+        "reading_sha256": "6c671e8e83ee1288ec5352a7031beb4d7123c260e84caffc9275cb6e0673c5fd",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "sidetic:ediana:308",
+    "lines": [
+      {
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/1",
+        "reading_sha256": "187cd745bc50266315848b602b3c2f16f12088ac245e6d9dbc3c6bac26f849c5",
+        "syntactic_flags": [
+          "brackets",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/2",
+        "reading_sha256": "de44757bc7c565f28c83125500de28e0c2adff49e7976458f77057fbc4d7595f",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/3",
+        "reading_sha256": "6cb8583a473de76f9644aa2b85f2f1f6fa26a6a538a1533a7462ab5e0488f621",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/4",
+        "reading_sha256": "7998a1c2efd4679128af9f19a500bc1f342f3070b5684c9c5cd2b40703907eec",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/5",
+        "reading_sha256": "122b6176b6b9839488974f02ce8043b7106240a4a996053d145c4fc56204da50",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/6",
+        "reading_sha256": "0e45fa4ef26e98683762873dd60f9167766b6f22f828a112df3a0ee81631bf83",
+        "syntactic_flags": [
+          "brackets",
+          "source_markup"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/7",
+        "reading_sha256": "1fbddebf6176e7848aa005d733e038619ab904e9bbc983df74f80b012c12035e",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/8",
+        "reading_sha256": "fc9e2c7c1d88ed5f3e4ef2be5da6f5c04bb23bfe51165afe3afb928d0318cbf7",
+        "syntactic_flags": [
+          "brackets",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  }
+]

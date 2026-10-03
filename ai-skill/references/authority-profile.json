@@ -36,6 +36,56 @@
       "role": "third_party",
       "path": "THIRD-PARTY-NOTICES.md",
       "required": true
+    },
+    {
+      "role": "record-admission",
+      "path": "analysis/record-admission.json",
+      "required": true
+    },
+    {
+      "role": "benchmark-status",
+      "path": "analysis/benchmark-status.json",
+      "required": true
+    },
+    {
+      "role": "edition-dependencies",
+      "path": "research/edition-dependencies.json",
+      "required": true
+    },
+    {
+      "role": "admission-policy",
+      "path": "research/admission-policy.json",
+      "required": true
+    },
+    {
+      "role": "source-frontier",
+      "path": "research/source-frontier.json",
+      "required": true
+    },
+    {
+      "role": "source-issues",
+      "path": "research/source-issues.json",
+      "required": true
+    },
+    {
+      "role": "pre-expert-maximum",
+      "path": "research/pre-expert-maximum.json",
+      "required": true
+    },
+    {
+      "role": "acquisition",
+      "path": "research/acquisition.json",
+      "required": true
+    },
+    {
+      "role": "bibliography",
+      "path": "data/upstream/ediana/bibliography.json",
+      "required": true
+    },
+    {
+      "role": "SKILL",
+      "path": "ai-skill/SKILL.md",
+      "required": true
     }
   ],
   "behavioral_gates": [

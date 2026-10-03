@@ -31,3 +31,7 @@ The workflow checks derived files, source coverage, preservation of uncertainty,
 ## Reuse and attribution
 
 Project-original content: CC BY-NC 4.0; project-original code: PolyForm Noncommercial 1.0.0. **The eDiAna source layer and its derived reference records retain CC BY-SA 4.0**, including the permissions that license grants. See [component rights](DATA-LICENSE-MATRIX.md), [licensing](LICENSING.md) and [NOTICE](NOTICE). Retain source authors, edition references and eDiAna hyperlinks.
+
+## Research standards
+
+See [the research standards guide](docs/RESEARCH-STANDARDS.md) for record-level admission, uncertainty, edition dependencies and later publication leads. Engineering integrity is checked automatically; primary-edition and independent epigraphic review remain pending.

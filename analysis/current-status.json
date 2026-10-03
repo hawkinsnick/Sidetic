@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "project": "Sidetic",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "stage": "SOURCE_ATTRIBUTED_DIGITAL_REFERENCE",
   "source_version": "2021",
   "snapshot_date": "2026-10-03",

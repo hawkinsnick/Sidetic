@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "reference_layer_allowed": true,
+  "analytical_admission_requires": [
+    "record-specific primary edition and page/line locator",
+    "physical-object reconciliation",
+    "preserved damage and uncertainty",
+    "source-specific redistribution permission",
+    "independent epigraphic review with reviewer and date"
+  ],
+  "current_admitted_records": 0,
+  "syntactic_marker_absence_means": "UNKNOWN, not certain",
+  "shared_witnesses_are_independent": false,
+  "citation_candidates_are_verified_equivalences": false
+}

@@ -1,0 +1,42 @@
+{
+  "repository": {
+    "name": "Sidetic",
+    "version": "0.2.0"
+  },
+  "status_source": {
+    "path": "analysis/current-status.json",
+    "checked": true
+  },
+  "coverage": {
+    "unit": "eDiAna directory document ID",
+    "known_total": 11,
+    "represented": 11,
+    "admitted": 0,
+    "independently_reviewed": 0,
+    "scope": "captured eDiAna directory; not a claim of language-wide completeness",
+    "language_wide_total": null
+  },
+  "rights": {
+    "project_original_policy": "Project code PolyForm Noncommercial; original content CC BY-NC 4.0",
+    "third_party_separate": true
+  },
+  "evidence_layers": {
+    "source_observation": "Pinned digital transcription, not autopsy",
+    "normalization": "No silently normalized canonical text",
+    "computation": "Deterministic syntactic audit only",
+    "interpretation": "Source proposals remain attributed hypotheses"
+  },
+  "gates": {
+    "blocked_claims": [
+      "decipherment",
+      "language-wide completeness",
+      "independently verified objects",
+      "newly established sign values"
+    ],
+    "next_gate": "Edition and physical-object reconciliation, followed by independent epigraphic review"
+  },
+  "ai": {
+    "authority_profile": "ai-skill/references/authority-profile.json",
+    "canonical_data_outranks_bundle": true
+  }
+}

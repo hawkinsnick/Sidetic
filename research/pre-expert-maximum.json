@@ -1,0 +1,22 @@
+{
+  "stage": "PRE_EXPERT_MAXIMUM_ENGINEERING_CONTROLS",
+  "engineering_controls": [
+    "source replay",
+    "snapshot hash binding",
+    "record-level admission reasons",
+    "uncertainty syntax audit",
+    "edition dependency ledger",
+    "rights separation",
+    "AI evidence fingerprints"
+  ],
+  "remaining_machine_work": [
+    "Acquire additional rights-clear primary editions",
+    "Expand record-specific locator reconciliation against inspected editions"
+  ],
+  "human_only_boundaries": [
+    "object identity adjudication",
+    "epigraphic collation and damage assessment",
+    "independent review of reading proposals"
+  ],
+  "completion_rule": "Engineering checks do not establish scholarly parity or language-wide completeness"
+}

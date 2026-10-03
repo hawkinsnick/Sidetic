@@ -1,0 +1,19 @@
+{
+  "issues": [
+    {
+      "issue": "No edition references attached to captured rows",
+      "decision": "Corpus baseline bibliography cannot supply record-specific page/line citations"
+    },
+    {
+      "issue": "Source HTML superscript in record 305",
+      "decision": "Preserve temen<sup>!</sup>ejaś verbatim; do not silently strip editorial markup"
+    }
+  ],
+  "correction_history": [
+    {
+      "date": "2026-10-03",
+      "version": "0.2.0",
+      "change": "Added governance controls without replacing source readings or admitting objects"
+    }
+  ]
+}

@@ -16,6 +16,10 @@ Check indexed artifact hashes and `generated/source-state.json` before using a s
 
 Consult `DATA-LICENSE-MATRIX.md`, `NOTICE` and `research/rights-evidence.json`. Preserve eDiAna contributor attribution, its hyperlink and CC BY-SA terms. Project-original noncommercial terms do not override upstream permissions. Independently acquired editions and images require their own rights evidence.
 
+## Admission and research workflow
+
+Read `research/admission-policy.json`, `analysis/record-admission.json` and `research/source-issues.json` before interpreting any record. Cite the record ID, exact JSON pointer, captured source version and edition locator if actually established. Empty citation lists must be disclosed. Treat bibliography search results as unresolved candidates. Read `research/edition-dependencies.json` before claiming independent corroboration. Preserve HTML editorial markup and combining marks; marker absence does not establish certainty. Keep `research/source-frontier.json` leads and scholarly proposals separate from admitted readings. Report blocked analytical admission and human review boundaries from `research/pre-expert-maximum.json`.
+
 
 # Corpus Project AI Research Contract — 0.3
 

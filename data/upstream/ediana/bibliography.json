@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.ediana.gwi.uni-muenchen.de/literature.php",
+  "api_url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+  "captured_on": "2026-10-03",
+  "license": "CC-BY-SA-4.0",
+  "queries": [
+    {
+      "query": "Nollé 2001",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Nollé 2001"
+      },
+      "response_sha256": "4af0570b5b6b4171ef162b87bcb16ace3fb6c370637ad2f7bed792fc395be083",
+      "response": [
+        {
+          "ref_wpid": "5829",
+          "ref_sigle": "Nollé 2001a",
+          "ref_id": "2375",
+          "ref_year": "2001",
+          "ref_type": "monograph",
+          "ref_pages": "",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "",
+          "ref_title": "Side im Altertum"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Pérez Orozco 2007",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Pérez Orozco 2007"
+      },
+      "response_sha256": "c2a5017c733f648c20ef9a91661817d028c119a8a549af40ab76532c6ed4d698",
+      "response": [
+        {
+          "ref_wpid": "10419",
+          "ref_sigle": "Pérez Orozco 2007a",
+          "ref_id": "4020",
+          "ref_year": "2007",
+          "ref_type": "journal article",
+          "ref_pages": "125-142",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Kadmos",
+          "ref_title": "La lengua sidética. Ensayo de síntesis"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Zinko & Zinko 2019",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Zinko & Zinko 2019"
+      },
+      "response_sha256": "66ff9b4f5f90d723e34bb3d99bbe0827e4b053a7f82b641ce74e8c506c27b478",
+      "response": [
+        {
+          "ref_wpid": "10053",
+          "ref_sigle": "Zinko & Zinko 2019a",
+          "ref_id": "3937",
+          "ref_year": "2019",
+          "ref_type": "volume article",
+          "ref_pages": "416-432",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Hrozný and Hittite: The First Hundred Years. Proceedings of the International Conference Held at Charles University, Prague, 11–14 November 2015",
+          "ref_title": "Sidetisch – Ein Update zu Schrift und Sprache"
+        }
+      ],
+      "status": "ACQUIRED"
+    }
+  ]
+}
