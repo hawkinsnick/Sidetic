@@ -2,7 +2,7 @@
 import argparse, hashlib, json
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
-INPUTS=['data/reference/records.json','analysis/record-admission.json','research/edition-dependencies.json','research/admission-policy.json','research/source-issues.json','research/source-checks.json','research/source-access.json']
+INPUTS=['data/reference/records.json','analysis/record-admission.json','research/edition-dependencies.json','research/admission-policy.json','research/source-issues.json','research/source-checks.json','research/source-access.json','research/rights-evidence.json','DATA-LICENSE-MATRIX.md','NOTICE','project.json','scripts/build_review.py','scripts/validate_review.py']
 DIMENSIONS=['object_identity','edition_reading','uncertainty','classification','redistribution_rights']
 def dump(x):return json.dumps(x,ensure_ascii=False,indent=2)+'\n'
 def fingerprint(root):

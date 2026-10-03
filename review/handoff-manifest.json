@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+  "evidence_fingerprint": "a3626fe41e0f98eeeb3c87c1bac06c839b844fd8cc0d2f712c0bd33dd84f199f",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -29,6 +29,30 @@
     {
       "path": "research/source-access.json",
       "sha256": "026d13453fdb2fb1df387f421e7776b5571cde42ee452ebc19b8446710324247"
+    },
+    {
+      "path": "research/rights-evidence.json",
+      "sha256": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca"
+    },
+    {
+      "path": "DATA-LICENSE-MATRIX.md",
+      "sha256": "0ef333ce1272445875f78bdf058b078c0b619d41a8e30657af6a39759b652879"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "315a04446052a85d18943faf38e5ee835c2ff17a388a0e623c6f9abc225bc087"
+    },
+    {
+      "path": "project.json",
+      "sha256": "a98836aa31b309cba1b830fb69f9b06754454fbb17d9d4424088b2472ebdcde3"
+    },
+    {
+      "path": "scripts/build_review.py",
+      "sha256": "737e1608b52d8506d01c8249663d56a6ab5330533b73f33040616f08b4fd67e5"
+    },
+    {
+      "path": "scripts/validate_review.py",
+      "sha256": "0b6c8784e8cc6a7d799868f1721ea77b681a534116a6cabb24ea6e57e3562956"
     }
   ],
   "packet_count": 11,
