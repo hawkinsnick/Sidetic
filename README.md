@@ -35,3 +35,7 @@ Project-original content: CC BY-NC 4.0; project-original code: PolyForm Noncomme
 ## Research standards
 
 See [the research standards guide](docs/RESEARCH-STANDARDS.md) for record-level admission, uncertainty, edition dependencies and later publication leads. Engineering integrity is checked automatically; primary-edition and independent epigraphic review remain pending.
+
+## Expert validation handoff
+
+[Review the corpus record by record](docs/EXPERT-REVIEW.md). Every captured record has a source-bound packet, and targeted edition checks remain separate from independent review.

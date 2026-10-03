@@ -6,6 +6,8 @@
 | Project-original documentation and metadata | CC BY-NC 4.0 | Only contributor-owned material |
 | data/upstream/ediana/** | CC BY-SA 4.0 | Attributed digital source extraction |
 | data/reference/** | CC BY-SA 4.0 | Derived from the eDiAna snapshot |
+| review/records/** and review/packets.json | CC BY-SA 4.0 | Source-derived eDiAna evidence and attributed review packets; no project NC override |
+| research/edition-dependencies.json | CC BY-SA 4.0 | Source-derived citation and heading ledger |
 | Independent editions/images | Source-specific; not included | No rights inferred from eDiAna |
 
 Public-domain material remains public domain. Source titles, attribution and factual identifiers do not acquire exclusive ownership through inclusion here. See NOTICE and research/rights-evidence.json.

@@ -7,6 +7,8 @@ def validate(root=ROOT):
     write_or_check(root)
     from build_governance import check
     check(root)
+    from build_review import check as check_review
+    check_review(root)
     status=json.loads((root/'analysis/current-status.json').read_text())
     if status['missing_document_ids']: raise ValueError('incomplete snapshot acquisition')
     if status['verified_primary_edition_readings']!=0 or status['verified_physical_objects']!=0 or status['independent_review']: raise ValueError('unsupported verification claim')
