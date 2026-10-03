@@ -21,8 +21,8 @@ Python 3.10 or newer; no external packages required.
 ```sh
 python scripts/build_reference.py --write
 python scripts/validate.py
-python -m unittest discover -s tests -v
 python ai-skill/scripts/build_bundle.py
+python -m unittest discover -s tests -v
 python ai-skill/scripts/validate_bundle.py
 ```
 
