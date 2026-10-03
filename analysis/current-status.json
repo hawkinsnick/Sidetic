@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "project": "Sidetic",
+  "version": "0.1.0",
+  "stage": "SOURCE_ATTRIBUTED_DIGITAL_REFERENCE",
+  "source_version": "2021",
+  "snapshot_date": "2026-10-03",
+  "directory_document_ids": 11,
+  "response_group_titles": 11,
+  "acquired_document_ids": 11,
+  "missing_document_ids": [],
+  "nonempty_source_lines": 32,
+  "verified_primary_edition_readings": 0,
+  "verified_physical_objects": 0,
+  "independent_review": false,
+  "analytical_admission": "BLOCKED_PENDING_EDITION_AND_OBJECT_RECONCILIATION",
+  "coverage_scope": "captured eDiAna directory; not a claim of language-wide completeness",
+  "catalog_label_collisions": [],
+  "source_fingerprints": {
+    "catalog-fragment.html": "2a9732c7b8d0cb14c6bad5c867cbef2c286af068b95f1665e63c37149e7e54e4",
+    "response.json": "1f5ddd790a2d53294c30c75fd8b487d4c1f06f686e4691d3b1991d9cff9ecb1b"
+  },
+  "source_license": "CC-BY-SA-4.0"
+}

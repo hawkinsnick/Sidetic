@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ediana",
+    "url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "api_url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+    "language": "sidetic",
+    "version_label": "2021",
+    "accessed_on": "2026-10-03",
+    "license": "CC-BY-SA-4.0",
+    "rights_evidence": "research/rights-evidence.json",
+    "edition_independence": false,
+    "inspection_scope": "machine-acquired digital source records; no physical-object or primary-edition collation"
+  }
+]

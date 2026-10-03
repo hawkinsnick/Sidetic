@@ -1,0 +1,11 @@
+{
+  "name": "sidetic-research",
+  "version": "0.3.1",
+  "skill_version": "0.3.1",
+  "canonical_project": "hawkinsnick/Sidetic",
+  "bundle_schema": "0.3.1",
+  "governing_file": "SKILL.md",
+  "authority_profile": "ai-skill/references/authority-profile.json",
+  "research_contract": "references/corpus-project-contract.md",
+  "vendor_neutral": true
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "required_authorities": [
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "required": true
+    },
+    {
+      "role": "reference_records",
+      "path": "data/reference/records.json",
+      "required": true
+    },
+    {
+      "role": "source_register",
+      "path": "research/source-register.json",
+      "required": true
+    },
+    {
+      "role": "rights_matrix",
+      "path": "DATA-LICENSE-MATRIX.md",
+      "required": true
+    },
+    {
+      "role": "rights_evidence",
+      "path": "research/rights-evidence.json",
+      "required": true
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "required": true
+    },
+    {
+      "role": "third_party",
+      "path": "THIRD-PARTY-NOTICES.md",
+      "required": true
+    }
+  ],
+  "behavioral_gates": [
+    "No invented reading or translation",
+    "Digital reference records are not independently verified objects",
+    "Source interpretations remain source assertions",
+    "No cross-corpus value transfer",
+    "Preserve upstream CC-BY-SA"
+  ]
+}

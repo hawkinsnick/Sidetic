@@ -1,0 +1,404 @@
+[
+  {
+    "record_id": "sidetic:ediana:300",
+    "source_document_id": "300",
+    "source_catalog_label": " S1 (S.I.1.1)",
+    "source_response_groups": [
+      " S1 (S.I.1.1)"
+    ],
+    "source_headings": [
+      "· S1 (S.I.1.1)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "de aϑono artmon ϑanpijś",
+        "source_pointer": "/ S1 (S.I.1.1)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "maljadaś",
+        "source_pointer": "/ S1 (S.I.1.1)/2"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:309",
+    "source_document_id": "309",
+    "source_catalog_label": " S10 (S III)",
+    "source_response_groups": [
+      " S10 (S III)"
+    ],
+    "source_headings": [
+      "· S10 (S III)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "siduawniś siduawn<sub>2</sub>iś sidwawn<sub>2</sub>iś siduawan<sub>2</sub>iś",
+        "source_pointer": "/ S10 (S III)/1"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:310",
+    "source_document_id": "310",
+    "source_catalog_label": " S11 (“S13”, S I.2.6)",
+    "source_response_groups": [
+      " S11 (“S13”, S I.2.6)"
+    ],
+    "source_headings": [
+      "· S11 (“S13”, S I.2.6)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "i̤śtorẹmr",
+        "source_pointer": "/ S11 (“S13”, S I.2.6)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "tbi<sup>?</sup>atmemś",
+        "source_pointer": "/ S11 (“S13”, S I.2.6)/2"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:301",
+    "source_document_id": "301",
+    "source_catalog_label": " S2 (S.I.1.2)",
+    "source_response_groups": [
+      " S2 (S.I.1.2)"
+    ],
+    "source_headings": [
+      "· S2 (S.I.1.2)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "polonij pord2orś polonijaś masara ṯue[…]",
+        "source_pointer": "/ S2 (S.I.1.2)/1"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:302",
+    "source_document_id": "302",
+    "source_catalog_label": " S3 (S.I.2.1) (scriptio continua)",
+    "source_response_groups": [
+      " S3 (S.I.2.1) (scriptio continua)"
+    ],
+    "source_headings": [
+      "· S3 (S.I.2.1) (scriptio continua)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "jewase abase iśtratagejaś śa jewase masarasẹ<sup>?</sup>",
+        "source_pointer": "/ S3 (S.I.2.1) (scriptio continua)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "darkew diuneśijaś mewakaś iśtratag",
+        "source_pointer": "/ S3 (S.I.2.1) (scriptio continua)/2"
+      },
+      {
+        "source_row_label": "· 2-3",
+        "reading": "ewśako<sup>3</sup>pebijasexnebarśaka",
+        "source_pointer": "/ S3 (S.I.2.1) (scriptio continua)/3"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "śa ak ośad anaϑemataś",
+        "source_pointer": "/ S3 (S.I.2.1) (scriptio continua)/4"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:303",
+    "source_document_id": "303",
+    "source_catalog_label": " S4 (S.I.2.2) (scriptio continua)",
+    "source_response_groups": [
+      " S4 (S.I.2.2) (scriptio continua)"
+    ],
+    "source_headings": [
+      "· S4 (S.I.2.2) (scriptio continua)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "kuarxexp̣ ",
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/1"
+      },
+      {
+        "source_row_label": "· 1-2",
+        "reading": "ϑami<sub>2</sub>çorś",
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/2"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ϑandorś",
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/3"
+      },
+      {
+        "source_row_label": "· 2-3",
+        "reading": "iśtra<sup>3</sup>tag",
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/4"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "ośad woskiji",
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/5"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "anaϑemataś",
+        "source_pointer": "/ S4 (S.I.2.2) (scriptio continua)/6"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:304",
+    "source_document_id": "304",
+    "source_catalog_label": " S5 (S II.1.1) (scriptio continua)",
+    "source_response_groups": [
+      " S5 (S II.1.1) (scriptio continua)"
+    ],
+    "source_headings": [
+      "· S5 (S II.1.1) (scriptio continua)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "artmon ubaṯworoś",
+        "source_pointer": "/ S5 (S II.1.1) (scriptio continua)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ubaṯworoś",
+        "source_pointer": "/ S5 (S II.1.1) (scriptio continua)/2"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:305",
+    "source_document_id": "305",
+    "source_catalog_label": " S6 (S I.1.3) (scriptio continua)",
+    "source_response_groups": [
+      " S6 (S I.1.3) (scriptio continua)"
+    ],
+    "source_headings": [
+      "· S6 (S I.1.3) (scriptio continua)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ebpel śdiṯś",
+        "source_pointer": "/ S6 (S I.1.3) (scriptio continua)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "temen<sup>!</sup>ejaś",
+        "source_pointer": "/ S6 (S I.1.3) (scriptio continua)/2"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:306",
+    "source_document_id": "306",
+    "source_catalog_label": " S7 (S I.2.3) (scriptio continua)",
+    "source_response_groups": [
+      " S7 (S I.2.3) (scriptio continua)"
+    ],
+    "source_headings": [
+      "· S7 (S I.2.3) (scriptio continua)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[…]jaś artmonś",
+        "source_pointer": "/ S7 (S I.2.3) (scriptio continua)/1"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:307",
+    "source_document_id": "307",
+    "source_catalog_label": " S8 (S I.2.4) (scriptio continua)",
+    "source_response_groups": [
+      " S8 (S I.2.4) (scriptio continua)"
+    ],
+    "source_headings": [
+      "· S8 (S I.2.4) (scriptio continua)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[ϑa]np[i]jś ϑanpijś",
+        "source_pointer": "/ S8 (S I.2.4) (scriptio continua)/1"
+      },
+      {
+        "source_row_label": "· 1-2",
+        "reading": "r[.]e<sub>2</sub>r[…]rie",
+        "source_pointer": "/ S8 (S I.2.4) (scriptio continua)/2"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "kuarśat",
+        "source_pointer": "/ S8 (S I.2.4) (scriptio continua)/3"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "sidetic:ediana:308",
+    "source_document_id": "308",
+    "source_catalog_label": " S9 (S I.2.5) (scriptio continua)",
+    "source_response_groups": [
+      " S9 (S I.2.5) (scriptio continua)"
+    ],
+    "source_headings": [
+      "· S9 (S I.2.5) (scriptio continua)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[…]r[...]",
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "zem iśtoś zemś artmonś",
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "pojaw θandorś gariś",
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "ubaṯzem ubaṯχarś ubaṯzemś",
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "θandor pojawś θandorś pigśe[ś]",
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "tobVn<sub>2</sub>remar θanpijś talamonija[ś]",
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "[p]ojaw pojawś θandorś gariś",
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "[…]zemś",
+        "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/8"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  }
+]

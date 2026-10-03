@@ -1,0 +1,54 @@
+---
+name: sidetic-research
+description: Examine the Sidetic digital reference corpus, trace edition identifiers and source readings, assess coverage and prepare reproducible inscription research.
+version: 0.3.1
+---
+
+# Sidetic evidence-first research
+
+Start by asking for the research question and identifying the files you can actually read. Load the authority profile at `ai-skill/references/authority-profile.json`, current status, source register, rights matrix and bundle index. Request exact evidence file paths when absent; do not pretend that links, indices or filenames establish evidence access.
+
+The canonical research files are in the repository; this interface is rebuildable. `data/reference/records.json` is an attributed eDiAna-derived digital reference layer under CC BY-SA 4.0, not an independently collated epigraphic edition. Distinguish catalog document IDs, response group titles, physical objects, source lines and analytical units. Join records by document ID; labels can collide. Disclose catalog/heading discrepancies and archival source versions.
+
+Preserve source sentences, lacunae, uncertainty, references and row pointers. Source-provided morphology, translation and language assignments are source assertions, not adjudicated findings. Keep observation, transformation, computation, interpretation and AI inference distinct. Cite local record IDs, snapshot hashes, source URL, raw response pointers and edition references. Do not invent readings, locators or translations. No independent review is granted by passing machine checks.
+
+Check indexed artifact hashes and `generated/source-state.json` before using a saved bundle; report stale data. The index is not the evidence. Offer one useful next action and exact file requirements when blocked. Follow `references/corpus-project-contract.md` for cross-corpus comparisons: explicit comparable units, source dependence, uncertainty and compatible transformations are required. No automatic transfer of sign values or linguistic relationships.
+
+Consult `DATA-LICENSE-MATRIX.md`, `NOTICE` and `research/rights-evidence.json`. Preserve eDiAna contributor attribution, its hyperlink and CC BY-SA terms. Project-original noncommercial terms do not override upstream permissions. Independently acquired editions and images require their own rights evidence.
+
+
+# Corpus Project AI Research Contract — 0.3
+
+The repository corpus is authoritative. The AI layer is a rebuildable research interface, not a second corpus.
+
+## Evidence contract
+Every substantive answer should distinguish: observation/source record; normalized or derived representation; computational result; scholarly interpretation; AI-derived analysis. Missing evidence is reported as unknown or blocked, never filled by inference.
+
+## Provenance and citation
+Prefer stable record/claim identifiers. Cite repository paths and source locators when present. Preserve evidence hashes and source lineage. Multiple digital copies of one upstream witness are not independent witnesses.
+
+## Rights
+Consult the indexed rights/NOTICE artifacts before reproducing source-derived material. Transformation does not broaden upstream rights. When redistribution is unclear, cite or describe the source rather than reproducing protected content.
+
+## Cross-corpus safety
+Interoperability permits comparison, not equivalence. Similar signs, strings, positions, or statistics do not by themselves establish common values, language relationship, borrowing, morphology, decipherment, or independent replication.
+
+## Staleness
+Read `generated/source-state.json`. If its source commit does not correspond to the corpus state being analyzed, report the bundle as stale and use canonical files until regenerated.
+
+
+# Start researching Sidetic
+
+1. [Download the AI starter](../ai-skill/Research-Starter.txt). If it opens as text, save the file.
+2. Attach it to an AI assistant that can read text files.
+3. Copy this message:
+
+> Use the uploaded Sidetic research instructions. Confirm which files you can actually read. My question is [your question]. Tell me which evidence files I should supply next, then distinguish source readings, interpretations and unknowns. Cite record identifiers and source locators. Do not invent translations.
+
+For a source-based question, [download this repository](https://github.com/hawkinsnick/Sidetic/archive/refs/heads/main.zip) and extract it. Upload `analysis/current-status.json`, `data/reference/records.json`, and `research/source-register.json`; add raw evidence from `data/upstream/ediana/response.json` when an exact source assertion needs checking. The index is a directory, not inscription evidence. A GitHub link does not establish that your assistant can read it.
+
+Useful first question: Which records mention my chosen edition identifier, and where can I verify the reading in the captured source?
+
+Save the repository commit, record ID, source URL, response row pointers and your question with any result. Cite eDiAna and the relevant edition, as well as this repository version for the digital processing. See [methods](METHODS.md) and [rights](../DATA-LICENSE-MATRIX.md).
+
+This initial release supports examination of an attributed digital reference layer. Primary-edition/object verification and independent scholarly review remain outstanding. Updates on GitHub do not refresh files you already uploaded.
