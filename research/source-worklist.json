@@ -19,6 +19,7 @@
   "bibliographic_candidates_path": "data/upstream/ediana/bibliography.json",
   "access_log_path": "research/source-access.json",
   "new_publication_leads_path": "research/source-frontier.json",
+  "publication_reconciliation_path": "research/publication-reconciliation.json",
   "citation_dependencies": [],
   "record_work": [
     {
@@ -189,7 +190,8 @@
       "review_page": "review/records/sidetic-ediana-308.md",
       "citations_verbatim": [],
       "source_check_ids": [
-        "SID-S9-ABYDOS-COMPARISON"
+        "SID-S9-ABYDOS-COMPARISON",
+        "SID-S9-2025-PIGBE"
       ],
       "remaining_work": [
         "Confirm edition-to-record concordance",

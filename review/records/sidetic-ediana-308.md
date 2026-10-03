@@ -5,7 +5,7 @@ Source label:  S9 (S I.2.5) (scriptio continua)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `9b352ee33dbe148c96ff2a524415748ce0fa7c3949680e6e9d62cb6bf83ae37c`
-Evidence fingerprint: `1473a244b811b31b55005036707f9d787994ff15dbf6cc262d416a68c2d9a566`
+Evidence fingerprint: `eef5ba8218346a02b90c5ae3b1e3b8df410b0838046ffc670aebdec76aeeeba4`
 
 ## Captured source evidence
 
@@ -92,6 +92,18 @@ The paper compares an Abydos name with S9 and discusses the unresolved N22 sign 
 - Evaluate N22 independently of the proposed Abydos name
 - Distinguish common-name comparison from physical object identity
 - Reconcile the two 2025 Abydos editions before counting new objects
+
+### SID-S9-2025-PIGBE
+
+Source: [https://www.researchgate.net/publication/396360294_Neue_Inschriften_aus_Side_-_Uberblick_zu_den_Neufunden_zwischen_2020-2023](https://www.researchgate.net/publication/396360294_Neue_Inschriften_aus_Side_-_Uberblick_zu_den_Neufunden_zwischen_2020-2023)
+
+Locators: printed p.122 §3.1; printed p.122 n.6 continuing before p.123
+
+The authors propose pigbe- and pigbe[s] instead of an earlier pigse[s] based on comparison with the quasi-bilingual and report confirming it on the inscription in October2024. This is an attributed correction proposal, not this project’s examination. The frozen S9 ending pigśe[ś] remains unchanged; resolve source-specific transcription differences and signs before substitution.
+
+- Compare source photographs and exact segmentation
+- Assess shared name evidence separately from object identity
+- Retain bracketed restoration and date the claimed source autopsy
 
 ## Record a decision
 

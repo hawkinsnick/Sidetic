@@ -104,6 +104,27 @@
         "Distinguish common-name comparison from physical object identity",
         "Reconcile the two 2025 Abydos editions before counting new objects"
       ]
+    },
+    {
+      "check_id": "SID-S9-2025-PIGBE",
+      "record_ids": [
+        "sidetic:ediana:308"
+      ],
+      "inspection": "PUBLISHER_PROVIDED_ARTICLE_TEXT_CHECKED; NO_FIGURE_OR_PROJECT_AUTOPSY",
+      "source_url": "https://www.researchgate.net/publication/396360294_Neue_Inschriften_aus_Side_-_Uberblick_zu_den_Neufunden_zwischen_2020-2023",
+      "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/5",
+      "captured_reading": "θandor pojawś θandorś pigśe[ś]",
+      "locators": [
+        "printed p.122 §3.1",
+        "printed p.122 n.6 continuing before p.123"
+      ],
+      "finding": "The authors propose pigbe- and pigbe[s] instead of an earlier pigse[s] based on comparison with the quasi-bilingual and report confirming it on the inscription in October2024. This is an attributed correction proposal, not this project’s examination. The frozen S9 ending pigśe[ś] remains unchanged; resolve source-specific transcription differences and signs before substitution.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Compare source photographs and exact segmentation",
+        "Assess shared name evidence separately from object identity",
+        "Retain bracketed restoration and date the claimed source autopsy"
+      ]
     }
   ],
   "source_check_is_not_independent_review": true
