@@ -6,17 +6,17 @@
       "title": "Sidetic graffiti in the Memnonium at Abydos",
       "attribution": "Phillips and Rutherford, 2025",
       "locator": "10.1515/kadmos-2025-0010",
-      "inspection_state": "METADATA_ONLY; full PDF access blocked",
+      "inspection_state": "PUBLISHER_PROVIDED_FULL_ARTICLE_TEXT_INSPECTED_VIA_WEB; two candidate graffiti registered, no baseline expansion",
       "canonical_admission": false,
-      "redistribution_permission": "NOT_ESTABLISHED; link and metadata only"
+      "redistribution_permission": "CC BY4.0 stated in article footer; no scan or figure imported"
     },
     {
       "title": "A new Sidetic vowel. Splitting a misread sign into two",
       "attribution": "Gem Ferrer, 2025",
       "locator": "10.1515/kadmos-2025-0009",
-      "inspection_state": "METADATA_ONLY; proposed values not admitted",
+      "inspection_state": "PUBLISHER_PROVIDED_ARTICLE_TEXT_INSPECTED; source-specific proposals and numbering, no canonical adoption",
       "canonical_admission": false,
-      "redistribution_permission": "NOT_ESTABLISHED; link and metadata only"
+      "redistribution_permission": "CC BY4.0 stated in source footer; no scan or figure imported"
     },
     {
       "title": "Neue Inschriften aus Side – Überblick zu den Neufunden zwischen 2020–2023",
@@ -30,9 +30,9 @@
       "title": "Sidetic in Egypt",
       "attribution": "Adiego, Ferrer and Soler, 2025",
       "locator": "10.1515/kadmos-2025-0011",
-      "inspection_state": "METADATA_ONLY; possible shared Abydos objects, do not double count",
+      "inspection_state": "PUBLISHER_PROVIDED_ARTICLE_TEXT_INSPECTED; source-specific proposals and numbering, no canonical adoption",
       "canonical_admission": false,
-      "redistribution_permission": "NOT_ESTABLISHED; link and metadata only"
+      "redistribution_permission": "CC BY4.0 stated in source footer; no scan or figure imported"
     },
     {
       "title": "A New Reading Proposal for the Sidetic Adaptation of the Greek PN Euempolos",

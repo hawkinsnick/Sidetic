@@ -5,7 +5,7 @@ Source label:  S9 (S I.2.5) (scriptio continua)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `9b352ee33dbe148c96ff2a524415748ce0fa7c3949680e6e9d62cb6bf83ae37c`
-Evidence fingerprint: `4d8b32779ac8b22ac6dceafd15190c476505be6d16e6fb2f1faccf1fe83b4e46`
+Evidence fingerprint: `1473a244b811b31b55005036707f9d787994ff15dbf6cc262d416a68c2d9a566`
 
 ## Captured source evidence
 
@@ -81,7 +81,17 @@ No edition citations attached to this captured record. Corpus-wide baseline refe
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### SID-S9-ABYDOS-COMPARISON
+
+Source: [https://www.researchgate.net/publication/396359585_Sidetic_graffiti_in_the_Memnonium_at_Abydos](https://www.researchgate.net/publication/396359585_Sidetic_graffiti_in_the_Memnonium_at_Abydos)
+
+Locators: printed pp.177–178, graffito1 comparison with S9; printed p.178 n.11, N22 and transcription disagreement; printed p.182 n.20, w/y value history
+
+The paper compares an Abydos name with S9 and discusses the unresolved N22 sign and differing transcription systems. Similar names do not identify the same object. Preserve the frozen V and HTML subscript; do not substitute a proposed vowel or unify w/y/j notation without an explicit source-specific crosswalk.
+
+- Evaluate N22 independently of the proposed Abydos name
+- Distinguish common-name comparison from physical object identity
+- Reconcile the two 2025 Abydos editions before counting new objects
 
 ## Record a decision
 

@@ -14,4 +14,4 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 | [sidetic:ediana:305](records/sidetic-ediana-305.md) |  S6 (S I.1.3) (scriptio continua) | TARGETED_SOURCE_CONFLICT |
 | [sidetic:ediana:306](records/sidetic-ediana-306.md) |  S7 (S I.2.3) (scriptio continua) | EDITION_LOCATOR_MISSING |
 | [sidetic:ediana:307](records/sidetic-ediana-307.md) |  S8 (S I.2.4) (scriptio continua) | EDITION_LOCATOR_MISSING |
-| [sidetic:ediana:308](records/sidetic-ediana-308.md) |  S9 (S I.2.5) (scriptio continua) | EDITION_LOCATOR_MISSING |
+| [sidetic:ediana:308](records/sidetic-ediana-308.md) |  S9 (S I.2.5) (scriptio continua) | TARGETED_SOURCE_CONFLICT |

@@ -111,6 +111,11 @@
       "role": "source-worklist",
       "path": "research/source-worklist.json",
       "required": true
+    },
+    {
+      "role": "publication-reconciliation",
+      "path": "research/publication-reconciliation.json",
+      "required": true
     }
   ],
   "behavioral_gates": [

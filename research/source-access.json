@@ -44,6 +44,15 @@
       "access_state": "NOT_ACQUIRED",
       "attempt_result": "Empty non-PDF response",
       "next_action": "Locate an accessible authorized copy"
+    },
+    {
+      "source_url": "https://www.researchgate.net/publication/396359585_Sidetic_graffiti_in_the_Memnonium_at_Abydos",
+      "checked_on": "2026-10-03",
+      "access_state": "PUBLISHER_PROVIDED_FULL_ARTICLE_TEXT_INSPECTED_VIA_WEB; LOCAL_PDF_NOT_ACQUIRED",
+      "attempt_result": "Public ResearchGate page exposes the complete publisher article; direct PDF route did not yield a local copy",
+      "rights_evidence_locator": "printed p.175 footer states ©2025 authors, CC BY4.0",
+      "redistribution": "No scan or figure imported; candidate descriptions and short reading proposals retain CC BY4.0 source attribution",
+      "next_action": "Inspect figures and alternative 2025 edition; reconcile duplicate object labels, sign uncertainty and classification"
     }
   ],
   "scope": "Targeted edition access attempts; not exhaustive global availability search"

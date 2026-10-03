@@ -188,7 +188,9 @@
       "record_id": "sidetic:ediana:308",
       "review_page": "review/records/sidetic-ediana-308.md",
       "citations_verbatim": [],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "SID-S9-ABYDOS-COMPARISON"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
