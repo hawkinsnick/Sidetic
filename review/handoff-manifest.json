@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "a3626fe41e0f98eeeb3c87c1bac06c839b844fd8cc0d2f712c0bd33dd84f199f",
+  "evidence_fingerprint": "1473a244b811b31b55005036707f9d787994ff15dbf6cc262d416a68c2d9a566",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -20,15 +20,27 @@
     },
     {
       "path": "research/source-issues.json",
-      "sha256": "b8b8e61bc32ab74cdc62f3b8a9c4e8cfb3081a5d85455d6a4d2971137cb36767"
+      "sha256": "2fd2e11f36cb618fe9bf42d0b0ad742dc4009356e10d4e3e51ba6200586879ea"
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "cb9bfb38993e4993f111aaeb7a4424a9f765f4e4c4c464d32ec8882a639481b9"
+      "sha256": "53c7208d5bd5df3c0e9e8ab6068fbed3362d6d59712d7ba3f03e482e9fd107bb"
     },
     {
       "path": "research/source-access.json",
-      "sha256": "026d13453fdb2fb1df387f421e7776b5571cde42ee452ebc19b8446710324247"
+      "sha256": "5af7248f298a0a5322e699614aa08606f468317d76258e153327c8903c5a2f6b"
+    },
+    {
+      "path": "research/source-worklist.json",
+      "sha256": "a0766142bc4fb177a2ebefa4b5875beca41917fb079abf57afb26c772f1f6a7a"
+    },
+    {
+      "path": "research/publication-reconciliation.json",
+      "sha256": "a37d1c0abdf5fcf685e64d92a4a51a309e8763186cf6171f0e62e9757168dcec"
+    },
+    {
+      "path": "scripts/build_source_worklist.py",
+      "sha256": "b7cd2d2c53e4caa05b2c399ee683e58bf5fbf0cd80a3c45cac69376da0239b11"
     },
     {
       "path": "research/rights-evidence.json",
@@ -36,19 +48,19 @@
     },
     {
       "path": "DATA-LICENSE-MATRIX.md",
-      "sha256": "0ef333ce1272445875f78bdf058b078c0b619d41a8e30657af6a39759b652879"
+      "sha256": "228ffdac9014dfa9ea35bbf9995663e58f73cc4a157f919ba242c7b1455608e8"
     },
     {
       "path": "NOTICE",
-      "sha256": "315a04446052a85d18943faf38e5ee835c2ff17a388a0e623c6f9abc225bc087"
+      "sha256": "fa7635731c9998774050e953e9226b9f92c598a75a70e7f94eb05758ced48c51"
     },
     {
       "path": "project.json",
-      "sha256": "a98836aa31b309cba1b830fb69f9b06754454fbb17d9d4424088b2472ebdcde3"
+      "sha256": "940647b9de915687f90923c3bcd21ee3dbb7388e421ef0c8f28ee13f2d8b0cea"
     },
     {
       "path": "scripts/build_review.py",
-      "sha256": "737e1608b52d8506d01c8249663d56a6ab5330533b73f33040616f08b4fd67e5"
+      "sha256": "b966b4213d2cc699462dfbd55f126c7eba39db0e497cc9ce85607ac64083d6a3"
     },
     {
       "path": "scripts/validate_review.py",
@@ -56,7 +68,7 @@
     }
   ],
   "packet_count": 11,
-  "source_checked_records": 1,
+  "source_checked_records": 2,
   "independently_reviewed_records": 0,
   "admitted_records": 0,
   "handoff_status": "PREPARED_FOR_RECORD_LEVEL_REVIEW; SOURCE_ACQUISITION_AND_COLLATION_STILL_INCOMPLETE",

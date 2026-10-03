@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "publication_doi": "10.1515/kadmos-2025-0010",
+  "source_url": "https://www.researchgate.net/publication/396359585_Sidetic_graffiti_in_the_Memnonium_at_Abydos",
+  "inspection_scope": "Publisher-provided full article text exposed on ResearchGate; no local PDF acquired or visual figure adjudication claimed",
+  "expected_publication_entry_count": 2,
+  "project_admitted_objects": 0,
+  "source_rights": "CC-BY-4.0 stated in printed p.175 footer; source-derived candidate descriptions and reading proposals retain this attribution",
+  "entries": [
+    {
+      "publication_number": 1,
+      "candidate_id": "sidetic:phillips-rutherford-2025:graffito-1",
+      "locator": "printed pp.176–178, figs.1–3",
+      "inventory_source_assertion": "north wall of staircase, east end, by internal gateway",
+      "assertion_year": 2025,
+      "last_visibility_source_assertion": "September 2024, printed p.176",
+      "current_location_verified": false,
+      "candidate_record_ids": [],
+      "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; SAME_TWO_OBJECTS_SOURCE_ASSERTED_IN_TWO_PUBLICATIONS",
+      "basis": "Article identifies a separate Abydos graffito; no eDiAna record join asserted",
+      "attributed_reading": "poyaw(?)",
+      "reading_state": "AUTHOR_INTERPRETATION; NOT_PROJECT_VERIFIED",
+      "expert_questions": [
+        "Final sign N6/N22 alternative; apparent extra stroke cannot be deleted as a project certainty",
+        "Confirm wall identity and dated photographs; no current site visit by this project",
+        "Adjudicate final w versus Y/u and the explicitly retained possibility of overwriting; publication overlap is not an additional object"
+      ],
+      "canonical_admission": false,
+      "competing_readings": [
+        {
+          "source_doi": "10.1515/kadmos-2025-0010",
+          "reading": "poyaw(?)",
+          "locator": "printed pp.176–178"
+        },
+        {
+          "source_doi": "10.1515/kadmos-2025-0011",
+          "reading": "Pojau",
+          "locator": "printed pp.191–193, §2; figs.2–3 dated 4 December 2022",
+          "scope": "Attributed final-letter Y/u proposal; possible overwritten w/Y left open on p.193; typography not visually adjudicated"
+        }
+      ]
+    },
+    {
+      "publication_number": 2,
+      "candidate_id": "sidetic:phillips-rutherford-2025:graffito-2",
+      "locator": "printed pp.179–184, figs.4–6",
+      "inventory_source_assertion": "north side of corridor leading to staircase under the bull",
+      "assertion_year": 2025,
+      "last_visibility_source_assertion": "September 2024, printed p.176",
+      "current_location_verified": false,
+      "candidate_record_ids": [],
+      "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; SAME_TWO_OBJECTS_SOURCE_ASSERTED_IN_TWO_PUBLICATIONS",
+      "basis": "Article identifies a separate Abydos graffito; no eDiAna record join asserted",
+      "attributed_reading": "piytybeu",
+      "reading_state": "AUTHOR_INTERPRETATION; NOT_PROJECT_VERIFIED",
+      "expert_questions": [
+        "Second sign i/o alternative; incidental strokes, sign values and name segmentation require adjudication",
+        "Confirm wall identity and dated photographs; no current site visit by this project"
+      ],
+      "canonical_admission": false,
+      "alternative_edition_scope": "Alternative authors, printed p.190, defer to Phillips–Rutherford for the second graffito; not a second independent accepted reading"
+    }
+  ],
+  "possible_duplicate_publication_doi": "10.1515/kadmos-2025-0011",
+  "baseline_record_count_unchanged": 11,
+  "duplicate_publication_state": "SAME_TWO_GRAFFITI_EXPLICITLY_ASSERTED_BY_ALTERNATIVE_EDITION; PROJECT_OBJECT_IDENTITY_NOT_INDEPENDENTLY_VERIFIED",
+  "alternative_publication": {
+    "doi": "10.1515/kadmos-2025-0011",
+    "title": "Sidetic in Egypt",
+    "authors": [
+      "Gem Ferrer",
+      "Susana Soler",
+      "Ignasi-Xavier Adiego"
+    ],
+    "year": 2025,
+    "printed_pages": "189–193",
+    "source_url": "https://www.researchgate.net/publication/396360346_Sidetic_in_Egypt",
+    "inspection": "PUBLISHER_PROVIDED_FULL_ARTICLE_TEXT_INSPECTED; NO_LOCAL_PDF_OR_FIGURE_ADJUDICATION",
+    "same_object_assertion_locator": "printed p.190, independent submissions identify the same two graffiti",
+    "rights": "CC-BY-4.0, printed p.189 footer"
+  }
+}

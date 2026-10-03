@@ -5,7 +5,7 @@ Source label:  S11 (“S13”, S I.2.6)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `a41b438d3f95fc1c69b40363bc191e17176dbb804e6502ce6c85b7d5361693f8`
-Evidence fingerprint: `a3626fe41e0f98eeeb3c87c1bac06c839b844fd8cc0d2f712c0bd33dd84f199f`
+Evidence fingerprint: `1473a244b811b31b55005036707f9d787994ff15dbf6cc262d416a68c2d9a566`
 
 ## Captured source evidence
 

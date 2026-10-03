@@ -7,6 +7,52 @@
       "access_state": "PDF_INSPECTED",
       "sha256": "207f6dbab79fc6185ba4dacdc70e77245691cf2d5ab86c9c4436227e825bdeec",
       "redistribution": "PDF and figures not redistributed; attributed short proposal and locators only"
+    },
+    {
+      "source_url": "https://www.ledonline.it/index.php/Erga-Logoi/article/download/2063/1357",
+      "checked_on": "2026-10-03",
+      "access_state": "VALID_PDF_ACQUIRED_AND_TARGETED_PAGES_INSPECTED",
+      "attempt_result": "13-page publisher PDF; printed p.79 visually checked",
+      "source_sha256": "543023f13989dfb4f53b8183fa14b6bb68db584c95b6899dc63c38a34e2ce7ac",
+      "rights_evidence_url": "https://www.ledonline.it/index.php/Erga-Logoi/article/view/2063/1357",
+      "redistribution": "Publisher displays CC BY-NC-ND 4.0; no paper text, scan or figure redistributed. Short attributed findings and precise locators only."
+    },
+    {
+      "source_url": "https://www.researchgate.net/profile/Alfredo-Rizza/publication/249942452_A_New_Epigraphic_Document_with_Sidetic_Signs/links/60631852458515e8347ddcc7/A-New-Epigraphic-Document-with-Sidetic-Signs.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_ACQUIRED",
+      "attempt_result": "HTTP 403",
+      "next_action": "Locate an accessible authorized author or publisher copy"
+    },
+    {
+      "source_url": "https://brill.com/display/book/edcoll/9789004413122/BP000024.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_ACQUIRED",
+      "attempt_result": "HTTP 403; no authentication bypass attempted",
+      "next_action": "Locate an accessible authorized copy of Zinko–Zinko 2019"
+    },
+    {
+      "source_url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-2025-0010/pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_ACQUIRED",
+      "attempt_result": "Empty non-PDF response; publisher full text requires authentication",
+      "next_action": "Obtain the article through authorized library access or an accessible author deposit"
+    },
+    {
+      "source_url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-2025-0009/pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_ACQUIRED",
+      "attempt_result": "Empty non-PDF response",
+      "next_action": "Locate an accessible authorized copy"
+    },
+    {
+      "source_url": "https://www.researchgate.net/publication/396359585_Sidetic_graffiti_in_the_Memnonium_at_Abydos",
+      "checked_on": "2026-10-03",
+      "access_state": "PUBLISHER_PROVIDED_FULL_ARTICLE_TEXT_INSPECTED_VIA_WEB; LOCAL_PDF_NOT_ACQUIRED",
+      "attempt_result": "Public ResearchGate page exposes the complete publisher article; direct PDF route did not yield a local copy",
+      "rights_evidence_locator": "printed p.175 footer states ©2025 authors, CC BY4.0",
+      "redistribution": "No scan or figure imported; candidate descriptions and short reading proposals retain CC BY4.0 source attribution",
+      "next_action": "Inspect figures and alternative 2025 edition; reconcile duplicate object labels, sign uncertainty and classification"
     }
   ],
   "scope": "Targeted edition access attempts; not exhaustive global availability search"

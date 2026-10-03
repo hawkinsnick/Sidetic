@@ -11,3 +11,7 @@
 | Independent editions/images | Source-specific; not included | No rights inferred from eDiAna |
 
 Public-domain material remains public domain. Source titles, attribution and factual identifiers do not acquire exclusive ownership through inclusion here. See NOTICE and research/rights-evidence.json.
+
+`research/source-worklist.json` preserves eDiAna citation strings and record identifiers: these derived portions retain CC BY-SA 4.0. Original work instructions do not remove the upstream attribution requirement. Linked publication scans and figures are not included and retain their own rights.
+
+The source-derived descriptions and attributed readings in `research/publication-reconciliation.json` from Phillips–Rutherford (2025), DOI10.1515/kadmos-2025-0010, retain **CC BY4.0** as stated in the article’s p.175 footer. Project noncommercial terms do not restrict those portions. No paper scan or figure is included. eDiAna S9 evidence remains separately CC BY-SA4.0.
