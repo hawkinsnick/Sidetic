@@ -86,6 +86,26 @@
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
       "required": true
+    },
+    {
+      "role": "source-checks",
+      "path": "research/source-checks.json",
+      "required": true
+    },
+    {
+      "role": "source-access",
+      "path": "research/source-access.json",
+      "required": true
+    },
+    {
+      "role": "packets",
+      "path": "review/packets.json",
+      "required": true
+    },
+    {
+      "role": "handoff-manifest",
+      "path": "review/handoff-manifest.json",
+      "required": true
     }
   ],
   "behavioral_gates": [

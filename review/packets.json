@@ -1,0 +1,355 @@
+[
+  {
+    "record_id": "sidetic:ediana:300",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "fa6fa3b7af3f65b750acdc79c294fab65035745eb94cd1766df8f800884d8141",
+    "source_catalog_label": " S1 (S.I.1.1)",
+    "source_headings": [
+      "· S1 (S.I.1.1)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S1 (S.I.1.1)/1",
+      "/ S1 (S.I.1.1)/2"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:309",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "9fc66fca075e98e6fcb08765d8d68f8a4fe0c449982a83e770ca7803af163490",
+    "source_catalog_label": " S10 (S III)",
+    "source_headings": [
+      "· S10 (S III)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S10 (S III)/1"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:310",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "a41b438d3f95fc1c69b40363bc191e17176dbb804e6502ce6c85b7d5361693f8",
+    "source_catalog_label": " S11 (“S13”, S I.2.6)",
+    "source_headings": [
+      "· S11 (“S13”, S I.2.6)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S11 (“S13”, S I.2.6)/1",
+      "/ S11 (“S13”, S I.2.6)/2"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:301",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "aeaade2d9c5012a9cfe2fa70ca26d7cf4b028a8de5767d3daa6c985782241a4d",
+    "source_catalog_label": " S2 (S.I.1.2)",
+    "source_headings": [
+      "· S2 (S.I.1.2)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S2 (S.I.1.2)/1"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:302",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "1440a498f09c01d175923c6e36b3ed27bd12ff17e5e38608911beaed93f0bc6d",
+    "source_catalog_label": " S3 (S.I.2.1) (scriptio continua)",
+    "source_headings": [
+      "· S3 (S.I.2.1) (scriptio continua)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S3 (S.I.2.1) (scriptio continua)/1",
+      "/ S3 (S.I.2.1) (scriptio continua)/2",
+      "/ S3 (S.I.2.1) (scriptio continua)/3",
+      "/ S3 (S.I.2.1) (scriptio continua)/4"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:303",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "ea8d9261ea01e2efe5db2774463e2e6e9f1cc182664dca9b2a6427eb6c4dc9b6",
+    "source_catalog_label": " S4 (S.I.2.2) (scriptio continua)",
+    "source_headings": [
+      "· S4 (S.I.2.2) (scriptio continua)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S4 (S.I.2.2) (scriptio continua)/1",
+      "/ S4 (S.I.2.2) (scriptio continua)/2",
+      "/ S4 (S.I.2.2) (scriptio continua)/3",
+      "/ S4 (S.I.2.2) (scriptio continua)/4",
+      "/ S4 (S.I.2.2) (scriptio continua)/5",
+      "/ S4 (S.I.2.2) (scriptio continua)/6"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:304",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "5ed20ed5cfebf75262ec0f7eb2d6f5229f8fe79eb1ac24c18e3f37594f34840d",
+    "source_catalog_label": " S5 (S II.1.1) (scriptio continua)",
+    "source_headings": [
+      "· S5 (S II.1.1) (scriptio continua)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S5 (S II.1.1) (scriptio continua)/1",
+      "/ S5 (S II.1.1) (scriptio continua)/2"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:305",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "c83b967825fb90999d45c6d161555e744f421c07868b9ba031283d06edd970c7",
+    "source_catalog_label": " S6 (S I.1.3) (scriptio continua)",
+    "source_headings": [
+      "· S6 (S I.1.3) (scriptio continua)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S6 (S I.1.3) (scriptio continua)/1",
+      "/ S6 (S I.1.3) (scriptio continua)/2"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [
+      "SID-EUEMPOLOS-2025"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:306",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "2beeda2cc80d794c3127a77d9a0eae84e940bf73f1ea62ac9dd4ac243598faf4",
+    "source_catalog_label": " S7 (S I.2.3) (scriptio continua)",
+    "source_headings": [
+      "· S7 (S I.2.3) (scriptio continua)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S7 (S I.2.3) (scriptio continua)/1"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:307",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "29155e0cec5daee00e32829d5c1bc3eb976a2da3edd00f265db2b1d602dd06ef",
+    "source_catalog_label": " S8 (S I.2.4) (scriptio continua)",
+    "source_headings": [
+      "· S8 (S I.2.4) (scriptio continua)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S8 (S I.2.4) (scriptio continua)/1",
+      "/ S8 (S I.2.4) (scriptio continua)/2",
+      "/ S8 (S I.2.4) (scriptio continua)/3"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  },
+  {
+    "record_id": "sidetic:ediana:308",
+    "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+    "record_sha256": "9b352ee33dbe148c96ff2a524415748ce0fa7c3949680e6e9d62cb6bf83ae37c",
+    "source_catalog_label": " S9 (S I.2.5) (scriptio continua)",
+    "source_headings": [
+      "· S9 (S I.2.5) (scriptio continua)"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_row_pointers": [
+      "/ S9 (S I.2.5) (scriptio continua)/1",
+      "/ S9 (S I.2.5) (scriptio continua)/2",
+      "/ S9 (S I.2.5) (scriptio continua)/3",
+      "/ S9 (S I.2.5) (scriptio continua)/4",
+      "/ S9 (S I.2.5) (scriptio continua)/5",
+      "/ S9 (S I.2.5) (scriptio continua)/6",
+      "/ S9 (S I.2.5) (scriptio continua)/7",
+      "/ S9 (S I.2.5) (scriptio continua)/8"
+    ],
+    "edition_citations_verbatim": [],
+    "source_checks": [],
+    "priority": "EDITION_LOCATOR_MISSING",
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "review_dimensions": [
+      "object_identity",
+      "edition_reading",
+      "uncertainty",
+      "classification",
+      "redistribution_rights"
+    ],
+    "review_status": "NOT_REVIEWED"
+  }
+]

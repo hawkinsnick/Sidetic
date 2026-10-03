@@ -7,11 +7,15 @@
     "uncertainty syntax audit",
     "edition dependency ledger",
     "rights separation",
-    "AI evidence fingerprints"
+    "AI evidence fingerprints",
+    "source-bound review packets",
+    "validated expert decision intake without automatic admission"
   ],
   "remaining_machine_work": [
     "Acquire additional rights-clear primary editions",
-    "Expand record-specific locator reconciliation against inspected editions"
+    "Expand record-specific locator reconciliation against inspected editions",
+    "Continue systematic primary-edition acquisition and record-by-record collation",
+    "Reconcile later publication leads against the frozen inventory"
   ],
   "human_only_boundaries": [
     "object identity adjudication",

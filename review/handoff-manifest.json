@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "evidence_fingerprint": "ed7bc46dbd69426fe7a80a5b0d00eb4f7942319ce157bc204d47f6ffabdf427a",
+  "input_fingerprints": [
+    {
+      "path": "data/reference/records.json",
+      "sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde"
+    },
+    {
+      "path": "analysis/record-admission.json",
+      "sha256": "ddb3b9a08776455ea7722d2e55eb030790329a6bdefcf008ceeb78b39f3a7775"
+    },
+    {
+      "path": "research/edition-dependencies.json",
+      "sha256": "8789ea8860e7f6a3af95bd3d7994b50373c52d578d500c8c50afe5ffbfb4e3c4"
+    },
+    {
+      "path": "research/admission-policy.json",
+      "sha256": "175399b744d600673163ec4350b272dc10a54f2246f9e26f9bdb1a7857afc1d0"
+    },
+    {
+      "path": "research/source-issues.json",
+      "sha256": "b8b8e61bc32ab74cdc62f3b8a9c4e8cfb3081a5d85455d6a4d2971137cb36767"
+    },
+    {
+      "path": "research/source-checks.json",
+      "sha256": "cb9bfb38993e4993f111aaeb7a4424a9f765f4e4c4c464d32ec8882a639481b9"
+    },
+    {
+      "path": "research/source-access.json",
+      "sha256": "026d13453fdb2fb1df387f421e7776b5571cde42ee452ebc19b8446710324247"
+    }
+  ],
+  "packet_count": 11,
+  "source_checked_records": 1,
+  "independently_reviewed_records": 0,
+  "admitted_records": 0,
+  "handoff_status": "PREPARED_FOR_RECORD_LEVEL_REVIEW; SOURCE_ACQUISITION_AND_COLLATION_STILL_INCOMPLETE",
+  "review_is_not_automatic_admission": true
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "attempts": [
+    {
+      "source_url": "https://dergipark.org.tr/en/download/article-file/4541307",
+      "checked_on": "2026-10-03",
+      "access_state": "PDF_INSPECTED",
+      "sha256": "207f6dbab79fc6185ba4dacdc70e77245691cf2d5ab86c9c4436227e825bdeec",
+      "redistribution": "PDF and figures not redistributed; attributed short proposal and locators only"
+    }
+  ],
+  "scope": "Targeted edition access attempts; not exhaustive global availability search"
+}

@@ -14,6 +14,11 @@
       "date": "2026-10-03",
       "version": "0.2.0",
       "change": "Added governance controls without replacing source readings or admitting objects"
+    },
+    {
+      "date": "2026-10-03",
+      "version": "0.3.0",
+      "change": "Added targeted source inspection packets and version-bound expert decision workflow; no source reading replacement or human review claimed"
     }
   ]
 }
