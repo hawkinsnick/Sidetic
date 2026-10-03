@@ -1,0 +1,19 @@
+{
+  "captured_on": "2026-10-03",
+  "catalog_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+  "full_catalog_page_sha256": "af008c0689726e877f68cae61da4ea59763dc37f447ec17f09e0cd2a23f3fa1f",
+  "full_catalog_page_bytes": 168505,
+  "retained_catalog_scope": "Only selected-language span elements; full webpage is not included",
+  "response_url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+  "request_method": "POST",
+  "request_content_type": "application/x-www-form-urlencoded",
+  "request_fields": {
+    "searchterms": "{}",
+    "corpus_text": "true",
+    "language": "sidetic",
+    "docids": "300,309,310,301,302,303,304,305,306,307,308"
+  },
+  "raw_response_sha256": "1f5ddd790a2d53294c30c75fd8b487d4c1f06f686e4691d3b1991d9cff9ecb1b",
+  "replay": "python scripts/build_reference.py --write reconstructs the reference layer from the pinned local catalog and JSON response",
+  "live_refresh_caution": "A repeat network request may return a different source revision. Acquire separately, compare provenance and readings, then review before replacing a snapshot."
+}
