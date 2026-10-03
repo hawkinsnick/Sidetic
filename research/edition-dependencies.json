@@ -1,0 +1,145 @@
+[
+  {
+    "record_id": "sidetic:ediana:300",
+    "source_document_id": "300",
+    "catalog_label": " S1 (S.I.1.1)",
+    "source_headings": [
+      "· S1 (S.I.1.1)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:309",
+    "source_document_id": "309",
+    "catalog_label": " S10 (S III)",
+    "source_headings": [
+      "· S10 (S III)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:310",
+    "source_document_id": "310",
+    "catalog_label": " S11 (“S13”, S I.2.6)",
+    "source_headings": [
+      "· S11 (“S13”, S I.2.6)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:301",
+    "source_document_id": "301",
+    "catalog_label": " S2 (S.I.1.2)",
+    "source_headings": [
+      "· S2 (S.I.1.2)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:302",
+    "source_document_id": "302",
+    "catalog_label": " S3 (S.I.2.1) (scriptio continua)",
+    "source_headings": [
+      "· S3 (S.I.2.1) (scriptio continua)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:303",
+    "source_document_id": "303",
+    "catalog_label": " S4 (S.I.2.2) (scriptio continua)",
+    "source_headings": [
+      "· S4 (S.I.2.2) (scriptio continua)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:304",
+    "source_document_id": "304",
+    "catalog_label": " S5 (S II.1.1) (scriptio continua)",
+    "source_headings": [
+      "· S5 (S II.1.1) (scriptio continua)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:305",
+    "source_document_id": "305",
+    "catalog_label": " S6 (S I.1.3) (scriptio continua)",
+    "source_headings": [
+      "· S6 (S I.1.3) (scriptio continua)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:306",
+    "source_document_id": "306",
+    "catalog_label": " S7 (S I.2.3) (scriptio continua)",
+    "source_headings": [
+      "· S7 (S I.2.3) (scriptio continua)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:307",
+    "source_document_id": "307",
+    "catalog_label": " S8 (S I.2.4) (scriptio continua)",
+    "source_headings": [
+      "· S8 (S I.2.4) (scriptio continua)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "sidetic:ediana:308",
+    "source_document_id": "308",
+    "catalog_label": " S9 (S I.2.5) (scriptio continua)",
+    "source_headings": [
+      "· S9 (S I.2.5) (scriptio continua)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  }
+]
