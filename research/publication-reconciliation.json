@@ -78,5 +78,185 @@
     "inspection": "PUBLISHER_PROVIDED_FULL_ARTICLE_TEXT_INSPECTED; NO_LOCAL_PDF_OR_FIGURE_ADJUDICATION",
     "same_object_assertion_locator": "printed p.190, independent submissions identify the same two graffiti",
     "rights": "CC-BY-4.0, printed p.189 footer"
-  }
+  },
+  "additional_publications": [
+    {
+      "publication_doi": "10.1515/kadmos-2025-0008",
+      "title": "Neue Inschriften aus Side – Überblick zu den Neufunden zwischen2020–2023",
+      "authors": [
+        "Alfredo Rizza",
+        "Michaela Zinko"
+      ],
+      "year": 2025,
+      "printed_pages": "117–147; index metadata lists117–148",
+      "source_url": "https://www.researchgate.net/publication/396360294_Neue_Inschriften_aus_Side_-_Uberblick_zu_den_Neufunden_zwischen_2020-2023",
+      "inspection_scope": "Publisher-provided article text inspected via web; local PDF and figure adjudication unavailable; authors report museum examination in October2023 and October2024, not project examination",
+      "source_rights": "CC-BY-4.0 stated in printed p.117 footer",
+      "expected_publication_entry_count": 7,
+      "project_admitted_objects": 0,
+      "entries": [
+        {
+          "publication_number": 1,
+          "candidate_id": "sidetic:rizza-zinko-2025:newfind-1",
+          "source_object_label": "S I.1.4",
+          "object_description": "Quasi-bilingual stone",
+          "source_discovery_year": 2021,
+          "locator": "printed pp.119–122, §3.1, figs.1–3",
+          "inventory_source_assertion": "Museum of Side; inventory identifier not established here",
+          "assertion_year": 2025,
+          "current_location_verified": false,
+          "candidate_record_ids": [],
+          "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; CROSS_PUBLICATION_IDENTITY_PENDING",
+          "basis": "14 Greek rows and11 incomplete Sidetic rows; sections are not asserted to be direct translations",
+          "source_language_assertion": "GREEK_AND_SIDETIC",
+          "source_surviving_row_count": 11,
+          "row_count_scope": "Publication layout assertion, not a count of new accepted records or project-verified readings",
+          "canonical_admission": false,
+          "expert_questions": [
+            "Confirm inventory and photograph identity",
+            "Compare original figures and overlapping editions before counting objects",
+            "Adjudicate reading, uncertainty, classification and rights separately"
+          ]
+        },
+        {
+          "publication_number": 2,
+          "candidate_id": "sidetic:rizza-zinko-2025:newfind-2",
+          "source_object_label": "S I.2.7",
+          "object_description": "Decree stone",
+          "source_discovery_year": 2020,
+          "locator": "printed pp.122–128, §3.2, figs.4–10",
+          "inventory_source_assertion": "Museum of Side; inventory identifier not established here",
+          "assertion_year": 2025,
+          "current_location_verified": false,
+          "candidate_record_ids": [],
+          "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; CROSS_PUBLICATION_IDENTITY_PENDING",
+          "basis": "26 surviving rows; reused block west of Byzantine basilica; damaged row beginnings",
+          "source_language_assertion": "SIDETIC",
+          "source_surviving_row_count": 26,
+          "row_count_scope": "Publication layout assertion, not a count of new accepted records or project-verified readings",
+          "canonical_admission": false,
+          "expert_questions": [
+            "Confirm inventory and photograph identity",
+            "Compare original figures and overlapping editions before counting objects",
+            "Adjudicate reading, uncertainty, classification and rights separately"
+          ]
+        },
+        {
+          "publication_number": 3,
+          "candidate_id": "sidetic:rizza-zinko-2025:newfind-3",
+          "source_object_label": "S I.2.8",
+          "object_description": "Inscription fragment",
+          "source_discovery_year": 2022,
+          "locator": "printed pp.128–129, §3.3, figs.11–12",
+          "inventory_source_assertion": "Museum of Side; inventory identifier not established here",
+          "assertion_year": 2025,
+          "current_location_verified": false,
+          "candidate_record_ids": [],
+          "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; CROSS_PUBLICATION_IDENTITY_PENDING",
+          "basis": "11 recognizable rows; severely damaged fragment near excavation house",
+          "source_language_assertion": "SIDETIC",
+          "source_surviving_row_count": 11,
+          "row_count_scope": "Publication layout assertion, not a count of new accepted records or project-verified readings",
+          "canonical_admission": false,
+          "expert_questions": [
+            "Confirm inventory and photograph identity",
+            "Compare original figures and overlapping editions before counting objects",
+            "Adjudicate reading, uncertainty, classification and rights separately"
+          ]
+        },
+        {
+          "publication_number": 4,
+          "candidate_id": "sidetic:rizza-zinko-2025:newfind-4",
+          "source_object_label": "S I.2.9",
+          "object_description": "Name stele",
+          "source_discovery_year": 2023,
+          "locator": "printed pp.129–132, §3.4, figs.13–22",
+          "inventory_source_assertion": "Museum of Side; inventory identifier not established here",
+          "assertion_year": 2025,
+          "current_location_verified": false,
+          "candidate_record_ids": [],
+          "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; CROSS_PUBLICATION_IDENTITY_PENDING",
+          "basis": "40 surviving rows; top, bottom and right edge incomplete; row count begins at first legible row",
+          "source_language_assertion": "SIDETIC",
+          "source_surviving_row_count": 40,
+          "row_count_scope": "Publication layout assertion, not a count of new accepted records or project-verified readings",
+          "canonical_admission": false,
+          "expert_questions": [
+            "Confirm inventory and photograph identity",
+            "Compare original figures and overlapping editions before counting objects",
+            "Adjudicate reading, uncertainty, classification and rights separately"
+          ]
+        },
+        {
+          "publication_number": 5,
+          "candidate_id": "sidetic:rizza-zinko-2025:newfind-5",
+          "source_object_label": "S II.1.2",
+          "object_description": "Bronze voting tablet",
+          "source_discovery_year": 2020,
+          "locator": "printed p.133, §3.5.1, fig.23; n.19",
+          "inventory_source_assertion": "Museum of Side; inventory identifier not established here",
+          "assertion_year": 2025,
+          "current_location_verified": false,
+          "candidate_record_ids": [],
+          "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; CROSS_PUBLICATION_IDENTITY_PENDING",
+          "basis": "Three rows; overlapping Tekoğlu2024 publication explicitly noted; compare Ferrer2025 S14",
+          "source_language_assertion": "SIDETIC",
+          "source_surviving_row_count": 3,
+          "row_count_scope": "Publication layout assertion, not a count of new accepted records or project-verified readings",
+          "canonical_admission": false,
+          "expert_questions": [
+            "Confirm inventory and photograph identity",
+            "Compare original figures and overlapping editions before counting objects",
+            "Adjudicate reading, uncertainty, classification and rights separately"
+          ]
+        },
+        {
+          "publication_number": 6,
+          "candidate_id": "sidetic:rizza-zinko-2025:newfind-6",
+          "source_object_label": "S II.1.3",
+          "object_description": "Bronze voting tablet",
+          "source_discovery_year": 2021,
+          "locator": "printed pp.133–134, §3.5.2, fig.24",
+          "inventory_source_assertion": "Museum of Side; inventory identifier not established here",
+          "assertion_year": 2025,
+          "current_location_verified": false,
+          "candidate_record_ids": [],
+          "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; CROSS_PUBLICATION_IDENTITY_PENDING",
+          "basis": "Three rows with broken left edge and incomplete names; do not treat restorations as visible signs",
+          "source_language_assertion": "SIDETIC",
+          "source_surviving_row_count": 3,
+          "row_count_scope": "Publication layout assertion, not a count of new accepted records or project-verified readings",
+          "canonical_admission": false,
+          "expert_questions": [
+            "Confirm inventory and photograph identity",
+            "Compare original figures and overlapping editions before counting objects",
+            "Adjudicate reading, uncertainty, classification and rights separately"
+          ]
+        },
+        {
+          "publication_number": 7,
+          "candidate_id": "sidetic:rizza-zinko-2025:newfind-7",
+          "source_object_label": "Greek tablet",
+          "object_description": "Greek bronze voting tablet",
+          "source_discovery_year": null,
+          "locator": "printed p.135, §3.5.3, fig.26; n.23",
+          "inventory_source_assertion": "Museum of Side; inventory identifier not established here",
+          "assertion_year": 2025,
+          "current_location_verified": false,
+          "candidate_record_ids": [],
+          "concordance_state": "OUTSIDE_FROZEN_SNAPSHOT; CROSS_PUBLICATION_IDENTITY_PENDING",
+          "basis": "Three Greek rows in a Sidetic civic context; overlaps Tekoğlu2024 pp.504,508",
+          "source_language_assertion": "GREEK",
+          "source_surviving_row_count": 3,
+          "row_count_scope": "Publication layout assertion, not a count of new accepted records or project-verified readings",
+          "canonical_admission": false,
+          "expert_questions": [
+            "Confirm inventory and photograph identity",
+            "Compare original figures and overlapping editions before counting objects",
+            "Adjudicate reading, uncertainty, classification and rights separately"
+          ]
+        }
+      ]
+    }
+  ]
 }

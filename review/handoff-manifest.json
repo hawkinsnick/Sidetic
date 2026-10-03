@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "1473a244b811b31b55005036707f9d787994ff15dbf6cc262d416a68c2d9a566",
+  "evidence_fingerprint": "eef5ba8218346a02b90c5ae3b1e3b8df410b0838046ffc670aebdec76aeeeba4",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -24,23 +24,23 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "53c7208d5bd5df3c0e9e8ab6068fbed3362d6d59712d7ba3f03e482e9fd107bb"
+      "sha256": "720516aee69f29eb1bc73d94e732cdef0a76dd0465a9f69e2e1308306646a52d"
     },
     {
       "path": "research/source-access.json",
-      "sha256": "5af7248f298a0a5322e699614aa08606f468317d76258e153327c8903c5a2f6b"
+      "sha256": "8d864fda03fc023294f14b167cf56e18fa47e3c3a732e4beafa50f1bb69a85d9"
     },
     {
       "path": "research/source-worklist.json",
-      "sha256": "a0766142bc4fb177a2ebefa4b5875beca41917fb079abf57afb26c772f1f6a7a"
+      "sha256": "79eb737c1d67db89a12d03fc5fb20623cd55ce117446662d0a619960e856f95a"
     },
     {
       "path": "research/publication-reconciliation.json",
-      "sha256": "a37d1c0abdf5fcf685e64d92a4a51a309e8763186cf6171f0e62e9757168dcec"
+      "sha256": "6a1df4a476c7b5d9aeaed85205283912f86646700f2b1f13b61ed676e63de022"
     },
     {
       "path": "scripts/build_source_worklist.py",
-      "sha256": "b7cd2d2c53e4caa05b2c399ee683e58bf5fbf0cd80a3c45cac69376da0239b11"
+      "sha256": "da6426ed358e176f08d43ba1acf5bdda651030c3df567c2d5dfda138a7211137"
     },
     {
       "path": "research/rights-evidence.json",
@@ -48,11 +48,11 @@
     },
     {
       "path": "DATA-LICENSE-MATRIX.md",
-      "sha256": "228ffdac9014dfa9ea35bbf9995663e58f73cc4a157f919ba242c7b1455608e8"
+      "sha256": "6d140b300c53b2768777acdfb9c41c903f5bdfda7cfc971f87bdef8dabca99b0"
     },
     {
       "path": "NOTICE",
-      "sha256": "fa7635731c9998774050e953e9226b9f92c598a75a70e7f94eb05758ced48c51"
+      "sha256": "2f0abb6b20b4340562a0b079a34c757660f0277634d9ed5115d23bea9720c757"
     },
     {
       "path": "project.json",
