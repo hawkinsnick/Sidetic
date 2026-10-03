@@ -35,6 +35,41 @@
         "Assess the damaged second sign and remaining underdotted signs from adequate images",
         "Confirm object identity and locate the stone using current inventory evidence"
       ]
+    },
+    {
+      "check_id": "SID-S6-GREEK-2020",
+      "record_ids": [
+        "sidetic:ediana:305"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; TARGETED_READING_OR_DRAWING_PAGE_VISUALLY_CHECKED; NOT_FULL_COLLATION",
+      "source_url": "https://www.ledonline.it/index.php/Erga-Logoi/article/download/2063/1357",
+      "source_sha256": "543023f13989dfb4f53b8183fa14b6bb68db584c95b6899dc63c38a34e2ce7ac",
+      "locators": [
+        "printed pp.77–78 (PDF pages 3–4), S6 bilingual identification and earlier editions",
+        "printed p.79 (PDF page 5), proposed Greek ethnic reading",
+        "printed p.78 nn.6–8, SEG and Brixhe–Neumann 1988 p.37 references"
+      ],
+      "finding": "The study disputes the first vowel of the Greek ethnic, proposing Y in place of E with uncertainty retained. This is separate from Ferrer 2025’s Sidetic dedicator-name proposal. Its 2020 Antalya museum statement is a dated source assertion, not a confirmed present location.",
+      "canonical_change": false,
+      "bibliography": {
+        "authors": [
+          "Adalberto Magnelli",
+          "Giuseppe Petrantoni"
+        ],
+        "year": 2020,
+        "title": "La dedica in greco e sidetico di Seleucia (S6): un caso di diglossia?",
+        "journal": "Erga-Logoi",
+        "volume": "8",
+        "issue": "2",
+        "pages": "77–87",
+        "doi": "10.7358/erga-2020-002-mape"
+      },
+      "independence": "Reassessment of earlier published evidence; not independent object examination by this project",
+      "expert_questions": [
+        "Compare the Greek E/Y dispute separately from the damaged Sidetic name",
+        "Inspect Brixhe–Neumann 1988 p.37 directly; a citation in 2020 does not establish direct acquisition",
+        "Verify present location and inventory"
+      ]
     }
   ],
   "source_check_is_not_independent_review": true

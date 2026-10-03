@@ -13,3 +13,7 @@ Technical validation: `python scripts/validate_review.py your-review.json`. It c
 Open a GitHub pull request with your review and supporting locators. Avoid uploading images or publications without permission. No outreach has been sent on your behalf.
 
 Source acquisition and collation are still incomplete. `research/source-access.json` records targeted attempts; `research/pre-expert-maximum.json` lists remaining machine work. The review packets are usable now and can be regenerated as evidence improves.
+
+## Work remaining before adjudication
+
+The [source worklist](../research/source-worklist.json) lists every captured citation and every record, including records with no attached edition reference. It links targeted checks without treating them as completed collation. The [access log](../research/source-access.json) distinguishes usable scans from blocked downloads. Readings, current museum locations and language assignments remain pending expert assessment.

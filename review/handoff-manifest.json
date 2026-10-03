@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "a3626fe41e0f98eeeb3c87c1bac06c839b844fd8cc0d2f712c0bd33dd84f199f",
+  "evidence_fingerprint": "4d8b32779ac8b22ac6dceafd15190c476505be6d16e6fb2f1faccf1fe83b4e46",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -20,15 +20,23 @@
     },
     {
       "path": "research/source-issues.json",
-      "sha256": "b8b8e61bc32ab74cdc62f3b8a9c4e8cfb3081a5d85455d6a4d2971137cb36767"
+      "sha256": "2fd2e11f36cb618fe9bf42d0b0ad742dc4009356e10d4e3e51ba6200586879ea"
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "cb9bfb38993e4993f111aaeb7a4424a9f765f4e4c4c464d32ec8882a639481b9"
+      "sha256": "f8f89cebf519cef728e086896b66361574c7db741fa0945136533e4bab00377a"
     },
     {
       "path": "research/source-access.json",
-      "sha256": "026d13453fdb2fb1df387f421e7776b5571cde42ee452ebc19b8446710324247"
+      "sha256": "423d86c7f46775e687f77b8f8b867d43131e62224b26e554ee0f68f625b02e76"
+    },
+    {
+      "path": "research/source-worklist.json",
+      "sha256": "7c47ae7e20ac687fea110ae0fd5222cc5501618809e85dc7938dffec79de262b"
+    },
+    {
+      "path": "scripts/build_source_worklist.py",
+      "sha256": "3e74e105874d4fb1fc39ec92d5cf3021a8b70574c5be6c007ed9277488353935"
     },
     {
       "path": "research/rights-evidence.json",
@@ -36,7 +44,7 @@
     },
     {
       "path": "DATA-LICENSE-MATRIX.md",
-      "sha256": "0ef333ce1272445875f78bdf058b078c0b619d41a8e30657af6a39759b652879"
+      "sha256": "62a6e8d32c479447c551c849832211b967d8fe8df95918282289a36cacba7685"
     },
     {
       "path": "NOTICE",
@@ -44,11 +52,11 @@
     },
     {
       "path": "project.json",
-      "sha256": "a98836aa31b309cba1b830fb69f9b06754454fbb17d9d4424088b2472ebdcde3"
+      "sha256": "940647b9de915687f90923c3bcd21ee3dbb7388e421ef0c8f28ee13f2d8b0cea"
     },
     {
       "path": "scripts/build_review.py",
-      "sha256": "737e1608b52d8506d01c8249663d56a6ab5330533b73f33040616f08b4fd67e5"
+      "sha256": "665a2799830a84578c2568ddb7ecf8e20e745f66a5c1632ef50928ffca4e8265"
     },
     {
       "path": "scripts/validate_review.py",

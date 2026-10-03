@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "scope": "Frozen digital snapshot; not a language-wide inventory or completeness claim",
+  "record_count": 11,
+  "distinct_citation_count": 0,
+  "records_without_captured_citations": [
+    "sidetic:ediana:300",
+    "sidetic:ediana:309",
+    "sidetic:ediana:310",
+    "sidetic:ediana:301",
+    "sidetic:ediana:302",
+    "sidetic:ediana:303",
+    "sidetic:ediana:304",
+    "sidetic:ediana:305",
+    "sidetic:ediana:306",
+    "sidetic:ediana:307",
+    "sidetic:ediana:308"
+  ],
+  "bibliographic_candidates_path": "data/upstream/ediana/bibliography.json",
+  "access_log_path": "research/source-access.json",
+  "new_publication_leads_path": "research/source-frontier.json",
+  "citation_dependencies": [],
+  "record_work": [
+    {
+      "record_id": "sidetic:ediana:300",
+      "review_page": "review/records/sidetic-ediana-300.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:309",
+      "review_page": "review/records/sidetic-ediana-309.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:310",
+      "review_page": "review/records/sidetic-ediana-310.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:301",
+      "review_page": "review/records/sidetic-ediana-301.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:302",
+      "review_page": "review/records/sidetic-ediana-302.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:303",
+      "review_page": "review/records/sidetic-ediana-303.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:304",
+      "review_page": "review/records/sidetic-ediana-304.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:305",
+      "review_page": "review/records/sidetic-ediana-305.md",
+      "citations_verbatim": [],
+      "source_check_ids": [
+        "SID-EUEMPOLOS-2025",
+        "SID-S6-GREEK-2020"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:306",
+      "review_page": "review/records/sidetic-ediana-306.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:307",
+      "review_page": "review/records/sidetic-ediana-307.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "sidetic:ediana:308",
+      "review_page": "review/records/sidetic-ediana-308.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    }
+  ]
+}

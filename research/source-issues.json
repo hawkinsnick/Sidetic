@@ -19,6 +19,11 @@
       "date": "2026-10-03",
       "version": "0.3.0",
       "change": "Added targeted source inspection packets and version-bound expert decision workflow; no source reading replacement or human review claimed"
+    },
+    {
+      "date": "2026-10-03",
+      "version": "0.4.0",
+      "change": "Added directly acquired editions, targeted comparison findings and full frozen-record source worklist; canonical transcriptions and admission gates unchanged"
     }
   ]
 }

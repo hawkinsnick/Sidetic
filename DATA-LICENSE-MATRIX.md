@@ -11,3 +11,5 @@
 | Independent editions/images | Source-specific; not included | No rights inferred from eDiAna |
 
 Public-domain material remains public domain. Source titles, attribution and factual identifiers do not acquire exclusive ownership through inclusion here. See NOTICE and research/rights-evidence.json.
+
+`research/source-worklist.json` preserves eDiAna citation strings and record identifiers: these derived portions retain CC BY-SA 4.0. Original work instructions do not remove the upstream attribution requirement. Linked publication scans and figures are not included and retain their own rights.
