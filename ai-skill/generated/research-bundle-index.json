@@ -2,7 +2,7 @@
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
   "source_commit": "a14139ae8a20b0b0756ccffefc554be9683267e5",
-  "evidence_fingerprint_sha256": "2fe4d98b0491cc097aeac82bd72644ff3ae660cf6a4707a09d39ef518e2c3a04",
+  "evidence_fingerprint_sha256": "0c2fd682ba566319c5fd2b626fe1f1312c7e99a4b72767b2e99771184cc65017",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -146,13 +146,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "9db8c5e8a27d374217ef55803eff29b4df5f7e2714f9639b1b0e2b64946ccc59",
-      "bytes": 23358
+      "sha256": "989941a146ce7ab17288a83e77bc0f9d79dd13fa8b1110d53fbb3c2465e6386b",
+      "bytes": 25630
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "d44a66390024442e0c0892167c764b0895f9c539b0f849623d538dd89ec90acb",
+      "sha256": "18725ca3c99f4876cc683e4c96a954120cb19c92e499e20d55caaa0f5e077c5c",
       "bytes": 1928
     },
     {

@@ -13,7 +13,7 @@ QUESTIONS={
  'language_or_script_classification':'Attribute membership and classification to named authorities; preserve disagreement.',
  'source_independence':'Identify shared editorial and photographic lineage; a derivative is not an independent witness.',
  'reuse_rights':'Check the applicable license or permission for each component; project terms do not override upstream rights.'}
-LEAD_KEYS={'citation','citations','references','bibliography','source_url','url','doi','source_leads','locators','source_ids','edition','edition_locator','source_ref','source_refs'}
+LEAD_KEYS={'source_id','reference','title','work','basic_corpus','digital_route','source','source_label','publication','primary_edition','reference_work','source_family','citation','citations','references','bibliography','source_url','url','doi','source_leads','locators','source_ids','edition','edition_locator','source_ref','source_refs'}
 TASK_KEYS={'machine_resolvable','remaining_nonexpert_work','remaining_machine_work','human_only_boundary','human_only','external_or_expert','sealed_or_external','items','gaps','acquisition_queue','blockers'}
 def digest(b):return hashlib.sha256(b).hexdigest()
 def encode(d):return (json.dumps(d,ensure_ascii=False,sort_keys=True,indent=2)+'\n').encode()
