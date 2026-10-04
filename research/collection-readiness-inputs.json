@@ -1,0 +1,34 @@
+{
+  "native_review_links": [
+    "docs/EXPERT-REVIEW.md",
+    "review/README.md",
+    "research/admission-policy.json",
+    "DATA-LICENSE-MATRIX.md",
+    "LICENSING.md"
+  ],
+  "public_payload_rule": "Identifiers and source pointers only; no new transcriptions or source images. Restricted A/B derivatives stay local.",
+  "record_sets": [
+    {
+      "id_key": "record_id",
+      "name": "ediana-records",
+      "path": "data/reference/records.json",
+      "pointer": "",
+      "unit": "digital_directory_record"
+    }
+  ],
+  "repository": "hawkinsnick/Sidetic",
+  "schema_version": "1.0",
+  "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
+  "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
+  "source_files": [
+    "analysis/current-status.json",
+    "research/pre-expert-maximum.json",
+    "research/publication-reconciliation.json",
+    "research/rights-evidence.json",
+    "research/source-access.json",
+    "research/source-checks.json",
+    "research/source-frontier.json",
+    "research/source-register.json",
+    "research/source-worklist.json"
+  ]
+}

@@ -26,3 +26,7 @@ Read `review/handoff-manifest.json` and the relevant record in `review/packets.j
 ## Continue source work
 
 Use `research/source-worklist.json` to account for every frozen citation and record. A linked source check is a targeted inspection, not full collation or independent review. Edition numbers can change between publications; require textual and bibliographic concordance before joining records. Public download access does not establish redistribution rights. Report remaining acquisition and line-level work explicitly; do not call the corpus complete.
+
+## Collection source work and review handoff
+
+Read `research/collection-work-ledger.json` and `review/collection-packet.json` when preparing a source-work plan or expert request. Check their evidence fingerprint against current inputs with `python scripts/build_collection_handoff.py`. Select exact record keys and retain native units; overlapping views are not additional physical objects. Follow native review links for scientific decisions and admission. Ledger coverage does not establish completed collation, independent review or a terminal pre-expert ceiling. Use `review/collection-decision-template.json` for revision-bound submissions; structural validation cannot authenticate the reviewer or approve the science. Keep restricted local A/B derivatives local.
