@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "sources": [
+    {
+      "id": "eDiANA",
+      "rights": "CC-BY-SA-4.0",
+      "use": "11-document 2021 digital reference and derived annotations with attribution/share-alike"
+    },
+    {
+      "id": "Nolle-2001",
+      "rights": "COPYRIGHTED_CRITICAL_EDITION_SYSTEMATIC_DERIVATIVE_RIGHTS_NOT_ESTABLISHED",
+      "use": "bibliography/numbering lineage; systematic public structured extraction requires permission/clear terms"
+    },
+    {
+      "id": "Rizza-Zinko-2025",
+      "rights": "OPEN_ACCESS_CREATIVE_COMMONS_REPORTED_BY_REPOSITORY",
+      "use": "lawful publication-level evidence subject to exact article license/attribution; do not assume third-party figures share article license"
+    },
+    {
+      "id": "Phillips-Rutherford-2025",
+      "rights": "CC-BY-4.0_REPORTED_IN_PROJECT_SOURCE_AUDIT",
+      "use": "publication-level evidence with attribution; third-party images remain separately controlled"
+    },
+    {
+      "id": "Adiego-Ferrer-Soler-2025",
+      "rights": "CC-BY-4.0_REPORTED_IN_PROJECT_SOURCE_AUDIT",
+      "use": "publication-level evidence with attribution"
+    },
+    {
+      "id": "Ferrer-2025-Kadmos",
+      "rights": "CC-BY-4.0_REPORTED_IN_PROJECT_SOURCE_AUDIT",
+      "use": "source-specific sign/reading proposals with attribution"
+    },
+    {
+      "id": "Unicode-Sidetic-Proposal-2022",
+      "rights": "UNICODE_TECHNICAL_DOCUMENT",
+      "use": "script repertoire/reference metadata; do not treat proposal as epigraphic adjudication"
+    }
+  ],
+  "rule": "Article open licensing does not automatically license embedded third-party photographs/facsimiles; retain component-level rights."
+}
