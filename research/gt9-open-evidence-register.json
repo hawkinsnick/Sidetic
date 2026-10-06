@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "checked": "2026-10-06",
+  "target": "DEFENSIBLE_SCORE_GT_9",
+  "publication": "Zinko & Rizza 2025, Neue Inschriften aus Side – Überblick zu den Neufunden zwischen 2020–2023",
+  "doi": "10.1515/kadmos-2025-0008",
+  "rights": "CC BY 4.0",
+  "publication_scope": {
+    "legacy_and_recent_inventory": [
+      "S I.1.1 Artemon bilingual = Nollé S1",
+      "S I.1.2 Apollonios bilingual = S2",
+      "S I.1.3 Lyrbe/Euempolos bilingual = S6",
+      "S I.1.4 quasi-bilingual (2021)",
+      "S I.2.1 longer strategoi dedication = S3",
+      "S I.2.2 shorter strategoi dedication = S4",
+      "S I.2.3 vessel-rim inscription = S7",
+      "S I.2.4 Herakles-relief inscription = S8",
+      "S I.2.5 name list = S9",
+      "S I.2.6 Lyrbe stele (2010)",
+      "S I.2.7 decree stone (2020)",
+      "S I.2.8 inscription fragment (2022)",
+      "S I.2.9 name stele (2023)",
+      "S II.1.1 bronze voting tablet = S5",
+      "S II.1.2 bronze voting tablet (2020)",
+      "S II.1.3 bronze voting tablet (2021)",
+      "S II.3.1 scarab",
+      "S III coin legends = S10",
+      "S IV.1 Mnemon characters = S11",
+      "S IV.2 Perge graffito"
+    ],
+    "new_2020_2023_summary": {
+      "sidetic_stones": 4,
+      "new_bronze_voting_tablets": 3,
+      "bronze_tablets_sidetic_language_and_script": 2,
+      "bronze_tablets_greek_in_sidetic_context": 1
+    },
+    "sign_inventory_updates": [
+      {
+        "sign": "+N27",
+        "transcription": "psi",
+        "status": "source proposal; Greek loan grapheme context"
+      },
+      {
+        "sign": "+N28",
+        "transcription": "phi",
+        "status": "source proposal; Greek loan grapheme context"
+      },
+      {
+        "sign": "+N30",
+        "forms": [
+          "rounded 8",
+          "angular variant"
+        ],
+        "status": "newly registered source sign; personal-name distribution; phonetic interpretation remains proposal"
+      }
+    ]
+  },
+  "admission": "PUBLICATION_SPECIFIC_SOURCE_LAYER",
+  "boundaries": [
+    "The article's 2025 inventory is a publication-specific scholarly state, not an independent verification of Nollé where it inherits Nollé numbering.",
+    "Source reading/phonetic proposals remain attributed proposals.",
+    "CC BY article rights do not silently settle ownership of every underlying excavation/museum photograph."
+  ],
+  "next_actions": [
+    "Crosswalk this 2025 inventory against the 11-entry frozen eDiANA snapshot.",
+    "Register the seven post-2020 Side finds as publication-specific identities before any canonical promotion.",
+    "Encode +N27/+N28/+N30 as source-specific sign assertions and link Ferrer 2025 disagreements rather than choosing a winner."
+  ]
+}
