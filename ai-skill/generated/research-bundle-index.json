@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a00ebbadc04ac8f17d1aa5f47990e20bcaa1b028",
-  "evidence_fingerprint_sha256": "5855a9f599979ac7f125c5f791f497366b30776fda3e74be2a281e113343d5fb",
+  "source_commit": "cbbf273df5ff9bbac9a6d487eaf8f111b8db4e9b",
+  "evidence_fingerprint_sha256": "3ffa2adae6e1d204bb602cca2f9333593370137926ec7d513fbacb7661f490fb",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "8fb45531ce194ffa5839568e0d2d6b9be3c51afba9b4ffa0ec22dda8d3ed8d7d",
-      "bytes": 4517
+      "sha256": "fd33d02d171ebbb3f3f9105b47bb86166a1993c99303693d831b15cfeec9ddcd",
+      "bytes": 5117
     },
     {
       "role": "source-checks",
