@@ -30,3 +30,7 @@ Use `research/source-worklist.json` to account for every frozen citation and rec
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
+
+
+## Linear A method-parity gate
+Sidetic has reached the machine-resolvable method-parity baseline for its current lawful evidence layer. The frozen eDiAna 2021 corpus remains distinct from the open 2025 publication frontier; source lineage, numbering/sign disagreements, component rights, browser/API/exports, validation and expert handoff are explicit. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json`. Do not reconstruct Nollé 2001 wholesale from derivative sources, silently renumber new finds, or turn competing sign-value proposals into canonical decipherment.
