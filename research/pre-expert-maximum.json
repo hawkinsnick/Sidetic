@@ -12,7 +12,7 @@
     "validated expert decision intake without automatic admission"
   ],
   "remaining_machine_work": [
-    "2025 open-publication evidence is registered and bounded; full record-level integration must preserve publication-specific numbering and component rights. No protected Nollé reconstruction through derivative sources."
+    "Open 2025 publication-level new-find evidence is now represented record-by-record in research/new-finds-2020-2023-register.json. Full critical integration remains source-specific and requires expert concordance; protected Nollé reconstruction remains prohibited."
   ],
   "human_only_boundaries": [
     "object identity adjudication",
@@ -31,5 +31,9 @@
     "scripts/export_research_layer.py",
     "scripts/test_preexpert_parity.py",
     "docs/RIGHTS-ONLY-READINESS.md"
-  ]
+  ],
+  "gt9_assessment": {
+    "status": "NOT_YET_DEFENSIBLE",
+    "reason": "Evidence depth is materially improved by record-level 2020-2023 finds, but a >9 critical-corpus score still requires direct legacy critical-edition/object concordance and specialist adjudication."
+  }
 }
