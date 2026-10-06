@@ -46,3 +46,11 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Validate method-parity interfaces
+        run: |
+          python scripts/test_preexpert_parity.py
+          python scripts/build_corpus_browser.py
+          test -s workbench/corpus-browser.html
+          python scripts/research_api.py records --text S1 --limit 2 > /tmp/sidetic-api.json
+          python scripts/export_research_layer.py json /tmp/sidetic.json
+          test -s /tmp/sidetic.json.manifest.json
