@@ -20,7 +20,7 @@
     "independent review of reading proposals"
   ],
   "completion_rule": "Current engineering is method-parity ready; material legacy-corpus advancement requires rights/access to Nollé/legacy object evidence, while newly published open evidence remains publication-specific pending expert concordance.",
-  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "target": "COLLECTION_SCORE_GT_9_PRE_EXPERT",
   "checked": "2026-10-06",
   "parity_controls": [
     "research/source-lineage-register.json",
@@ -35,5 +35,17 @@
   "gt9_assessment": {
     "status": "NOT_YET_DEFENSIBLE",
     "reason": "Evidence depth is materially improved by record-level 2020-2023 finds, but a >9 critical-corpus score still requires direct legacy critical-edition/object concordance and specialist adjudication."
+  },
+  "gt9_progress": {
+    "status": "ACTIVE_OPEN_EVIDENCE_INTEGRATION",
+    "open_2025_inventory": "research/gt9-open-evidence-register.json",
+    "material_gain": "Registered publication-specific 2025 inventory including post-2020 Side finds and source-specific sign additions.",
+    "remaining_for_graduation": [
+      "record-level crosswalk of 2025 identities to legacy/eDiANA IDs",
+      "integrate 2025 Egypt/Abydos publication-specific evidence",
+      "encode Ferrer 2025 sign-model disagreement",
+      "legacy Nollé/object evidence remains rights/access bound",
+      "expert adjudication remains downstream"
+    ]
   }
 }
