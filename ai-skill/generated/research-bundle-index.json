@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "b253f531dd49c89b5582cb896c395691953ae4ae",
-  "evidence_fingerprint_sha256": "723e10182c7e60b061d220e29aa7724079a198dfdc01a2f41423180662901f60",
+  "source_commit": "a00ebbadc04ac8f17d1aa5f47990e20bcaa1b028",
+  "evidence_fingerprint_sha256": "5855a9f599979ac7f125c5f791f497366b30776fda3e74be2a281e113343d5fb",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -86,8 +86,8 @@
     {
       "role": "pre-expert-maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "e4f7dce33d39f9985b30a8e7447ea07016d7f3a82c94a9c7da53779ba45fa8d5",
-      "bytes": 1001
+      "sha256": "b4d87cf1816c109419ccaa2b195ca0e33327691e29468549f18dc5a34542a759",
+      "bytes": 1514
     },
     {
       "role": "acquisition",
