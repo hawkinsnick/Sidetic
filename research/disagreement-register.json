@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "items": [
+    {
+      "id": "SID-DIS-001",
+      "scope": "S11 / “S13” / S I.2.6",
+      "kind": "numbering_concordance",
+      "status": "UNRESOLVED_OR_MULTI_SYSTEM",
+      "boundary": "Retain all source numbering systems."
+    },
+    {
+      "id": "SID-DIS-002",
+      "scope": "Sidetic sign repertoire",
+      "kind": "sign_identity/value",
+      "status": "ACTIVE_SCHOLARLY_REVISION",
+      "assertions": [
+        "Unicode proposal reports at least 29 distinctive letters and consensus values for 26",
+        "Ferrer 2025 proposes splitting a previously misread sign and a new vowel"
+      ],
+      "boundary": "No silent canonical remapping."
+    },
+    {
+      "id": "SID-DIS-003",
+      "scope": "post-2020 Side finds",
+      "kind": "corpus_coverage",
+      "status": "NEW_PUBLICATION_FRONTIER",
+      "boundary": "Legacy 11-document eDiAna snapshot is not language-wide completeness."
+    },
+    {
+      "id": "SID-DIS-004",
+      "scope": "Abydos/Egypt material",
+      "kind": "classification/authenticity/context",
+      "status": "SOURCE_SPECIFIC",
+      "boundary": "Keep candidate status and publication argument separate from established legacy corpus."
+    },
+    {
+      "id": "SID-DIS-005",
+      "scope": "linguistic interpretation",
+      "kind": "decipherment",
+      "status": "PARTIAL_UNCERTAIN",
+      "boundary": "Sidetic is not fully deciphered; etymological/morphological proposals remain attributed hypotheses."
+    }
+  ]
+}
