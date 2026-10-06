@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "lineages": [
+    {
+      "id": "SID-LIN-NOLLE",
+      "type": "critical_corpus",
+      "sources": [
+        "Nollé 2001"
+      ],
+      "role": "eDiAna corpus/numbering baseline"
+    },
+    {
+      "id": "SID-LIN-EDIANA",
+      "type": "licensed_digital_derivative",
+      "sources": [
+        "eDiAna Sidetic 2021"
+      ],
+      "depends_on": [
+        "Nollé 2001",
+        "Pérez Orozco 2007"
+      ],
+      "rights": "CC-BY-SA-4.0",
+      "boundary": "Digital reference/annotation, not independent object collation."
+    },
+    {
+      "id": "SID-LIN-2025-SIDE",
+      "type": "new_primary_publication_family",
+      "sources": [
+        "Rizza & Zinko 2025",
+        "Rizza 2025 epidosis"
+      ],
+      "rights": "OPEN_ACCESS_CC_REPORTED",
+      "boundary": "New objects can expand discovery/critical comparison; preserve publication-specific readings and hypotheses."
+    },
+    {
+      "id": "SID-LIN-2025-EGYPT",
+      "type": "new_primary_publication_family",
+      "sources": [
+        "Phillips & Rutherford 2025",
+        "Adiego, Ferrer & Soler 2025"
+      ],
+      "rights": "OPEN_ACCESS_CC_REPORTED",
+      "boundary": "Candidate/new Egyptian evidence must retain authenticity/classification qualifications."
+    },
+    {
+      "id": "SID-LIN-SCRIPT",
+      "type": "script_repertoire_synthesis",
+      "sources": [
+        "Unicode Sidetic proposal 2022",
+        "Ferrer 2025 vowel study"
+      ],
+      "boundary": "Character inventory/transliteration proposals are scholarly models, not automatic canonical sign values."
+    }
+  ],
+  "rules": [
+    "Do not count eDiAna and Nollé as independent readings.",
+    "Newly published objects remain separate from legacy numbering until explicit concordance.",
+    "Coins, manuscripts, graffiti and monumental inscriptions are distinct evidence classes.",
+    "Preserve competing transliterations/sign inventories rather than normalizing disagreement away."
+  ]
+}
