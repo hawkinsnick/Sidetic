@@ -37,5 +37,11 @@
       "needed": "expert epigraphic/script/linguistic adjudication after admissible evidence exists"
     }
   ],
-  "completion_rule": "Exhaust rights-clear 2025 evidence and engineering before stopping at protected legacy-edition/object boundary."
+  "completion_rule": "Exhaust rights-clear 2025 evidence and engineering before stopping at protected legacy-edition/object boundary.",
+  "collection_gt9_program": {
+    "status": "ACTIVE",
+    "target": "DEFENSIBLE_SCORE_GT_9",
+    "rule": "Graduate only on evidence depth; otherwise record the concrete external blocker.",
+    "checked": "2026-10-06"
+  }
 }
