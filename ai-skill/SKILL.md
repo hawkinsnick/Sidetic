@@ -26,3 +26,7 @@ Read `review/handoff-manifest.json` and the relevant record in `review/packets.j
 ## Continue source work
 
 Use `research/source-worklist.json` to account for every frozen citation and record. A linked source check is a targeted inspection, not full collation or independent review. Edition numbers can change between publications; require textual and bibliographic concordance before joining records. Public download access does not establish redistribution rights. Report remaining acquisition and line-level work explicitly; do not call the corpus complete.
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
