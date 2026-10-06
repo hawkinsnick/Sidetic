@@ -3,19 +3,19 @@
   "corpus": "Sidetic",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "OPEN_MACHINE_FRONTIER",
+  "assessment": "RIGHTS_ACCESS_DOMINANT_ENGINEERING_COMPLETE_OPEN_NEW_EVIDENCE_PRESERVED",
   "blockers": [
     {
       "id": "SID-BLK-001",
-      "class": "OPEN_EVIDENCE_RECONCILIATION",
-      "status": "OPEN",
-      "needed": "reconcile 2025 open publications/new Side and Egypt evidence against frozen 2021 eDiAna inventory without forced numbering"
+      "class": "RIGHTS_ACCESS",
+      "status": "MAXIMIZED_AT_PUBLICATION_SPECIFIC_LAYER",
+      "needed": "full legacy/new-object concordance requires direct critical-edition/object evidence; open 2025 publications remain tracked without forced canonicalization"
     },
     {
       "id": "SID-BLK-002",
-      "class": "SCRIPT_MODEL",
-      "status": "OPEN",
-      "needed": "represent sign-inventory/transliteration disagreements and new-vowel proposal without canonical overclaim"
+      "class": "SCIENTIFIC_REVIEW",
+      "status": "REPRESENTED_AS_EXPLICIT_DISAGREEMENT",
+      "needed": "specialist adjudication of competing sign models"
     },
     {
       "id": "SID-BLK-003",
@@ -27,7 +27,7 @@
     {
       "id": "SID-BLK-004",
       "class": "ENGINEERING",
-      "status": "OPEN",
+      "status": "COMPLETE",
       "needed": "API, exports, parity validation, updated browser/reviewer/AI interfaces"
     },
     {
