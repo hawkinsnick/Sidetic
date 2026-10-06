@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-06",
+  "assessment": "OPEN_MACHINE_FRONTIER",
+  "blockers": [
+    {
+      "id": "SID-BLK-001",
+      "class": "OPEN_EVIDENCE_RECONCILIATION",
+      "status": "OPEN",
+      "needed": "reconcile 2025 open publications/new Side and Egypt evidence against frozen 2021 eDiAna inventory without forced numbering"
+    },
+    {
+      "id": "SID-BLK-002",
+      "class": "SCRIPT_MODEL",
+      "status": "OPEN",
+      "needed": "represent sign-inventory/transliteration disagreements and new-vowel proposal without canonical overclaim"
+    },
+    {
+      "id": "SID-BLK-003",
+      "class": "RIGHTS_ACCESS",
+      "status": "BLOCKED",
+      "scope": "Nollé 2001 and protected legacy facsimiles/photos",
+      "needed": "rights/access for systematic critical-edition structured collation and redistribution"
+    },
+    {
+      "id": "SID-BLK-004",
+      "class": "ENGINEERING",
+      "status": "OPEN",
+      "needed": "API, exports, parity validation, updated browser/reviewer/AI interfaces"
+    },
+    {
+      "id": "SID-BLK-005",
+      "class": "SCIENTIFIC_REVIEW",
+      "status": "DOWNSTREAM",
+      "needed": "expert epigraphic/script/linguistic adjudication after admissible evidence exists"
+    }
+  ],
+  "completion_rule": "Exhaust rights-clear 2025 evidence and engineering before stopping at protected legacy-edition/object boundary."
+}
