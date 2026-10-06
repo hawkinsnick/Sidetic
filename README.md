@@ -39,3 +39,7 @@ See [the research standards guide](docs/RESEARCH-STANDARDS.md) for record-level 
 ## Expert validation handoff
 
 [Review the corpus record by record](docs/EXPERT-REVIEW.md). Every captured record has a source-bound packet, and targeted edition checks remain separate from independent review.
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
