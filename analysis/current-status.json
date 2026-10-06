@@ -14,11 +14,28 @@
   "verified_physical_objects": 0,
   "independent_review": false,
   "analytical_admission": "BLOCKED_PENDING_EDITION_AND_OBJECT_RECONCILIATION",
-  "coverage_scope": "captured eDiAna directory; not a claim of language-wide completeness",
+  "coverage_scope": "captured eDiANA directory plus separately registered open 2025 publication-specific evidence; not a claim of language-wide completeness",
   "catalog_label_collisions": [],
   "source_fingerprints": {
     "catalog-fragment.html": "2a9732c7b8d0cb14c6bad5c867cbef2c286af068b95f1665e63c37149e7e54e4",
     "response.json": "1f5ddd790a2d53294c30c75fd8b487d4c1f06f686e4691d3b1991d9cff9ecb1b"
   },
-  "source_license": "CC-BY-SA-4.0"
+  "source_license": "CC-BY-SA-4.0",
+  "checked": "2026-10-06",
+  "open_2025_publication_layer": {
+    "source": "Zinko & Rizza 2025",
+    "rights": "CC-BY-4.0",
+    "inventory_items_registered": 20,
+    "new_2020_2023_find_summary": {
+      "sidetic_stones": 4,
+      "new_bronze_voting_tablets": 3
+    },
+    "new_source_sign_assertions": [
+      "+N27",
+      "+N28",
+      "+N30"
+    ],
+    "canonical_promotion": false,
+    "evidence": "research/gt9-open-evidence-register.json"
+  }
 }
