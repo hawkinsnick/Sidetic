@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "source": {
+    "citation": "Rizza & Zinko 2025, Kadmos 64(1-2), 117-148",
+    "doi": "10.1515/kadmos-2025-0008",
+    "license": "CC BY 4.0"
+  },
+  "status_date": "October 2023",
+  "scope_note": "Publication-level register; readings/interpretations remain source-attributed and figures are not bundled.",
+  "entries": [
+    {
+      "id": "S I.1.4",
+      "discovery": 2021,
+      "type": "marble quasi-bilingual",
+      "sidetic_text": "11 lines",
+      "greek_text": "14 lines",
+      "context": "near Serapis temple",
+      "status": "NEW_SIDETIC_TEXT"
+    },
+    {
+      "id": "S I.2.7",
+      "discovery": 2020,
+      "type": "marble inscription block/decree",
+      "sidetic_text": "26 lines",
+      "direction": "leftward",
+      "layout": "scriptio continua",
+      "status": "NEW_SIDETIC_TEXT"
+    },
+    {
+      "id": "S I.2.8",
+      "discovery": 2022,
+      "type": "damaged inscription fragment",
+      "sidetic_text": "11 visible lines",
+      "direction": "leftward",
+      "layout": "scriptio continua",
+      "status": "NEW_SIDETIC_TEXT"
+    },
+    {
+      "id": "S I.2.9",
+      "discovery": 2023,
+      "type": "name stele",
+      "status": "NEW_SIDETIC_TEXT",
+      "notes": [
+        "new signs reported by source",
+        "separator used in name sequences"
+      ]
+    },
+    {
+      "id": "S II.1.2",
+      "discovery": 2020,
+      "type": "bronze voting tablet",
+      "status": "NEW_SIDETIC_TEXT"
+    },
+    {
+      "id": "S II.1.3",
+      "discovery": 2021,
+      "type": "bronze voting tablet",
+      "status": "NEW_SIDETIC_TEXT"
+    },
+    {
+      "id": "2020-2023 Greek voting tablet",
+      "type": "bronze voting tablet",
+      "status": "GREEK_SCRIPT_LANGUAGE_SIDETIC_CONTEXT_NOT_SIDETIC_TEXT"
+    }
+  ],
+  "legacy_expansion_context": [
+    {
+      "id": "S I.2.6",
+      "description": "Lyrbe stele discovered 2010; post-Nollé legacy addition"
+    },
+    {
+      "id": "S IV.2",
+      "description": "Perge graffito; separate varia evidence"
+    }
+  ],
+  "controls": [
+    "Do not force these objects into eDiAna's frozen 11-document numbering.",
+    "Do not convert preliminary readings or phonetic proposals into project-canonical values.",
+    "Retain the Greek voting tablet as context, not Sidetic-language corpus text."
+  ]
+}
