@@ -12,15 +12,24 @@
     "validated expert decision intake without automatic admission"
   ],
   "remaining_machine_work": [
-    "Acquire additional rights-clear primary editions",
-    "Expand record-specific locator reconciliation against inspected editions",
-    "Continue systematic primary-edition acquisition and record-by-record collation",
-    "Reconcile later publication leads against the frozen inventory"
+    "2025 open-publication evidence is registered and bounded; full record-level integration must preserve publication-specific numbering and component rights. No protected Nollé reconstruction through derivative sources."
   ],
   "human_only_boundaries": [
     "object identity adjudication",
     "epigraphic collation and damage assessment",
     "independent review of reading proposals"
   ],
-  "completion_rule": "Engineering checks do not establish scholarly parity or language-wide completeness"
+  "completion_rule": "Current engineering is method-parity ready; material legacy-corpus advancement requires rights/access to Nollé/legacy object evidence, while newly published open evidence remains publication-specific pending expert concordance.",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-06",
+  "parity_controls": [
+    "research/source-lineage-register.json",
+    "research/disagreement-register.json",
+    "research/rights-source-matrix.json",
+    "research/residual-blocker-ledger.json",
+    "scripts/research_api.py",
+    "scripts/export_research_layer.py",
+    "scripts/test_preexpert_parity.py",
+    "docs/RIGHTS-ONLY-READINESS.md"
+  ]
 }
