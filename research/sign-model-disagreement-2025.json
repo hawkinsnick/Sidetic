@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "checked": "2026-10-07",
+  "authority": "Gem Ferrer 2025",
+  "doi": "10.1515/kadmos-2025-0009",
+  "rights": "CC BY 4.0",
+  "claim_class": "SOURCE_SPECIFIC_EPIGRAPHIC_AND_PHONETIC_MODEL",
+  "assertions": [
+    {
+      "topic": "new vowel letter Y",
+      "legacy_relation": "previously misidentified with sign no. 2 e due to formal similarity",
+      "proposal": "distinct letter with tendency toward u-value in interpretable examples",
+      "project_policy": "PRESERVE_AS_PROPOSAL_NOT_CANONICAL_VALUE"
+    },
+    {
+      "topic": "sign no. 23",
+      "proposal": "k value treated by Ferrer as confirmed in new Sidetic ekkleśija loanword",
+      "dependency": "new/unpublished inscription cited via Tekoğlu 2024",
+      "project_policy": "SOURCE_ASSERTION; UNDERLYING NEW INSCRIPTION NOT INDEPENDENTLY VERIFIED HERE"
+    },
+    {
+      "topic": "uncertain inventory",
+      "signs": [
+        "9",
+        "18",
+        "22",
+        "25",
+        "26",
+        "27",
+        "unnumbered 2",
+        "unnumbered D"
+      ],
+      "proposal": "Ferrer deliberately leaves these untranscribed or tentative",
+      "project_policy": "UNCERTAINTY_RETAINED"
+    }
+  ],
+  "corpus_effect": "Ferrer includes a revised corpus appendix under the proposed new reading; use as an alternative source model, not replacement of Nollé/eDiANA.",
+  "next_actions": [
+    "Represent sign identity and phonetic value as separate assertions.",
+    "Diff Ferrer revised corpus against legacy source layer only where CC-BY text permits exact record mapping.",
+    "Propagate model-dependent readings into disagreement register rather than canonical transcription."
+  ]
+}
