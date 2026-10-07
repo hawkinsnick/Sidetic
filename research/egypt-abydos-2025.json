@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "checked": "2026-10-07",
+  "scope": "2025 Abydos/Egypt publication-specific evidence",
+  "records": [
+    {
+      "id": "SID-EGY-ABYDOS-01",
+      "site": "Abydos, Egypt",
+      "monument": "Memnonium / Ramesseum of Seti I",
+      "location": "north wall of staircase at east end, near internal gateway",
+      "physical_description": {
+        "approx_width_in": 6,
+        "approx_height_in": 2
+      },
+      "history": {
+        "first_recorded": "Théodule Deveria, 1866",
+        "prior_classification": "problematic/unidentified; Semitic identification rejected in earlier scholarship"
+      },
+      "sidetic_classification": {
+        "Phillips_Rutherford_2025": "personal name in Sidetic script",
+        "Adiego_Ferrer_Soler_2025": "independent Sidetic identification; different edition of first graffito"
+      },
+      "date_proposal": "probably 4th or 3rd century BCE",
+      "canonical_reading": null,
+      "status": "DUAL_2025_EDITION_DISAGREEMENT_PRESERVED"
+    },
+    {
+      "id": "SID-EGY-ABYDOS-02",
+      "site": "Abydos, Egypt",
+      "monument": "Memnonium / Ramesseum of Seti I",
+      "location": "Corridor of the Bull / associated northern-wall context",
+      "history": {
+        "first_recorded": "Théodule Deveria, 1866"
+      },
+      "sidetic_classification": {
+        "Phillips_Rutherford_2025": "personal name in Sidetic script",
+        "Adiego_Ferrer_Soler_2025": "part of independently identified two-graffito Sidetic set"
+      },
+      "date_proposal": "probably 4th or 3rd century BCE",
+      "canonical_reading": null,
+      "status": "PUBLICATION_SPECIFIC_IDENTITY; READING_NOT_CANONIZED"
+    }
+  ],
+  "sources": [
+    {
+      "doi": "10.1515/kadmos-2025-0010",
+      "authors": "Fiona Phillips; Ian Rutherford",
+      "title": "Sidetic graffiti in the Memnonium at Abydos",
+      "rights": "CC BY 4.0",
+      "role": "edition/classification and archaeological context"
+    },
+    {
+      "doi": "10.1515/kadmos-2025-0011",
+      "authors": "Ignasi-Xavier Adiego; Gem Ferrer; Susana Soler",
+      "title": "Sidetic in Egypt",
+      "rights": "CC BY 4.0",
+      "role": "independent identification history and alternative edition of graffito 1"
+    }
+  ],
+  "method_notes": [
+    "Independent identification by two teams is meaningful classification corroboration, but their editions are not collapsed into one canonical reading.",
+    "The two Abydos graffiti are additions to the Sidetic evidence geography and are not silently assigned Nollé/eDiANA IDs.",
+    "Article-level CC BY does not automatically establish reuse rights for every historically reproduced drawing/photo; component provenance remains required."
+  ],
+  "next_actions": [
+    "Encode the competing graffito-1 readings at assertion level from the two CC-BY editions.",
+    "Cross-reference Ferrer 2025 revised sign model where it changes reading segmentation/sign identity.",
+    "Keep Abydos identities outside legacy Side numbering unless a published concordance explicitly assigns one."
+  ]
+}
