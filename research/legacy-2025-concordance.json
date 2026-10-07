@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Sidetic",
+  "checked": "2026-10-07",
+  "scope": "Source-attributed crosswalk between the frozen eDiANA digital-reference records and the inventory nomenclature explicitly reported in Zinko & Rizza 2025 (DOI 10.1515/kadmos-2025-0008). This is a nomenclature concordance, not independent physical-object verification.",
+  "source_rights": "Zinko & Rizza 2025 is recorded by the project as CC BY 4.0; eDiANA snapshot is CC-BY-SA-4.0.",
+  "concordances": [
+    {"record_id":"sidetic:ediana:300","ediana_label":"S1","publication_label":"S I.1.1","publication_description":"Artemon bilingual","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:301","ediana_label":"S2","publication_label":"S I.1.2","publication_description":"Apollonios bilingual","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:305","ediana_label":"S6","publication_label":"S I.1.3","publication_description":"Lyrbe/Euempolos bilingual","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:302","ediana_label":"S3","publication_label":"S I.2.1","publication_description":"longer strategoi dedication","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:303","ediana_label":"S4","publication_label":"S I.2.2","publication_description":"shorter strategoi dedication","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:306","ediana_label":"S7","publication_label":"S I.2.3","publication_description":"vessel-rim inscription","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:307","ediana_label":"S8","publication_label":"S I.2.4","publication_description":"Herakles-relief inscription","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:308","ediana_label":"S9","publication_label":"S I.2.5","publication_description":"name list","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:304","ediana_label":"S5","publication_label":"S II.1.1","publication_description":"bronze voting tablet","state":"EXPLICIT_SOURCE_CONCORDANCE"},
+    {"record_id":"sidetic:ediana:309","ediana_label":"S10","publication_label":"S III","publication_description":"coin legends","state":"EXPLICIT_SOURCE_CONCORDANCE"}
+  ],
+  "numbering_exception": {
+    "record_id":"sidetic:ediana:310",
+    "ediana_source_label":"S11 (“S13”, S I.2.6)",
+    "publication_2025_inventory_label":"S I.2.6",
+    "publication_2025_description":"Lyrbe stele (2010)",
+    "state":"PARTIAL_LABEL_CONCORDANCE_WITH_NUMBERING_CONFLICT",
+    "rule":"Preserve the eDiANA label verbatim and do not collapse S11/S13 or assign another legacy number without direct admissible evidence."
+  },
+  "publication_inventory_not_in_frozen_ediana_snapshot": [
+    "S I.1.4 quasi-bilingual (2021)",
+    "S I.2.7 decree stone (2020)",
+    "S I.2.8 inscription fragment (2022)",
+    "S I.2.9 name stele (2023)",
+    "S II.1.2 bronze voting tablet (2020)",
+    "S II.1.3 bronze voting tablet (2021)",
+    "S II.3.1 scarab",
+    "S IV.1 Mnemon characters",
+    "S IV.2 Perge graffito"
+  ],
+  "methodological_boundary": [
+    "No physical-object identity is independently verified by this crosswalk.",
+    "No protected legacy-edition reading or image is reproduced.",
+    "Publication-specific identities outside the frozen eDiANA snapshot remain noncanonical until evidence sufficient for admission is available.",
+    "Competing readings and sign models remain attributed rather than harmonized by fiat."
+  ]
+}
