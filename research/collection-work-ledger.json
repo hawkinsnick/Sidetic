@@ -2,11 +2,11 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "04925d7f3f5192a4ccbb46f57604915c60b7a8034d05f74d40e2746bd657e264",
-  "evidence_fingerprint": "c8b972280091e3ad79e0646c6945bf383600c4d28cbf62863fe1740204867ab5",
+  "evidence_fingerprint": "8d6fa31a0341d670f9f6ca7e13a0842d1de78654cb72289ef3f09509cd2abe1f",
   "input_sha256": {
-    "analysis/current-status.json": "4756707f08fc12ee1e3823aa959525a829fd477578a24bee5b7d514dcc2fde0d",
+    "analysis/current-status.json": "dff34be795b8b2d9375170d4d60fedf5ba3ce0ea3fe0ec973d507ca70c0d244f",
     "data/reference/records.json": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
-    "research/pre-expert-maximum.json": "e4f7dce33d39f9985b30a8e7447ea07016d7f3a82c94a9c7da53779ba45fa8d5",
+    "research/pre-expert-maximum.json": "9deecfa7975d9bfb9a95cdb74f96a0badb01b676a11d722b993be22eceb36b25",
     "research/publication-reconciliation.json": "6a1df4a476c7b5d9aeaed85205283912f86646700f2b1f13b61ed676e63de022",
     "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
     "research/source-access.json": "8d864fda03fc023294f14b167cf56e18fa47e3c3a732e4beafa50f1bb69a85d9",
@@ -285,6 +285,12 @@
   "scientific_approval_granted": false,
   "scope": "Declared native snapshots and source/task registers only; not a language-wide inventory",
   "source_leads": [
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/open_2025_publication_layer/source",
+      "kind": "source",
+      "source_path": "analysis/current-status.json"
+    },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/0/source_url",
@@ -624,34 +630,7 @@
       "native_status": null,
       "native_task_id": null,
       "source_path": "research/pre-expert-maximum.json",
-      "task": "Acquire additional rights-clear primary editions"
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_machine_work/1",
-      "native_status": null,
-      "native_task_id": null,
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Expand record-specific locator reconciliation against inspected editions"
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_machine_work/2",
-      "native_status": null,
-      "native_task_id": null,
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Continue systematic primary-edition acquisition and record-by-record collation"
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_machine_work/3",
-      "native_status": null,
-      "native_task_id": null,
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Reconcile later publication leads against the frozen inventory"
+      "task": "Open 2025 publication-level new-find evidence is now represented record-by-record in research/new-finds-2020-2023-register.json. Full critical integration remains source-specific and requires expert concordance; protected Nollé reconstruction remains prohibited."
     }
   ],
   "terminal_pre_expert_maximum_established": false
