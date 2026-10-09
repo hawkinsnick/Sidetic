@@ -1,128 +1,138 @@
 {
-  "schema_version": "1.0",
-  "corpus": "Sidetic",
-  "required_authorities": [
-    {
-      "role": "current_status",
-      "path": "analysis/current-status.json",
-      "required": true
-    },
-    {
-      "role": "reference_records",
-      "path": "data/reference/records.json",
-      "required": true
-    },
-    {
-      "role": "source_register",
-      "path": "research/source-register.json",
-      "required": true
-    },
-    {
-      "role": "rights_matrix",
-      "path": "DATA-LICENSE-MATRIX.md",
-      "required": true
-    },
-    {
-      "role": "rights_evidence",
-      "path": "research/rights-evidence.json",
-      "required": true
-    },
-    {
-      "role": "notice",
-      "path": "NOTICE",
-      "required": true
-    },
-    {
-      "role": "third_party",
-      "path": "THIRD-PARTY-NOTICES.md",
-      "required": true
-    },
-    {
-      "role": "record-admission",
-      "path": "analysis/record-admission.json",
-      "required": true
-    },
-    {
-      "role": "benchmark-status",
-      "path": "analysis/benchmark-status.json",
-      "required": true
-    },
-    {
-      "role": "edition-dependencies",
-      "path": "research/edition-dependencies.json",
-      "required": true
-    },
-    {
-      "role": "admission-policy",
-      "path": "research/admission-policy.json",
-      "required": true
-    },
-    {
-      "role": "source-frontier",
-      "path": "research/source-frontier.json",
-      "required": true
-    },
-    {
-      "role": "source-issues",
-      "path": "research/source-issues.json",
-      "required": true
-    },
-    {
-      "role": "pre-expert-maximum",
-      "path": "research/pre-expert-maximum.json",
-      "required": true
-    },
-    {
-      "role": "acquisition",
-      "path": "research/acquisition.json",
-      "required": true
-    },
-    {
-      "role": "bibliography",
-      "path": "data/upstream/ediana/bibliography.json",
-      "required": true
-    },
-    {
-      "role": "SKILL",
-      "path": "ai-skill/SKILL.md",
-      "required": true
-    },
-    {
-      "role": "source-checks",
-      "path": "research/source-checks.json",
-      "required": true
-    },
-    {
-      "role": "source-access",
-      "path": "research/source-access.json",
-      "required": true
-    },
-    {
-      "role": "packets",
-      "path": "review/packets.json",
-      "required": true
-    },
-    {
-      "role": "handoff-manifest",
-      "path": "review/handoff-manifest.json",
-      "required": true
-    },
-    {
-      "role": "source-worklist",
-      "path": "research/source-worklist.json",
-      "required": true
-    },
-    {
-      "role": "publication-reconciliation",
-      "path": "research/publication-reconciliation.json",
-      "required": true
-    }
-  ],
   "behavioral_gates": [
     "No invented reading or translation",
     "Digital reference records are not independently verified objects",
     "Source interpretations remain source assertions",
     "No cross-corpus value transfer",
     "Preserve upstream CC-BY-SA"
-  ]
+  ],
+  "corpus": "Sidetic",
+  "required_authorities": [
+    {
+      "path": "analysis/current-status.json",
+      "required": true,
+      "role": "current_status"
+    },
+    {
+      "path": "data/reference/records.json",
+      "required": true,
+      "role": "reference_records"
+    },
+    {
+      "path": "research/source-register.json",
+      "required": true,
+      "role": "source_register"
+    },
+    {
+      "path": "DATA-LICENSE-MATRIX.md",
+      "required": true,
+      "role": "rights_matrix"
+    },
+    {
+      "path": "research/rights-evidence.json",
+      "required": true,
+      "role": "rights_evidence"
+    },
+    {
+      "path": "NOTICE",
+      "required": true,
+      "role": "notice"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "required": true,
+      "role": "third_party"
+    },
+    {
+      "path": "analysis/record-admission.json",
+      "required": true,
+      "role": "record-admission"
+    },
+    {
+      "path": "analysis/benchmark-status.json",
+      "required": true,
+      "role": "benchmark-status"
+    },
+    {
+      "path": "research/edition-dependencies.json",
+      "required": true,
+      "role": "edition-dependencies"
+    },
+    {
+      "path": "research/admission-policy.json",
+      "required": true,
+      "role": "admission-policy"
+    },
+    {
+      "path": "research/source-frontier.json",
+      "required": true,
+      "role": "source-frontier"
+    },
+    {
+      "path": "research/source-issues.json",
+      "required": true,
+      "role": "source-issues"
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "required": true,
+      "role": "pre-expert-maximum"
+    },
+    {
+      "path": "research/acquisition.json",
+      "required": true,
+      "role": "acquisition"
+    },
+    {
+      "path": "data/upstream/ediana/bibliography.json",
+      "required": true,
+      "role": "bibliography"
+    },
+    {
+      "path": "ai-skill/SKILL.md",
+      "required": true,
+      "role": "SKILL"
+    },
+    {
+      "path": "research/source-checks.json",
+      "required": true,
+      "role": "source-checks"
+    },
+    {
+      "path": "research/source-access.json",
+      "required": true,
+      "role": "source-access"
+    },
+    {
+      "path": "review/packets.json",
+      "required": true,
+      "role": "packets"
+    },
+    {
+      "path": "review/handoff-manifest.json",
+      "required": true,
+      "role": "handoff-manifest"
+    },
+    {
+      "path": "research/source-worklist.json",
+      "required": true,
+      "role": "source-worklist"
+    },
+    {
+      "path": "research/publication-reconciliation.json",
+      "required": true,
+      "role": "publication-reconciliation"
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "required": true,
+      "role": "collection_work_ledger"
+    },
+    {
+      "path": "review/collection-packet.json",
+      "required": true,
+      "role": "collection_review_packet"
+    }
+  ],
+  "schema_version": "1.0"
 }

@@ -1,0 +1,37 @@
+{
+  "automatic_admission": false,
+  "decisions": {
+    "language_or_script_classification": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "object_identity": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "reading_and_layout": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "reuse_rights": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "source_independence": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "uncertainty": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    }
+  },
+  "evidence_fingerprint": "8d6fa31a0341d670f9f6ca7e13a0842d1de78654cb72289ef3f09509cd2abe1f",
+  "inspected_evidence": [],
+  "record_key": null,
+  "repository": "hawkinsnick/Sidetic",
+  "reviewed_on": null,
+  "reviewer": null,
+  "schema_version": "1.0",
+  "source_record_sha256": null
+}
