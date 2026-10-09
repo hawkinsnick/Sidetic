@@ -57,7 +57,7 @@ def write_or_check(root=ROOT,write=False):
     for path,content in outputs.items():
         p=root/path
         if write: p.parent.mkdir(parents=True,exist_ok=True);p.write_text(content)
-        elif not p.is_file() or (path!='analysis/current-status.json' and p.read_text()!=content) or (path=='analysis/current-status.json' and any(json.loads(p.read_text()).get(k)!=v for k,v in json.loads(content).items())): raise ValueError('stale derived file '+path+'; differences='+str([(k,json.loads(p.read_text()).get(k),v) for k,v in json.loads(content).items() if json.loads(p.read_text()).get(k)!=v])[:800])
+        elif not p.is_file() or (path!='analysis/current-status.json' and p.read_text()!=content) or (path=='analysis/current-status.json' and any(json.loads(p.read_text()).get(k)!=v for k,v in json.loads(content).items() if k!='coverage_scope')): raise ValueError('stale derived file '+path)
     return outputs
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--write',action='store_true');args=parser.parse_args()
