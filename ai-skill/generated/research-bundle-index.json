@@ -1,15 +1,15 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "46a710afabf608fa096d847862d2c12e37bda547",
-  "evidence_fingerprint_sha256": "d2cdfd72d464b227c5d0a67caa7fbd61c4e053878e0c2f3e29fda6f15fd091c7",
+  "source_commit": "cae78218a6cdbfd99f77ffaef2dd5e42cadd172d",
+  "evidence_fingerprint_sha256": "3ae42e3d731d16b5e489002dc98a2df7c12ff57e1d829faf212620fe9374fd1f",
   "canonical_repository": true,
   "artifacts": [
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "4756707f08fc12ee1e3823aa959525a829fd477578a24bee5b7d514dcc2fde0d",
-      "bytes": 907
+      "sha256": "dff34be795b8b2d9375170d4d60fedf5ba3ce0ea3fe0ec973d507ca70c0d244f",
+      "bytes": 1426
     },
     {
       "role": "reference_records",
@@ -86,8 +86,8 @@
     {
       "role": "pre-expert-maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "8db52a498b9da8029f0a8856e07f95c37fef0ea9dbccc0cf9bbc56f5ab88b8fd",
-      "bytes": 1835
+      "sha256": "9deecfa7975d9bfb9a95cdb74f96a0badb01b676a11d722b993be22eceb36b25",
+      "bytes": 2455
     },
     {
       "role": "acquisition",
@@ -142,6 +142,18 @@
       "path": "research/publication-reconciliation.json",
       "sha256": "6a1df4a476c7b5d9aeaed85205283912f86646700f2b1f13b61ed676e63de022",
       "bytes": 14219
+    },
+    {
+      "role": "collection_work_ledger",
+      "path": "research/collection-work-ledger.json",
+      "sha256": "9dad654703b5c1cad7bc7000ae75b627cd46f25e82b23aa97cc6dc4c372e455c",
+      "bytes": 24938
+    },
+    {
+      "role": "collection_review_packet",
+      "path": "review/collection-packet.json",
+      "sha256": "dfcea7ba76e7dc0094baf32ac52eb60e43f98f2d0d3b5ae85b41ee005f23df50",
+      "bytes": 1928
     },
     {
       "role": "raw_source",
