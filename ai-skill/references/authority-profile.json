@@ -157,6 +157,16 @@
       "role": "reference_epidoc_guide",
       "path": "docs/EPIDOC-REFERENCE.md",
       "required": true
+    },
+    {
+      "role": "source_action_plan",
+      "path": "research/source-action-plan.json",
+      "required": true
+    },
+    {
+      "role": "source_action_guide",
+      "path": "docs/SOURCE-ACTION-PLAN.md",
+      "required": true
     }
   ],
   "schema_version": "1.0"

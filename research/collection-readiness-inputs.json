@@ -32,6 +32,7 @@
     "research/source-worklist.json",
     "interchange/export-manifest.json",
     "analysis/upstream-epidoc-validation.json",
-    "interchange/epidoc/upstream-pins.json"
+    "interchange/epidoc/upstream-pins.json",
+    "research/source-action-plan.json"
   ]
 }
