@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "20749672bd679e7f0ca22132acfdcd7c9d5b88e3",
-  "evidence_fingerprint_sha256": "65a63a6594244b676963d1e26c61eaca2bfaa65ee647cb47414e0de27b865eae",
+  "source_commit": "2f72e0c5ae108394ea5db5a2b5b4f9764e7f8e5b",
+  "evidence_fingerprint_sha256": "8a087902362021a44a294c2b4ead5b6c71d219477688d0cf6878793c1ff9a76b",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "93605f681cc30251c7a58c0f1d8ce367f071c568ca057069d179820d0d40006c",
-      "bytes": 5645
+      "sha256": "afb1898c426f3523529a5d04e42e2fffc3dd62dbe4f589abe66a2e2e96dfe86a",
+      "bytes": 6137
     },
     {
       "role": "source-checks",
@@ -146,13 +146,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "45ef86325bad1f8dea906adda76cfd4cb40e9df5e6a96d2ca5468042abf83ddc",
-      "bytes": 25275
+      "sha256": "f98c03c085827d490730308576d4c010da4a4c4e1c1ba31dc622aa2f0f9f5042",
+      "bytes": 27501
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "0cb247780beafb8f58d7e75c7d487592b5a75ec6affa1203dc6b82de1a1a2e2f",
+      "sha256": "4b75781a7358806b33039464b3aad059ee71edc0abb06fc0e844adb5a834deac",
       "bytes": 1928
     },
     {
@@ -184,6 +184,18 @@
       "path": "docs/EPIDOC-REFERENCE.md",
       "sha256": "61a18b24f42504978aea8849f528be835bec6152f239821538389bc0b8cf44a5",
       "bytes": 1799
+    },
+    {
+      "role": "source_action_plan",
+      "path": "research/source-action-plan.json",
+      "sha256": "9dc65a945c8228b058f5185653b33131443eaff78be863dd2e4ffffbc473b8e3",
+      "bytes": 2005
+    },
+    {
+      "role": "source_action_guide",
+      "path": "docs/SOURCE-ACTION-PLAN.md",
+      "sha256": "eb0e322423ccc9d8ef6239e5c327e73d320acdbe2d2a905e541ce3451b935017",
+      "bytes": 1694
     },
     {
       "role": "raw_source",
