@@ -9,3 +9,5 @@ Sidetic post-snapshot candidate descriptions and attributed reading proposals: F
 Alternative Abydos reading proposal: Gem Ferrer, Susana Soler and Ignasi-Xavier Adiego, “Sidetic in Egypt”, Kadmos64 (2025),189–193, DOI10.1515/kadmos-2025-0011, CC BY4.0. No figure reproduced; attributed proposals are not project-verified readings.
 
 Post-snapshot find descriptions and attributed proposals: Alfredo Rizza and Michaela Zinko, “Neue Inschriften aus Side – Überblick zu den Neufunden zwischen2020–2023”, Kadmos64 (2025), printed117–147, DOI10.1515/kadmos-2025-0008, CC BY4.0. No source figure reproduced.
+
+The eDiAna-derived EpiDoc reference XML retains the same eDiAna attribution and CC BY-SA 4.0 as the frozen native reference. Project-original noncommercial terms do not supersede this source component. See docs/EPIDOC-REFERENCE.md and interchange/export-manifest.json.

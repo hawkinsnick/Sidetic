@@ -29,6 +29,9 @@
     "research/source-checks.json",
     "research/source-frontier.json",
     "research/source-register.json",
-    "research/source-worklist.json"
+    "research/source-worklist.json",
+    "interchange/export-manifest.json",
+    "analysis/upstream-epidoc-validation.json",
+    "interchange/epidoc/upstream-pins.json"
   ]
 }

@@ -50,6 +50,7 @@ def build(root=ROOT):
     collisions=[{'catalog_label':k,'document_ids':v,'resolution':'UNRESOLVED; preserve distinct source IDs and headings'} for k,v in labels.items() if len(v)>1]
     missing=[did for did in catalog if did not in by_id]
     status={'schema_version':'1.0','project':project['name'],'version':project['version'],'stage':'SOURCE_ATTRIBUTED_DIGITAL_REFERENCE','source_version':project['source_version'],'snapshot_date':'2026-10-03','directory_document_ids':len(catalog),'response_group_titles':len(raw),'acquired_document_ids':len(by_id),'missing_document_ids':missing,'nonempty_source_lines':sum(len(x['lines']) for x in records),'verified_primary_edition_readings':0,'verified_physical_objects':0,'independent_review':False,'analytical_admission':'BLOCKED_PENDING_EDITION_AND_OBJECT_RECONCILIATION','coverage_scope':'captured eDiAna directory; not a claim of language-wide completeness','catalog_label_collisions':collisions,'source_fingerprints':{'catalog-fragment.html':digest(base/'catalog-fragment.html'),'response.json':digest(base/'response.json')},'source_license':'CC-BY-SA-4.0'}
+    status['epidoc_reference_scope']={'native_records':len(records),'nonempty_source_rows':sum(len(r['lines']) for r in records),'export_manifest':'interchange/export-manifest.json','upstream_validation':'analysis/upstream-epidoc-validation.json','expert_acceptance':False}
     return {'data/reference/records.json':dump(records),'analysis/current-status.json':dump(status)}
 
 def write_or_check(root=ROOT,write=False):

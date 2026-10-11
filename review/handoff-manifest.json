@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "eef5ba8218346a02b90c5ae3b1e3b8df410b0838046ffc670aebdec76aeeeba4",
+  "evidence_fingerprint": "fca30fae4f51289f0d92b4eac7227e20fbb8587ec8ca82d1fd8d86e668c892ec",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -52,7 +52,7 @@
     },
     {
       "path": "NOTICE",
-      "sha256": "2f0abb6b20b4340562a0b079a34c757660f0277634d9ed5115d23bea9720c757"
+      "sha256": "e31cea6cc45e6ae97447e910c9f9269b47e437efa690bc373df41bf55c5d18ae"
     },
     {
       "path": "project.json",
