@@ -1,0 +1,44 @@
+{
+  "format": "corpus-source-action-plan-v1",
+  "corpus": "Sidetic",
+  "checked": "2026-10-11",
+  "claim_scope": "BOUNDED_SOURCE_AUDIT_NOT_GLOBAL_EXHAUSTION",
+  "rights_only_ready": false,
+  "tasks": [
+    {
+      "id": "SID-CONCORDANCE",
+      "source": "2025 open publication / legacy labels",
+      "dependency": "RECONCILIATION",
+      "status": "OPEN",
+      "evidence": [
+        "research/legacy-2025-concordance.json",
+        "research/source-frontier.json"
+      ],
+      "next_action": "Preserve the completed explicit label crosswalk; resolve only remaining S11/S13/S I.2.6 conflicts when an authoritative source establishes a join.",
+      "acceptance": "Documented source-specific numbering resolution or explicit unresolved state; no forced canonical renumbering."
+    },
+    {
+      "id": "SID-LEGACY",
+      "source": "Noll\u00e9 2001 and protected legacy imagery",
+      "dependency": "PERMISSION",
+      "status": "BLOCKED",
+      "evidence": [
+        "research/rights-source-matrix.json"
+      ],
+      "next_action": "Establish intended-use rights for protected critical evidence; do not reconstruct wholesale from derivatives.",
+      "acceptance": "Compatible rights/access for the exact component and operation."
+    },
+    {
+      "id": "SID-SIGNS",
+      "source": "Competing 2025 sign and reading proposals",
+      "dependency": "HUMAN_REVIEW",
+      "status": "WAITING_FOR_EVIDENCE",
+      "evidence": [
+        "research/sign-model-disagreement-2025.json"
+      ],
+      "next_action": "Keep publication-attributed alternatives; seek source-bound specialist adjudication.",
+      "acceptance": "Recorded review of admissible evidence; a concordance or software check cannot choose the sign model."
+    }
+  ],
+  "rule": "Assess access, intended-use permission, source delivery, machine reconciliation and human adjudication separately. Never infer global exhaustion from a dated search or route failure. Do not reopen completed evidence by ignoring existing native audits."
+}

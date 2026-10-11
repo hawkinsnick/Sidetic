@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "corpus": "Sidetic",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-06",
-  "assessment": "RIGHTS_ACCESS_DOMINANT_ENGINEERING_COMPLETE_OPEN_NEW_EVIDENCE_PRESERVED",
+  "checked": "2026-10-11",
+  "assessment": "SOURCE_SPECIFIC_ACCESS_PERMISSION_RECONCILIATION_AND_HUMAN_GATES",
   "blockers": [
     {
       "id": "SID-BLK-001",
@@ -21,7 +21,7 @@
       "id": "SID-BLK-003",
       "class": "RIGHTS_ACCESS",
       "status": "BLOCKED",
-      "scope": "Nollé 2001 and protected legacy facsimiles/photos",
+      "scope": "Noll\u00e9 2001 and protected legacy facsimiles/photos",
       "needed": "rights/access for systematic critical-edition structured collation and redistribution"
     },
     {
@@ -43,5 +43,7 @@
     "target": "DEFENSIBLE_SCORE_GT_9",
     "rule": "Graduate only on evidence depth; otherwise record the concrete external blocker.",
     "checked": "2026-10-06"
-  }
+  },
+  "source_action_plan": "research/source-action-plan.json",
+  "rights_only_ready": false
 }

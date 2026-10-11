@@ -1,3 +1,5 @@
+> Current stopping assessment (11 October 2026): rights-only readiness is not established. Use [the source-specific action plan](SOURCE-ACTION-PLAN.md) for access, permission, reconciliation and human dependencies. The baseline capabilities below do not establish evidence exhaustion.
+
 # Linear A method parity and rights frontier
 
 Sidetic now separates the frozen 2021 eDiAna digital reference from the substantially expanded 2025 publication frontier.
