@@ -37,5 +37,12 @@
     ],
     "canonical_promotion": false,
     "evidence": "research/gt9-open-evidence-register.json"
+  },
+  "epidoc_reference_scope": {
+    "native_records": 11,
+    "nonempty_source_rows": 32,
+    "export_manifest": "interchange/export-manifest.json",
+    "upstream_validation": "analysis/upstream-epidoc-validation.json",
+    "expert_acceptance": false
   }
 }

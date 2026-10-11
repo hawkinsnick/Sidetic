@@ -132,6 +132,31 @@
       "path": "review/collection-packet.json",
       "required": true,
       "role": "collection_review_packet"
+    },
+    {
+      "role": "reference_epidoc",
+      "path": "interchange/epidoc/ediana-reference.xml",
+      "required": true
+    },
+    {
+      "role": "reference_export_manifest",
+      "path": "interchange/export-manifest.json",
+      "required": true
+    },
+    {
+      "role": "upstream_epidoc_validation",
+      "path": "analysis/upstream-epidoc-validation.json",
+      "required": true
+    },
+    {
+      "role": "upstream_epidoc_pins",
+      "path": "interchange/epidoc/upstream-pins.json",
+      "required": true
+    },
+    {
+      "role": "reference_epidoc_guide",
+      "path": "docs/EPIDOC-REFERENCE.md",
+      "required": true
     }
   ],
   "schema_version": "1.0"

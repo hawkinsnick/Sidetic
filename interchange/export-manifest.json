@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "project": "Sidetic",
+  "input_sha256": {
+    "data/reference/records.json": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
+    "data/upstream/ediana/response.json": "1f5ddd790a2d53294c30c75fd8b487d4c1f06f686e4691d3b1991d9cff9ecb1b",
+    "data/upstream/ediana/catalog-fragment.html": "2a9732c7b8d0cb14c6bad5c867cbef2c286af068b95f1665e63c37149e7e54e4",
+    "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca"
+  },
+  "builder_sha256": "9c435d5fcf0d5756368c7a234742092c492b96cf588f50d06d07797702261212",
+  "xml_sha256": "30329adb0dcf7babace30213061bc839d80c3f3e9f2deb1bd4a9bc0ca6fdbe02",
+  "coverage": {
+    "source_directory_records": 11,
+    "source_nonempty_lines": 32,
+    "verified_primary_readings": 0,
+    "verified_physical_objects": 0,
+    "independent_reviews": 0
+  },
+  "reversible_fields": "Every native reference record field through native-record-json; exact line readings and source row labels through ab. No normalization.",
+  "lossy_fields": [],
+  "not_mapped": "Raw upstream fields not represented by the native derivative, unacquired critical editions, primary physical layout/geometry and accepted scholarly apparatus. No phonetic values or authority equivalences inferred.",
+  "rights": "eDiAna-derived XML remains CC-BY-SA-4.0 with attribution; other components retain their own rights.",
+  "conformance_scope": "Complete captured native reference view only; pinned upstream RNG/Schematron validation receipt required. Not full epigraphic corpus coverage or scholarly acceptance."
+}
