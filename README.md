@@ -49,3 +49,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 Sidetic has reached the machine-resolvable method-parity baseline for its current lawful evidence layer. The frozen eDiAna 2021 corpus remains distinct from the open 2025 publication frontier; source lineage, numbering/sign disagreements, component rights, browser/API/exports, validation and expert handoff are explicit. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json`. Do not reconstruct Nollé 2001 wholesale from derivative sources, silently renumber new finds, or turn competing sign-value proposals into canonical decipherment.
 
 The frozen eDiAna reference now has an EpiDoc view of all 11 native document records / 32 nonempty rows. Read `docs/EPIDOC-REFERENCE.md`, `interchange/export-manifest.json` and `analysis/upstream-epidoc-validation.json`. Every native record field and exact source row is reversible; source CC-BY-SA-4.0 and unreviewed status remain explicit. Full raw-source annotations, physical geometry, primary-edition collation and scholarly acceptance are outside this view. Upstream conformance is scoped to this frozen reference layer.
+
+## AI integrity checkpoint — 2026-10-11
+
+[AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.

@@ -21,3 +21,8 @@ def validate(root=ROOT):
 if __name__=='__main__':
     try:validate();print('AI authority/hash/version validation PASS')
     except (ValueError,KeyError) as e:print(e);sys.exit(1)
+
+# Native dependency policies are checked as part of every AI bundle validation.
+import pathlib as _guard_pathlib, runpy as _guard_runpy
+_guard_root=_guard_pathlib.Path(__file__).resolve().parents[2]
+_guard_runpy.run_path(str(_guard_root/'scripts/check_cross_corpus_dependencies.py'))['validate'](_guard_root)

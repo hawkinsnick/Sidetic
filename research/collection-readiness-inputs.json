@@ -33,6 +33,8 @@
     "interchange/export-manifest.json",
     "analysis/upstream-epidoc-validation.json",
     "interchange/epidoc/upstream-pins.json",
-    "research/source-action-plan.json"
+    "research/source-action-plan.json",
+    "research/cross-corpus-dependencies.json",
+    "docs/AI-INTEGRITY.md"
   ]
 }
