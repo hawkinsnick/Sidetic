@@ -44,6 +44,8 @@ Read `research/source-action-plan.json` and `docs/SOURCE-ACTION-PLAN.md` before 
 
 Read `docs/AI-INTEGRITY.md` and the required `research/cross-corpus-dependencies.json` before source counts or cross-corpus analysis. Use qualified assertion views when provided; original source literals must travel with their reconciliation, uncertainty and identity context. The dependency register does not certify physical identity or linguistic affinity. Shared catalogue references and duplicated digital sources are not independent witnesses. Missing links mean unknown, not independent. `scripts/check_cross_corpus_dependencies.py` screens declared record selections and rejects pooled physical/witness counts and phonetic transfer. Native AI bundle validation checks the dependency projection and local evidence hashes. Bundle publication validates the exact source parent and never rebases or force-pushes the validated artifact. Software and packaging checks do not establish expert or model-behavior acceptance.
 
+Use only `sync-ai-skill.yml` for automatic bundle publication. The native integrity workflow validates evidence without a second publisher. Reject any proposed post-validation rebase of generated artifacts.
+
 
 # Corpus Project AI Research Contract — 0.3
 
