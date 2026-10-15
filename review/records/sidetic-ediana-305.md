@@ -5,7 +5,7 @@ Source label:  S6 (S I.1.3) (scriptio continua)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `c83b967825fb90999d45c6d161555e744f421c07868b9ba031283d06edd970c7`
-Evidence fingerprint: `fca30fae4f51289f0d92b4eac7227e20fbb8587ec8ca82d1fd8d86e668c892ec`
+Evidence fingerprint: `d4888965f6a7fb9e29fdf6a46ed12db61b73f2213072685e42ffc8ef512ee28a`
 
 ## Captured source evidence
 
@@ -37,14 +37,14 @@ No edition citations attached to this captured record. Corpus-wide baseline refe
 
 Source: [https://dergipark.org.tr/en/download/article-file/4541307](https://dergipark.org.tr/en/download/article-file/4541307)
 
-Locators: printed p.13, S6 = S I.1.3 identification; printed p.18 (PDF page 6), proposed dedicator-name reading
+Locators: printed p.13, S6 = S I.1.3 identification; printed p.18 (PDF page 6), proposed dedicator-name reading; printed pp.16–17 (PDF4–5), dependent drawings and provisional analysis; printed p.19 (PDF7), Conclusions and remaining reading problems
 
-The paper proposes a different second sign in the damaged name. Keep the proposal alongside the digital reading; no full-inscription replacement or accepted phonetic value follows.
+Ferrer proposes the printed form ewpel, without underdots, while retaining damaged-letter and provisional-analysis qualifications in prose. The earlier project-added underdots are preserved in correction history. This does not certify a secure physical reading or replace the frozen digital text.
 
 Attributed scholarly proposal for dedicator_name_only:
 
 ````text
-eẉp̣ẹḷ
+ewpel
 ````
 
 - Assess the damaged second sign and remaining underdotted signs from adequate images

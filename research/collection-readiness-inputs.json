@@ -35,6 +35,7 @@
     "interchange/epidoc/upstream-pins.json",
     "research/source-action-plan.json",
     "research/cross-corpus-dependencies.json",
-    "docs/AI-INTEGRITY.md"
+    "docs/AI-INTEGRITY.md",
+    "research/source-collation-2026-10-15.json"
   ]
 }

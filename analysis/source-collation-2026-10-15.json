@@ -1,0 +1,21 @@
+{
+  "format": "corpus-source-collation-audit-v1",
+  "repository": "hawkinsnick/Sidetic",
+  "status": "PASS_PACKET_INTEGRITY_NOT_EPIGRAPHIC_ADJUDICATION",
+  "packet_sha256": "5fedbd6888655f162068aae1b762ef173b54d1ae219dd3a2b90951dfe10c97db",
+  "implementation_sha256": "7b050980c9c807dd37070878e1b1e9f34bcec866861ba40bdec6d8d3c3ed4714",
+  "comparison_tasks": 4,
+  "source_consultation_modes": {
+    "DIRECT_PUBLISHER_PROVIDED_WEB_TEXT_PAGE_MARKERS": 2,
+    "DIRECT_RENDERED_PDF_PAGE_IMAGES": 2
+  },
+  "rendered_page_inspections": 7,
+  "project_representation_corrections": 1,
+  "frozen_readings_changed": false,
+  "accepted_readings_added": 0,
+  "independent_reviews_added": 0,
+  "source_files_redistributed": false,
+  "alternative_pair_total": null,
+  "independent_witness_total": null,
+  "literature_exhaustive": false
+}

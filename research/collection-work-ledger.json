@@ -1,8 +1,8 @@
 {
   "builder_sha256": "2c5306631cb0fa09a6c1d686d5f7e7265b32cb33c1faed1edf0d519dad2f196f",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "e4d06fa3b076fd3b928cba56e0a45157537c27c9610049a1462a2e41a8bb3a4d",
-  "evidence_fingerprint": "e1ce1508c4f3e2ed303d789da7c1bcb8848a01086e77700cea2f14dd6048efbd",
+  "config_sha256": "b46d1d44a2183da8d66e153cd71a7ec221e6b4bfeeb7ea0127a08f98024ff87d",
+  "evidence_fingerprint": "00060564e6d8e45165cd8466263888bc6ef518aedec9dffac38500283edac83f",
   "input_sha256": {
     "analysis/current-status.json": "8e9e2c4e09938a270254efc73b252bdf37b3d6d66fe7c23d5fb305deabd35f18",
     "analysis/upstream-epidoc-validation.json": "4e09ed53316dde0c1a59acc826123e2b0690cfe94d1808af2f1ffdfde6437f7e",
@@ -16,7 +16,8 @@
     "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
     "research/source-access.json": "8d864fda03fc023294f14b167cf56e18fa47e3c3a732e4beafa50f1bb69a85d9",
     "research/source-action-plan.json": "9dc65a945c8228b058f5185653b33131443eaff78be863dd2e4ffffbc473b8e3",
-    "research/source-checks.json": "720516aee69f29eb1bc73d94e732cdef0a76dd0465a9f69e2e1308306646a52d",
+    "research/source-checks.json": "9006e2df963600f6b15e23650896f86c01ee8071df605d591e11185581a13e72",
+    "research/source-collation-2026-10-15.json": "5fedbd6888655f162068aae1b762ef173b54d1ae219dd3a2b90951dfe10c97db",
     "research/source-frontier.json": "ee3340368cbf7fab2b781046cb8459b380c8a206941f7127d4f4bb50d053dee8",
     "research/source-register.json": "4c0b2e073b7c605a8ba1da614fab05ac9d1c6ebca133aacbc64cbebba9b9267c",
     "research/source-worklist.json": "79eb737c1d67db89a12d03fc5fb20623cd55ce117446662d0a619960e856f95a"
@@ -509,6 +510,18 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/0/locators/2",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/0/locators/3",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/checks/1/source_url",
       "kind": "source_url",
       "source_path": "research/source-checks.json"
@@ -608,6 +621,156 @@
       "json_pointer": "/checks/3/locators/1",
       "kind": "locators",
       "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/citation",
+      "kind": "citation",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/doi",
+      "kind": "doi",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/access_receipt/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/1/citation",
+      "kind": "citation",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/1/doi",
+      "kind": "doi",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/1/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/1/access_receipt/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/citation",
+      "kind": "citation",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/doi",
+      "kind": "doi",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/access_receipt/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/additional_access_attempts/0/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/citation",
+      "kind": "citation",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/doi",
+      "kind": "doi",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/additional_access_attempts/0/url",
+      "kind": "url",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/2/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "research/source-collation-2026-10-15.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/3/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "research/source-collation-2026-10-15.json"
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
