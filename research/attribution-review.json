@@ -1,0 +1,224 @@
+{
+  "format": "corpus-attribution-review-v1",
+  "repository": "hawkinsnick/Sidetic",
+  "checked": "2026-10-15",
+  "scope": "Five controls plus all four source checks, including Ferrer’s damaged-name proposal and separate Greek ethnic, N22 and S9 proposals. No canonical sign remapping.",
+  "consultation_this_pass": "PINNED_REPOSITORY_EVIDENCE_ONLY",
+  "consultation_boundary": "Existing source consultation receipts and limits are inherited exactly from the referenced native packets. This pass inspects those packets, not the underlying publications afresh. No exhaustive literature search, new autopsy or independent review is claimed.",
+  "rights": "Original project review and bibliographic/source pointers only. Native attribution and rights remain attached to evidence; no new source files, figures or full protected editions are redistributed. Linear A GORILA refusal is not relaxed.",
+  "inputs": [
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "71766e8a253694768ceed6a49c821bc4da161cb9e835ae6c6b9e7b66aae44063",
+      "source_snapshot_commit": "9c5b78bee9620ae7e2ca15cf28c9a687ab6469c4"
+    },
+    {
+      "path": "research/legacy-2025-concordance.json",
+      "sha256": "0633f7a57e7e0cd2d0cf80cb97c9eb389eea2cc8d977cd5a2e798a8e255c542f",
+      "source_snapshot_commit": "9c5b78bee9620ae7e2ca15cf28c9a687ab6469c4"
+    },
+    {
+      "path": "research/sign-model-disagreement-2025.json",
+      "sha256": "f1b7a0970aec1a3224e2d7f70148e125c587eb66b9092a8708909038d6fc28a4",
+      "source_snapshot_commit": "9c5b78bee9620ae7e2ca15cf28c9a687ab6469c4"
+    },
+    {
+      "path": "research/source-checks.json",
+      "sha256": "720516aee69f29eb1bc73d94e732cdef0a76dd0465a9f69e2e1308306646a52d",
+      "source_snapshot_commit": "9c5b78bee9620ae7e2ca15cf28c9a687ab6469c4"
+    },
+    {
+      "path": "research/source-lineage-register.json",
+      "sha256": "52eb4384d6dfc10e2bfe61afbca33946bafd9803a3e37217a4f170f19fa10b08",
+      "source_snapshot_commit": "9c5b78bee9620ae7e2ca15cf28c9a687ab6469c4"
+    },
+    {
+      "path": "research/source-register.json",
+      "sha256": "4c0b2e073b7c605a8ba1da614fab05ac9d1c6ebca133aacbc64cbebba9b9267c",
+      "source_snapshot_commit": "9c5b78bee9620ae7e2ca15cf28c9a687ab6469c4"
+    }
+  ],
+  "complete_selections": [
+    {
+      "path": "research/disagreement-register.json",
+      "pointer": "/items",
+      "expected_rows": 5
+    },
+    {
+      "path": "research/source-checks.json",
+      "pointer": "/checks",
+      "expected_rows": 4
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "SID-DIS-001",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "S11, S13 and S I.2.6 are source numbering assertions; normalization cannot supply object identity.",
+      "remaining_gap": "Verify concordance in each edition and current inventory.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/0"
+        },
+        {
+          "path": "research/legacy-2025-concordance.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "SID-DIS-002",
+      "case_class": "INTERPRETATION",
+      "finding": "Sign identity, repertoire membership and proposed phonetic values are separate assertions. Ferrer’s proposed Y is not an automatic replacement for legacy e.",
+      "remaining_gap": "Map each affected locus and compare the underlying evidence before changing a value.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/1"
+        },
+        {
+          "path": "research/sign-model-disagreement-2025.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "SID-DIS-003",
+      "case_class": "COVERAGE_GAP",
+      "finding": "Eleven legacy eDiAna entries do not represent all subsequently published finds.",
+      "remaining_gap": "Acquire and reconcile new editions before adding unique objects.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/2"
+        },
+        {
+          "path": "research/source-lineage-register.json",
+          "pointer": "/lineages/2"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "SID-DIS-004",
+      "case_class": "CLASSIFICATION",
+      "finding": "Abydos material retains source-specific classification/authenticity qualifications.",
+      "remaining_gap": "Compare the two 2025 edition families before reconciling identities or adding objects.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/3"
+        },
+        {
+          "path": "research/source-lineage-register.json",
+          "pointer": "/lineages/3"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "SID-DIS-005",
+      "case_class": "INTERPRETATION",
+      "finding": "Partial linguistic interpretation does not establish complete decipherment.",
+      "remaining_gap": "Keep each morphological/etymological claim attributed and separate from sign reading.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/4"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "SID-EUEMPOLOS-2025",
+      "case_class": "READING_COMPARISON",
+      "finding": "The paper proposes a different second sign in the damaged name. Keep the proposal alongside the digital reading; no full-inscription replacement or accepted phonetic value follows.",
+      "remaining_gap": "Assess the damaged second sign and remaining underdotted signs from adequate images; Confirm object identity and locate the stone using current inventory evidence",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/0"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "SID-S6-GREEK-2020",
+      "case_class": "READING_COMPARISON",
+      "finding": "The study disputes the first vowel of the Greek ethnic, proposing Y in place of E with uncertainty retained. This is separate from Ferrer 2025’s Sidetic dedicator-name proposal. Its 2020 Antalya museum statement is a dated source assertion, not a confirmed present location.",
+      "remaining_gap": "Compare the Greek E/Y dispute separately from the damaged Sidetic name; Inspect Brixhe–Neumann 1988 p.37 directly; a citation in 2020 does not establish direct acquisition; Verify present location and inventory",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/1"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "SID-S9-ABYDOS-COMPARISON",
+      "case_class": "READING_COMPARISON",
+      "finding": "The paper compares an Abydos name with S9 and discusses the unresolved N22 sign and differing transcription systems. Similar names do not identify the same object. Preserve the frozen V and HTML subscript; do not substitute a proposed vowel or unify w/y/j notation without an explicit source-specific crosswalk.",
+      "remaining_gap": "Evaluate N22 independently of the proposed Abydos name; Distinguish common-name comparison from physical object identity; Reconcile the two 2025 Abydos editions before counting new objects",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/2"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "SID-S9-2025-PIGBE",
+      "case_class": "READING_COMPARISON",
+      "finding": "The authors propose pigbe- and pigbe[s] instead of an earlier pigse[s] based on comparison with the quasi-bilingual and report confirming it on the inscription in October2024. This is an attributed correction proposal, not this project’s examination. The frozen S9 ending pigśe[ś] remains unchanged; resolve source-specific transcription differences and signs before substitution.",
+      "remaining_gap": "Compare source photographs and exact segmentation; Assess shared name evidence separately from object identity; Retain bracketed restoration and date the claimed source autopsy",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/3"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    }
+  ],
+  "new_readings_admitted": 0,
+  "independent_reviews_added": 0
+}

@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Sidetic",
-  "profile_sha256": "6c98adc8ee6f52ae3b8a2c41e5cffe447c5289eb8d378c48f32db683e80f046f",
+  "profile_sha256": "dca2defbcbdab9296c37cf5b382c03f375bf9a3b29f90c8a1cf0ebcade390152",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -18,7 +18,7 @@
         "path": "data/reference/records.json",
         "sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
         "pointer": "",
-        "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+        "native_artifacts_snapshot_commit": null,
         "role": "digital-reference",
         "encoding": "json"
       }
@@ -37,8 +37,27 @@
         "path": "research/disagreement-register.json",
         "sha256": "71766e8a253694768ceed6a49c821bc4da161cb9e835ae6c6b9e7b66aae44063",
         "pointer": "/items",
-        "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+        "native_artifacts_snapshot_commit": null,
         "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 9,
+      "scope": "Five controls plus all four source checks, including Ferrer’s damaged-name proposal and separate Greek ethnic, N22 and S9 proposals. No canonical sign remapping.",
+      "example_ids": [
+        "SID-DIS-001",
+        "SID-DIS-002",
+        "SID-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "6f3258534e4b3d8cf81ba8eb5b526a6dbbc4791c8ffb92cd12153a8b1f16eb3d",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
         "encoding": "json"
       }
     }
@@ -48,7 +67,7 @@
       "path": "data/reference/records.json",
       "sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "digital-reference",
       "encoding": "json"
     },
@@ -56,7 +75,7 @@
       "path": "research/disagreement-register.json",
       "sha256": "71766e8a253694768ceed6a49c821bc4da161cb9e835ae6c6b9e7b66aae44063",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "disagreement-register",
       "encoding": "json"
     },
@@ -64,7 +83,7 @@
       "path": "research/source-register.json",
       "sha256": "4c0b2e073b7c605a8ba1da614fab05ac9d1c6ebca133aacbc64cbebba9b9267c",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -72,7 +91,7 @@
       "path": "research/source-issues.json",
       "sha256": "2fd2e11f36cb618fe9bf42d0b0ad742dc4009356e10d4e3e51ba6200586879ea",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -80,7 +99,7 @@
       "path": "research/source-checks.json",
       "sha256": "720516aee69f29eb1bc73d94e732cdef0a76dd0465a9f69e2e1308306646a52d",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -88,7 +107,7 @@
       "path": "research/source-worklist.json",
       "sha256": "79eb737c1d67db89a12d03fc5fb20623cd55ce117446662d0a619960e856f95a",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -96,7 +115,7 @@
       "path": "research/source-lineage-register.json",
       "sha256": "52eb4384d6dfc10e2bfe61afbca33946bafd9803a3e37217a4f170f19fa10b08",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -104,7 +123,7 @@
       "path": "research/rights-source-matrix.json",
       "sha256": "41a716d0346f5ace38380abee9451062aada3b796a9b0f713cd543a8f510a88a",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -112,7 +131,7 @@
       "path": "research/sign-model-disagreement-2025.json",
       "sha256": "f1b7a0970aec1a3224e2d7f70148e125c587eb66b9092a8708909038d6fc28a4",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "json"
     },
@@ -120,7 +139,7 @@
       "path": "LICENSE-CONTENT.md",
       "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "text"
     },
@@ -128,13 +147,30 @@
       "path": "NOTICE",
       "sha256": "e31cea6cc45e6ae97447e910c9f9269b47e437efa690bc373df41bf55c5d18ae",
       "pointer": "",
-      "native_artifacts_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536",
+      "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
       "encoding": "text"
+    },
+    {
+      "path": "research/legacy-2025-concordance.json",
+      "sha256": "0633f7a57e7e0cd2d0cf80cb97c9eb389eea2cc8d977cd5a2e798a8e255c542f",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "exact-pointer attribution evidence; applicability declared per case",
+      "encoding": "json"
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "6f3258534e4b3d8cf81ba8eb5b526a6dbbc4791c8ffb92cd12153a8b1f16eb3d",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded attribution review",
+      "encoding": "json"
     }
   ],
   "scholarly_limits": [
-    "Exact source document IDs remain distinct even where catalogue labels collide. Native line labels, editorial signs, references, source license and primary_edition_verified=false remain literal. Physical objects and independently collated alternative pairs are not counted by this view."
+    "Exact source document IDs remain distinct even where catalogue labels collide. Native line labels, editorial signs, references, source license and primary_edition_verified=false remain literal. Physical objects and independently collated alternative pairs are not counted by this view.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
   ],
   "alternative_pair_count": null,
   "independent_witness_count": null,
