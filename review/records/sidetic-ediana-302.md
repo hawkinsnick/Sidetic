@@ -5,7 +5,7 @@ Source label:  S3 (S.I.2.1) (scriptio continua)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `1440a498f09c01d175923c6e36b3ed27bd12ff17e5e38608911beaed93f0bc6d`
-Evidence fingerprint: `fca30fae4f51289f0d92b4eac7227e20fbb8587ec8ca82d1fd8d86e668c892ec`
+Evidence fingerprint: `d4888965f6a7fb9e29fdf6a46ed12db61b73f2213072685e42ffc8ef512ee28a`
 
 ## Captured source evidence
 

@@ -25,9 +25,25 @@
       "id_pointer": "/review_id",
       "unit": "bounded documentary attribution review task",
       "scope": "Five controls plus all four source checks, including Ferrer’s damaged-name proposal and separate Greek ethnic, N22 and S9 proposals. No canonical sign remapping."
+    },
+    {
+      "name": "source-collation-2026-10-15",
+      "path": "research/source-collation-2026-10-15.json",
+      "pointer": "/cases",
+      "id_pointer": "/review_id",
+      "unit": "selected source collation task",
+      "scope": "Four selected comparisons. Correct the project-added underdots in the Ferrer proposal attribution: the paper prints ewpel and retains uncertainty in prose. Keep the earlier project string in correction history. Greek E/Y belongs to the Greek parallel, not the frozen Sidetic row. The two2025 S9 contexts were freshly inspected as publisher-provided web text, not PDF figures or project autopsy."
     }
   ],
-  "relations": [],
+  "relations": [
+    {
+      "from": "attribution-review",
+      "to": "source-collation-2026-10-15",
+      "from_pointer": "/review_id",
+      "to_pointer": "/review_id",
+      "label": "EXACT_NATIVE_REVIEW_ID_CURRENT_SOURCE_QUALIFICATION_NOT_ACCEPTANCE"
+    }
+  ],
   "artifacts": [
     {
       "path": "data/reference/records.json",
@@ -59,10 +75,10 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "720516aee69f29eb1bc73d94e732cdef0a76dd0465a9f69e2e1308306646a52d",
+      "sha256": "9006e2df963600f6b15e23650896f86c01ee8071df605d591e11185581a13e72",
       "encoding": "json",
       "role": "corpus-level source/rights/context register",
-      "source_snapshot_commit": "9bda1ff5d14b98d431f81c0dbb76bf169a091536"
+      "source_snapshot_commit": null
     },
     {
       "path": "research/source-worklist.json",
@@ -115,15 +131,23 @@
     },
     {
       "path": "research/attribution-review.json",
-      "sha256": "6f3258534e4b3d8cf81ba8eb5b526a6dbbc4791c8ffb92cd12153a8b1f16eb3d",
+      "sha256": "4e0cfc5ceeb726d3a4f2be486a01239ae90ba9a5cd4ac05f98733494680f2069",
       "encoding": "json",
       "role": "bounded attribution review",
+      "source_snapshot_commit": null
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "5fedbd6888655f162068aae1b762ef173b54d1ae219dd3a2b90951dfe10c97db",
+      "encoding": "json",
+      "role": "fresh bounded source collation; consultation modes differ by source",
       "source_snapshot_commit": null
     }
   ],
   "scholarly_limits": [
     "Exact source document IDs remain distinct even where catalogue labels collide. Native line labels, editorial signs, references, source license and primary_edition_verified=false remain literal. Physical objects and independently collated alternative pairs are not counted by this view.",
-    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total.",
+    "Four selected comparisons. Correct the project-added underdots in the Ferrer proposal attribution: the paper prints ewpel and retains uncertainty in prose. Keep the earlier project string in correction history. Greek E/Y belongs to the Greek parallel, not the frozen Sidetic row. The two2025 S9 contexts were freshly inspected as publisher-provided web text, not PDF figures or project autopsy."
   ],
   "native_artifacts_snapshot_commit": null,
   "snapshot_commit_scope": "Mixed inputs retain their per-artifact anchors. New original review artifacts are byte-pinned and identified by published repository history, not assigned to an earlier commit."

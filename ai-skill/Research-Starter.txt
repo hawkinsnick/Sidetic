@@ -56,6 +56,12 @@ Read `docs/ATTRIBUTION-REVIEW.md` and `research/attribution-review.json` before 
 
 Five controls plus all four source checks, including Ferrer’s damaged-name proposal and separate Greek ethnic, N22 and S9 proposals. No canonical sign remapping.
 
+## Selected publication collation (2026-10-15)
+
+Consult `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md` for the selected source comparisons. Use `python scripts/source_collation.py --case ID` to retrieve the fresh source observations beside complete native evidence. Preserve printed forms, project notation and author-prose uncertainty as separate fields. Treat web text, rendered PDF inspection, indirect reports and bibliography-only access as distinct modalities. Do not infer direct edition access from a quoted source, physical autopsy from an author’s report, or acceptance from a successful integrity check.
+
+Four selected comparisons. Correct the project-added underdots in the Ferrer proposal attribution: the paper prints ewpel and retains uncertainty in prose. Keep the earlier project string in correction history. Greek E/Y belongs to the Greek parallel, not the frozen Sidetic row. The two2025 S9 contexts were freshly inspected as publisher-provided web text, not PDF figures or project autopsy.
+
 
 # Corpus Project AI Research Contract — 0.3
 

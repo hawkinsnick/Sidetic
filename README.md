@@ -59,3 +59,5 @@ The frozen eDiAna reference now has an EpiDoc view of all 11 native document rec
 [Query source evidence and unresolved alternatives](docs/EVIDENCE-AND-ALTERNATIVES.md) using exact native IDs, full source records, pinned artifact locators and explicit corpus-specific scope. [Coverage by native view](analysis/evidence-query-coverage.json) keeps catalogue entries, reading versions, assertions and research issues distinct. This interface adds no source collation, canonical reading or expert acceptance.
 
 Bounded attribution and comparison review: [source qualifications and remaining gaps](docs/ATTRIBUTION-REVIEW.md).
+
+[Selected publication collation and source qualifications —2026-10-15](docs/SOURCE-COLLATION-2026-10-15.md).

@@ -1,0 +1,16 @@
+name: Selected source collation integrity
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  source-collation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/source_collation.py --check
+      - run: python -m unittest discover -s scripts -p test_source_collation.py
+      - run: python scripts/attribution_review.py --check
+      - run: python scripts/evidence_query.py --check
