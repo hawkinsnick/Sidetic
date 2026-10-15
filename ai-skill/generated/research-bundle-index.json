@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "bbef9e7177e8ae543308847b8bf8315ca1c2d34d",
-  "evidence_fingerprint_sha256": "27c829bb6b50297ffcdbcdab841d6e89a2e43edcbe7fb26697b5529398c5df04",
+  "source_commit": "4d81f5b5321e50520d6815848b60a762f9688109",
+  "evidence_fingerprint_sha256": "a97d8f6759ea31cfbeb289fcd4ce4faadbb4150ead5aa4d62ebf4a86f950d39d",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "ee3ea3296f42a464d6bf9d9ab455d412a7a42fc23d8d33ab837a3230f7623d74",
-      "bytes": 7326
+      "sha256": "b803d0f9283b35dd441afc7b0c536e98ad56929736a2883ccc1d4b8eed45a1a6",
+      "bytes": 8472
     },
     {
       "role": "source-checks",
@@ -226,6 +226,36 @@
       "path": "data/upstream/ediana/catalog-fragment.html",
       "sha256": "2a9732c7b8d0cb14c6bad5c867cbef2c286af068b95f1665e63c37149e7e54e4",
       "bytes": 779
+    },
+    {
+      "role": "native_evidence_profile",
+      "path": "research/evidence-query-profile.json",
+      "sha256": "6c98adc8ee6f52ae3b8a2c41e5cffe447c5289eb8d378c48f32db683e80f046f",
+      "bytes": 3606
+    },
+    {
+      "role": "native_evidence_coverage",
+      "path": "analysis/evidence-query-coverage.json",
+      "sha256": "8aa9359f6e457ac80f5989420b0ddad7b1c4dda579fded55cd082b2d145d4c41",
+      "bytes": 6133
+    },
+    {
+      "role": "native_evidence_query",
+      "path": "scripts/evidence_query.py",
+      "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+      "bytes": 11289
+    },
+    {
+      "role": "native_evidence_query_tests",
+      "path": "scripts/test_native_evidence_query.py",
+      "sha256": "ddd2af2ce39904014c8a58122278e524e7ae9d504c47218e26f1ba581bb581f4",
+      "bytes": 6771
+    },
+    {
+      "role": "native_evidence_guide",
+      "path": "docs/EVIDENCE-AND-ALTERNATIVES.md",
+      "sha256": "4d79b816a89ef4ac19da215e3e520cb28fdcb2ed5bc9b056a6fe4afa8e16177c",
+      "bytes": 3948
     }
   ],
   "contract": {
