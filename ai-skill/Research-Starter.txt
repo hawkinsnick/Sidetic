@@ -63,6 +63,11 @@ Consult `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2
 Four selected comparisons. Correct the project-added underdots in the Ferrer proposal attribution: the paper prints ewpel and retains uncertainty in prose. Keep the earlier project string in correction history. Greek E/Y belongs to the Greek parallel, not the frozen Sidetic row. The two2025 S9 contexts were freshly inspected as publisher-provided web text, not PDF figures or project autopsy.
 
 
+## Supplied-PDF follow-up — 2026-10-15
+
+All four selected source contexts now have rendered-PDF consultation records. The supplied2025 PDFs close the Abydos figure/notation check and the pigbe[s] printed-correction check. Source-specific sign/value uncertainty and separate object identities remain explicit. Read `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md`; current rendered-PDF receipts supersede the retained web-only access history. Never report those earlier download failures as a current source-acquisition gap. Preserve the packet’s source-specific uncertainty, Unicode notation, component and identity boundaries. Publication inspection adds no accepted reading or independent expert review; do not redistribute the supplied PDFs or page images.
+
+
 # Corpus Project AI Research Contract — 0.3
 
 The repository corpus is authoritative. The AI layer is a rebuildable research interface, not a second corpus.

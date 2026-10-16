@@ -7,7 +7,7 @@
   "inputs": [
     {
       "path": "research/source-checks.json",
-      "sha256": "9006e2df963600f6b15e23650896f86c01ee8071df605d591e11185581a13e72",
+      "sha256": "3c1f0445a6423f6ea19558e452224181962e971d95087d74231576e4677d3c3f",
       "source_snapshot_commit": null
     },
     {
@@ -110,17 +110,53 @@
       "citation": "Fiona Phillips and Ian Rutherford (2025), Sidetic graffiti in the Memnonium at Abydos, Kadmos64,175–188.",
       "doi": "10.1515/kadmos-2025-0010",
       "url": "https://www.researchgate.net/publication/396359585_Sidetic_graffiti_in_the_Memnonium_at_Abydos",
-      "consultation": "DIRECT_PUBLISHER_PROVIDED_WEB_TEXT_PAGE_MARKERS",
-      "source_pdf_sha256": null,
-      "source_pdf_bytes": null,
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "6dfe48171e042688529be2214d7ba78b63fbdded61f0c6dadd191eac00de8c37",
+      "source_pdf_bytes": 1437740,
       "access_receipt": {
-        "id": "phillips2025",
-        "url": "https://ora.ox.ac.uk/objects/uuid%3A5f4eb0cd-8af9-4e81-ada8-5f5ba2b6ca75/files/rw6634565r",
-        "error": "HTTP Error 403: Forbidden"
+        "acquisition": "USER_SUPPLIED_PDF",
+        "uploaded_filename": "rw6634565r.pdf",
+        "checked_local_date": "2026-10-15",
+        "bytes": 1437740,
+        "sha256": "6dfe48171e042688529be2214d7ba78b63fbdded61f0c6dadd191eac00de8c37",
+        "pdf_magic": true,
+        "page_count": 14,
+        "public_download_succeeded": false
       },
-      "limits": "Fresh publisher-provided article text inspected at pp.177–178 and n.11; Oxford PDF route403, Reading repository reports staff-restricted file and its landing page presents access denial. No PDF typography, figures or object inspection this pass.",
+      "limits": "Supplied PDF pages visually inspected. Published photographs/drawings are source evidence; no project object autopsy, interactive RTI inspection, independent review or automatic reading acceptance.",
       "source_file_redistributed": false,
-      "page_inspections": [],
+      "page_inspections": [
+        {
+          "pdf_ordinal": 2,
+          "render_sha256": "4f3f55ecf4c17a66662b55821122ff588e055ed9091558828ac6dfdcef344bcb",
+          "render_redistributed": false,
+          "printed_locator": "p.176, graffito1 photograph Fig.1 and provenance"
+        },
+        {
+          "pdf_ordinal": 3,
+          "render_sha256": "ffec776a79d1e46878b93f42e8b1af098cd36f8735e9715c5fb0b334017f2466",
+          "render_redistributed": false,
+          "printed_locator": "p.177, drawings Figs.2–3, sign table and numbering/transcription n.7"
+        },
+        {
+          "pdf_ordinal": 4,
+          "render_sha256": "292b60372468fb92e3f61434fa090047811ac82b6c1c576826b5b142e1ddb219",
+          "render_redistributed": false,
+          "printed_locator": "p.178, final-sign qualification and N22 n.11"
+        },
+        {
+          "pdf_ordinal": 7,
+          "render_sha256": "b750aa53314fe1fed5eae580cad44d0286e1909ddc3391d242fa54171f5e80f9",
+          "render_redistributed": false,
+          "printed_locator": "p.181, comparative Tables1–2 and dependent figure note"
+        },
+        {
+          "pdf_ordinal": 8,
+          "render_sha256": "5d6f4265434aaf708c84b536766e6202cb9d2e0fc64f572815bdf98bab4ec953",
+          "render_redistributed": false,
+          "printed_locator": "p.182, N24 b and N6/N7 convention history n.20"
+        }
+      ],
       "web_locators": [
         "printed pp.177–178, graffito1 comparison",
         "printed p.178 n.11, N22 and differing transcriptions"
@@ -135,24 +171,86 @@
           "pdf_magic": false,
           "disposition": "EMPTY202_RESPONSE_NOT_AN_ACQUIRED_PDF"
         }
-      ]
+      ],
+      "previous_consultation_record": {
+        "consultation": "DIRECT_PUBLISHER_PROVIDED_WEB_TEXT_PAGE_MARKERS",
+        "source_pdf_sha256": null,
+        "source_pdf_bytes": null,
+        "access_receipt": {
+          "id": "phillips2025",
+          "url": "https://ora.ox.ac.uk/objects/uuid%3A5f4eb0cd-8af9-4e81-ada8-5f5ba2b6ca75/files/rw6634565r",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        "limits": "Fresh publisher-provided article text inspected at pp.177–178 and n.11; Oxford PDF route403, Reading repository reports staff-restricted file and its landing page presents access denial. No PDF typography, figures or object inspection this pass.",
+        "page_inspections": [],
+        "web_locators": [
+          "printed pp.177–178, graffito1 comparison",
+          "printed p.178 n.11, N22 and differing transcriptions"
+        ]
+      }
     },
     {
       "source_id": "rizza-zinko2025",
       "citation": "Alfredo Rizza and Michaela Zinko (2025), Neue Inschriften aus Side – Überblick zu den Neufunden zwischen2020–2023, Kadmos64.",
       "doi": "10.1515/kadmos-2025-0008",
       "url": "https://www.researchgate.net/publication/396360294_Neue_Inschriften_aus_Side_-_Uberblick_zu_den_Neufunden_zwischen_2020-2023",
-      "consultation": "DIRECT_PUBLISHER_PROVIDED_WEB_TEXT_PAGE_MARKERS",
-      "source_pdf_sha256": null,
-      "source_pdf_bytes": null,
-      "access_receipt": {},
-      "limits": "Fresh publisher-provided article text inspected at p.122 and n.6. Verona landing route403 and publisher HTML405. No original PDF or photograph/sign adjudication this pass.",
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "027ac23f64af9d1ea3742cab23b16445912c7f3e14279d555899f590abae5234",
+      "source_pdf_bytes": 9022988,
+      "access_receipt": {
+        "acquisition": "USER_SUPPLIED_PDF",
+        "uploaded_filename": "10.1515_kadmos-2025-0008.pdf",
+        "checked_local_date": "2026-10-15",
+        "bytes": 9022988,
+        "sha256": "027ac23f64af9d1ea3742cab23b16445912c7f3e14279d555899f590abae5234",
+        "pdf_magic": true,
+        "page_count": 32,
+        "public_download_succeeded": false
+      },
+      "limits": "Supplied PDF pages visually inspected. Published photographs/drawings are source evidence; no project object autopsy, interactive RTI inspection, independent review or automatic reading acceptance.",
       "source_file_redistributed": false,
-      "page_inspections": [],
+      "page_inspections": [
+        {
+          "pdf_ordinal": 5,
+          "render_sha256": "12c8450ca1c7f6112c8457897fe7ceb62a9b0bb71af1f2ca3282eb282abfdb0a",
+          "render_redistributed": false,
+          "printed_locator": "p.121, Fig.2 quasi-bilingual line7 and transcription legend"
+        },
+        {
+          "pdf_ordinal": 6,
+          "render_sha256": "2bc71e53d5e9b37fa421553564bc947a3eeb7ec71d211c289ce04699988ecb1f",
+          "render_redistributed": false,
+          "printed_locator": "p.122, pigbe- discussion and pigbe[s] correction n.6"
+        },
+        {
+          "pdf_ordinal": 24,
+          "render_sha256": "eb00b875bebc6995be79dc27bdbee2c23e20e6752dd0d9dabf5ecc9f2d03ae54",
+          "render_redistributed": false,
+          "printed_locator": "p.140, source-specific d2/ψ distinction and Fig.29"
+        },
+        {
+          "pdf_ordinal": 28,
+          "render_sha256": "62944778a95419a3ac7999975b4d7c13a4a58e3f1966a9f972c29aadc98f66af",
+          "render_redistributed": false,
+          "printed_locator": "p.144, Überblick2 sign table including N22 V and N24 b"
+        },
+        {
+          "pdf_ordinal": 31,
+          "render_sha256": "49fef83d2b345f4169e1441ded63202703a4253cfa315b541530df23945f3b6d",
+          "render_redistributed": false,
+          "printed_locator": "p.147, Nachtrag: provisional u2 distinct from N22"
+        },
+        {
+          "pdf_ordinal": 32,
+          "render_sha256": "e915c021417cfa9c0be4d78075dbd74123b3482577dfcd472d3cc393768376a9",
+          "render_redistributed": false,
+          "printed_locator": "blank final PDF leaf; no printed page148"
+        }
+      ],
       "web_locators": [
         "printed p.122, §3.1 continuation and n.6"
       ],
-      "bibliographic_qualification": "Publisher/Verona metadata give117–148, while displayed article header gives117–147. This checkpoint uses p.122, not a resolved terminal-page claim.",
+      "bibliographic_qualification": "Supplied PDF has32 leaves: printed117–147 followed by one blank leaf. Its header says117–147; publisher/repository metadata say117–148. Cite inspected printed loci rather than equating PDF leaf32 with printed148.",
       "additional_access_attempts": [
         {
           "id": "rizza-zinko2025",
@@ -163,7 +261,18 @@
           "pdf_magic": false,
           "disposition": "EMPTY202_RESPONSE_NOT_AN_ACQUIRED_PDF"
         }
-      ]
+      ],
+      "previous_consultation_record": {
+        "consultation": "DIRECT_PUBLISHER_PROVIDED_WEB_TEXT_PAGE_MARKERS",
+        "source_pdf_sha256": null,
+        "source_pdf_bytes": null,
+        "access_receipt": {},
+        "limits": "Fresh publisher-provided article text inspected at p.122 and n.6. Verona landing route403 and publisher HTML405. No original PDF or photograph/sign adjudication this pass.",
+        "page_inspections": [],
+        "web_locators": [
+          "printed p.122, §3.1 continuation and n.6"
+        ]
+      }
     }
   ],
   "cases": [
@@ -229,19 +338,44 @@
       "review_id": "SID-S9-ABYDOS-COMPARISON",
       "comparison_class": "SIGN_IDENTITY_AND_TRANSCRIPTION_SYSTEM",
       "source_ids": [
-        "phillips2025"
+        "phillips2025",
+        "rizza-zinko2025"
       ],
       "observations": [
-        "The p.178 n.11 text distinguishes N22 identity from competing vowel notations; the graffito comparison does not identify an Abydos object with S9."
+        "Printed p.177 Figs.2–3 and the adjacent table label the final graffito1 sign w(?) / N6; p.178 makes that preference conditional on discounting a stroke. Fig.1 is a published object photograph; the project has not examined the object.",
+        "Printed p.178 n.11 distinguishes N22 sign identity from a/a2/V notation. Printed p.182 n.20 reports the historical N6/N7 value reversal, still not conclusive. Rizza–Zinko’s p.144 table separately retains N22 as V (Vokal). Shared name evidence does not identify Abydos graffiti with S9."
       ],
       "remaining_work": [
-        "PDF/figure inspection and exact convention crosswalk remain open; retain literal frozen V and its HTML subscript."
+        "Selected PDF/figure/convention inspection is complete. N22 vowel adjudication and reconciliation with the other2025 Abydos edition remain open. Preserve literal frozen Vn<sub>2</sub>; no global w/y/j substitution or same-object join."
       ],
       "details": {
         "target_component": "S9.6 N22",
         "frozen_notation": "Vn<sub>2</sub>",
         "same_object_join_established": false,
-        "vowel_value_adopted": false
+        "vowel_value_adopted": false,
+        "pdf_figure_typography_checked": true,
+        "graffito1_final_sign_source_notation": "w(?)",
+        "source_numbering": "Nollé numbering, explicitly not Nollé transcription (p.177 n.7)",
+        "source_convention_correspondence": {
+          "phillips2025_p178_n11": {
+            "N22": [
+              "a (Pérez Orozco2020)",
+              "a2 (Zinko and Zinko2020)",
+              "V (Simon/eDiAna)"
+            ]
+          },
+          "phillips2025_p182_n20": {
+            "N6": "w",
+            "N7": "y",
+            "historical_reversal_reported": true,
+            "conclusive": false
+          },
+          "rizza_zinko2025_p144": {
+            "N22": "V (Vokal)",
+            "N24": "b"
+          }
+        },
+        "crosswalk_scope": "These are attributed source-specific labels, not adopted phonetic values or a global normalization rule."
       },
       "new_canonical_reading": false,
       "independent_review": false,
@@ -258,16 +392,23 @@
         "rizza-zinko2025"
       ],
       "observations": [
-        "At p.122 n.6, the authors identify their older2016 reading and propose a correction at S I.2.5 line5, reporting confirmation during their October2024 object inspection."
+        "Printed p.122 n.6 explicitly corrects the earlier pigse[s] to pigbe[s], retaining the bracketed final s; p.121 Fig.2 provides the quasi-bilingual line7 comparison. The authors report confirming their correction at the inscription in October2024.",
+        "The p.144 table distinguishes N24 b from N14 s and N15 s2; that does not license automatic conversion of frozen ś. The p.147 Nachtrag introduces a provisional u2 for a form of N02, separate from N22 V in the p.144 table."
       ],
       "remaining_work": [
-        "The source’s object inspection is not a project inspection. Compare exact signs, spelling systems and restorations before replacing the frozen ending."
+        "Printed correction and comparison layout check is complete. The paper does not provide a newly inspected S9 line5 photograph here; independent sign/restoration adjudication and the source-specific bridge from frozen pigśe[ś] remain open. Keep the author’s autopsy distinct from project inspection."
       ],
       "details": {
         "reported_old_form": "pigse[s]",
         "proposed_form": "pigbe[s]",
         "source_reported_autopsy_date": "2024-10",
-        "project_autopsy": false
+        "project_autopsy": false,
+        "printed_correction_verified": true,
+        "bracketed_final_s_preserved": true,
+        "source_s9_photo_inspected_this_pass": false,
+        "frozen_ending": "pigśe[ś]",
+        "automatic_transcription_crosswalk_established": false,
+        "nachtrag_u2_is_N22": false
       },
       "new_canonical_reading": false,
       "independent_review": false,
@@ -281,5 +422,14 @@
   "accepted_readings_added": 0,
   "independent_reviews_added": 0,
   "source_files_redistributed": false,
-  "project_representation_corrections": 1
+  "project_representation_corrections": 1,
+  "follow_up": {
+    "checked_local_date": "2026-10-15",
+    "acquisition": "USER_SUPPLIED_PDFS",
+    "prior_web_only_state_superseded_for_listed_sources": [
+      "phillips2025",
+      "rizza-zinko2025"
+    ],
+    "scope": "Printed publication typography/figures only; no object autopsy, interactive RTI examination, independent expert review or automatic reading admission."
+  }
 }
