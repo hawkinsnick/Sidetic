@@ -33,6 +33,14 @@
       "id_pointer": "/review_id",
       "unit": "selected source collation task",
       "scope": "All four selected source contexts now have rendered-PDF consultation records. The supplied2025 PDFs close the Abydos figure/notation check and the pigbe[s] printed-correction check. Source-specific sign/value uncertainty and separate object identities remain explicit."
+    },
+    {
+      "name": "p1-source-followup",
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "pointer": "/cases",
+      "id_pointer": "/id",
+      "unit": "bounded source/identity follow-up disposition",
+      "scope": "Bounded documentary source/identity follow-up; not complete corpus collation or independent epigraphic acceptance."
     }
   ],
   "relations": [
@@ -42,6 +50,13 @@
       "from_pointer": "/review_id",
       "to_pointer": "/review_id",
       "label": "EXACT_NATIVE_REVIEW_ID_CURRENT_SOURCE_QUALIFICATION_NOT_ACCEPTANCE"
+    },
+    {
+      "from": "digital-reference",
+      "to": "p1-source-followup",
+      "from_pointer": "/record_id",
+      "to_pointer": "/record_id",
+      "label": "EXACT_S6_RECORD_TARGET_NOT_INDEPENDENT_OBJECT_CERTIFICATION"
     }
   ],
   "artifacts": [
@@ -141,6 +156,13 @@
       "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
       "encoding": "json",
       "role": "fresh bounded source collation; consultation modes differ by source",
+      "source_snapshot_commit": null
+    },
+    {
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "sha256": "bad037f0a965445ce0ce5a8547c23be1c5d5a8a15a8824f60f9c590dec57a992",
+      "encoding": "json",
+      "role": "p1-source-followup",
       "source_snapshot_commit": null
     }
   ],

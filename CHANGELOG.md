@@ -16,3 +16,7 @@ Four selected comparisons. Correct the project-added underdots in the Ferrer pro
 ### 2026-10-15 supplied-PDF source follow-up
 
 All four selected source contexts now have rendered-PDF consultation records. The supplied2025 PDFs close the Abydos figure/notation check and the pigbe[s] printed-correction check. Source-specific sign/value uncertainty and separate object identities remain explicit. Native source tasks, source-version/render receipts, documentation and AI guidance updated; frozen readings and independent reviews unchanged.
+
+## 2026-10-16 source reconciliation follow-up
+
+Added a [bounded P1 source/identity follow-up](docs/P1-SOURCE-FOLLOWUP-2026-10-16.md), exact query linkage, input/hash checks and rejection tests. Native readings, admission and independent-review gates are unchanged.

@@ -61,3 +61,7 @@ The frozen eDiAna reference now has an EpiDoc view of all 11 native document rec
 Bounded attribution and comparison review: [source qualifications and remaining gaps](docs/ATTRIBUTION-REVIEW.md).
 
 [Selected publication collation and source qualifications —2026-10-15](docs/SOURCE-COLLATION-2026-10-15.md).
+
+## 2026-10-16 source reconciliation follow-up
+
+Added a [bounded P1 source/identity follow-up](docs/P1-SOURCE-FOLLOWUP-2026-10-16.md), exact query linkage, input/hash checks and rejection tests. Native readings, admission and independent-review gates are unchanged.

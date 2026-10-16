@@ -67,6 +67,10 @@ Four selected comparisons. Correct the project-added underdots in the Ferrer pro
 
 All four selected source contexts now have rendered-PDF consultation records. The supplied2025 PDFs close the Abydos figure/notation check and the pigbe[s] printed-correction check. Source-specific sign/value uncertainty and separate object identities remain explicit. Read `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md`; current rendered-PDF receipts supersede the retained web-only access history. Never report those earlier download failures as a current source-acquisition gap. Preserve the packet’s source-specific uncertainty, Unicode notation, component and identity boundaries. Publication inspection adds no accepted reading or independent expert review; do not redistribute the supplied PDFs or page images.
 
+## P1 source follow-up
+
+Read `research/p1-source-followup-2026-10-16.json` and `docs/P1-SOURCE-FOLLOWUP-2026-10-16.md` for current qualified dispositions. Retrieve the `p1-source-followup` native-query collection. Keep source-specific notations, failed routes, quarantine, unresolved identity and reading alternatives with every relevant result; no passing documentary check grants admission or independent acceptance.
+
 
 # Corpus Project AI Research Contract — 0.3
 

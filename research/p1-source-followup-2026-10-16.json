@@ -1,0 +1,202 @@
+{
+  "format": "corpus-p1-source-followup-v1",
+  "repository": "hawkinsnick/Sidetic",
+  "checked_local_date": "2026-10-16",
+  "date_basis": "America/Chicago",
+  "scope": "Bounded documentary source/identity follow-up; not complete corpus collation or independent epigraphic acceptance.",
+  "inputs": [
+    {
+      "path": "data/reference/records.json",
+      "sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde"
+    },
+    {
+      "path": "research/source-checks.json",
+      "sha256": "3c1f0445a6423f6ea19558e452224181962e971d95087d74231576e4677d3c3f"
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea"
+    }
+  ],
+  "sources": [
+    {
+      "id": "darga-early-s6",
+      "url": "https://dergipark.org.tr/en/download/article-file/12728",
+      "landing_url": "https://dergipark.org.tr/en/pub/iuanadolu/article/13668",
+      "http_status": 200,
+      "bytes": 2007677,
+      "sha256": "58d823fc892dd750dd95d54106f2f607cdc36deecd7dee83973d7625471b43ad",
+      "pdf_pages": 12,
+      "consultation": "PRIMARY_PUBLICATION_SCAN_VISUALLY_INSPECTED",
+      "bibliography": {
+        "author": "A. Muhibbe Darga",
+        "title": "Seleukeia Grekçe-Sidece Çiftdilli (Bilinguis) Yazıtı",
+        "journal": "Anadolu Araştırmaları / Anatolian Research",
+        "issue": "9",
+        "printed_pages": "401–410 plus Levha I–II",
+        "conventional_citation_year": 1983,
+        "platform_issue_year": 1984,
+        "platform_publication_date": "2012-03-12",
+        "date_conflict_resolved": false
+      },
+      "rights": "Publicly downloadable journal scan; no specific reuse grant verified for this historical component. PDF, plates and full text excluded.",
+      "source_files_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 1,
+          "printed_locator": "[401]",
+          "render_sha256": "7bce4635b25fa451682d99e3fb5ff82c3383ef4db2f21b3e5c0a7679ed03e202",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 2,
+          "printed_locator": "402",
+          "render_sha256": "31c273f47cf1d2eefee70819889c56440b0df3ce435d6c593e0d8993a04b842f",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 3,
+          "printed_locator": "403",
+          "render_sha256": "1621a54e2e2d4eab7f6faa9c2fa1e6c59e7ac5e535290c361ae1743b7a6b5dc1",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 4,
+          "printed_locator": "404",
+          "render_sha256": "c91d95d545aa0e851406742df806696395dde26965d6296a1393c6790de5a454",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 5,
+          "printed_locator": "405",
+          "render_sha256": "2da740768b21b5a4e21ffd243736dca8abdc695cd86f586e3d5e7b8b29f05338",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 6,
+          "printed_locator": "406",
+          "render_sha256": "3871923af6b2717f7e120c87a6d3e90b4eedc81c486c4de6399fcdafa2b8e8af",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 7,
+          "printed_locator": "407",
+          "render_sha256": "953c53309772d6a4ad763d5bf6ceddaff41fd132998b85cb924b8074090ba46a",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 8,
+          "printed_locator": "408",
+          "render_sha256": "db20f9de3a241bfe6e168ac7960aa703a6b7aaa3f5a3bfc5278f83c6acb10394",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 9,
+          "printed_locator": "409",
+          "render_sha256": "8596d771104a185473d3d3c58a79c048209902a8bb08bfc6875b6a13047b5613",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 10,
+          "printed_locator": "410",
+          "render_sha256": "05e2b0d1d113103abc65213a286382545b2bdeb9952193849b3a68abba685d5e",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 11,
+          "printed_locator": "Levha I",
+          "render_sha256": "f765242216c7644031b1bc4fea47a755635792adb3c4a8549ea5951dc0d3ab44",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 12,
+          "printed_locator": "Levha II",
+          "render_sha256": "f9b80ebc10487d2c49ca441d2a46c819c69bab8e0b5ebaef8601c468b961fcf5",
+          "render_redistributed": false
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "SID-S6-DARGA-GREEK",
+      "record_id": "sidetic:ediana:305",
+      "source_ids": [
+        "darga-early-s6"
+      ],
+      "source_locator": "p.402/PDF2, Greek drawing; p.403/PDF3, discussion",
+      "disposition": "EARLY_PUBLICATION_COMPARISON_COMPLETE_WITH_RETAINED_LIMITS",
+      "observations": [
+        "Greek ethnic is printed/drawn with E in the early source; later Y proposal remains a separate Greek-component question."
+      ],
+      "remaining_work": [
+        "Direct Brixhe–Neumann1988 comparison and damaged-letter assessment remain open."
+      ],
+      "canonical_admission": false,
+      "physical_identity_certified": false,
+      "independent_review": false
+    },
+    {
+      "id": "SID-S6-DARGA-NAME",
+      "record_id": "sidetic:ediana:305",
+      "source_ids": [
+        "darga-early-s6"
+      ],
+      "source_locator": "p.404/PDF4, first-name discussion",
+      "disposition": "EARLY_PUBLICATION_COMPARISON_COMPLETE_WITH_RETAINED_LIMITS",
+      "observations": [
+        "The early name proposal includes restored m/p and historical u-value notation. It is not a secure equivalent of the later ewpel proposal."
+      ],
+      "remaining_work": [
+        "Do not normalize historical sign numbers/values into modern Nollé numbering."
+      ],
+      "canonical_admission": false,
+      "physical_identity_certified": false,
+      "independent_review": false
+    },
+    {
+      "id": "SID-S6-DARGA-LOCATION",
+      "record_id": "sidetic:ediana:305",
+      "source_ids": [
+        "darga-early-s6"
+      ],
+      "source_locator": "p.408/PDF8, concluding note",
+      "disposition": "EARLY_PUBLICATION_COMPARISON_COMPLETE_WITH_RETAINED_LIMITS",
+      "observations": [
+        "The note reports Antalya museum custody while saying the author could not re-examine or measure the stone later."
+      ],
+      "remaining_work": [
+        "Obtain a current item-level inventory; dated custody is not present-location certification."
+      ],
+      "canonical_admission": false,
+      "physical_identity_certified": false,
+      "independent_review": false
+    },
+    {
+      "id": "SID-S6-DARGA-PLATES",
+      "record_id": "sidetic:ediana:305",
+      "source_ids": [
+        "darga-early-s6"
+      ],
+      "source_locator": "Levha I–II/PDF11–12",
+      "disposition": "EARLY_PUBLICATION_COMPARISON_COMPLETE_WITH_RETAINED_LIMITS",
+      "observations": [
+        "Published photo, squeeze and numbered value table consulted. These publication depictions do not add objects or independent project autopsy."
+      ],
+      "remaining_work": [
+        "Resolve damaged signs with adequate object evidence; historical no.6 u is not an automatic modern N6 mapping."
+      ],
+      "canonical_admission": false,
+      "physical_identity_certified": false,
+      "independent_review": false
+    }
+  ],
+  "limits": {
+    "canonical_readings_added": 0,
+    "physical_identities_certified": 0,
+    "independent_reviews_added": 0,
+    "frozen_readings_changed": false,
+    "source_files_redistributed": false,
+    "literature_exhaustive": false
+  }
+}

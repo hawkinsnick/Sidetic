@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Sidetic",
-  "profile_sha256": "78f54331dc2e39381e700427dae77cfef71f5185fa60889e3a6233dd311761e5",
+  "profile_sha256": "79211222e0382581480d3b5016a29d2c9dcbfc1dff97117b00d3f7c2fea7369e",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -77,6 +77,25 @@
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "fresh bounded source collation; consultation modes differ by source",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "p1-source-followup",
+      "native_unit": "bounded source/identity follow-up disposition",
+      "record_count": 4,
+      "scope": "Bounded documentary source/identity follow-up; not complete corpus collation or independent epigraphic acceptance.",
+      "example_ids": [
+        "SID-S6-DARGA-GREEK",
+        "SID-S6-DARGA-NAME",
+        "SID-S6-DARGA-LOCATION"
+      ],
+      "provenance": {
+        "path": "research/p1-source-followup-2026-10-16.json",
+        "sha256": "bad037f0a965445ce0ce5a8547c23be1c5d5a8a15a8824f60f9c590dec57a992",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "p1-source-followup",
         "encoding": "json"
       }
     }
@@ -192,6 +211,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "fresh bounded source collation; consultation modes differ by source",
+      "encoding": "json"
+    },
+    {
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "sha256": "bad037f0a965445ce0ce5a8547c23be1c5d5a8a15a8824f60f9c590dec57a992",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "p1-source-followup",
       "encoding": "json"
     }
   ],
