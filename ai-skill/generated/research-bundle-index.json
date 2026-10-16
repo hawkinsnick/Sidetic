@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a71cb4ad213815ef0793a9a46ffede18d462bb46",
-  "evidence_fingerprint_sha256": "9047399bf2fd42a83884512b8e38a23c129363a32bce1ad56acc9a60f120e488",
+  "source_commit": "9b9bc5f8348b2edea84613c59fb57ae118ee8873",
+  "evidence_fingerprint_sha256": "c6e806ef7390c340b891a5484d5b58e8501a24a2ea22fd893c11cd498b1419f9",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,14 +104,14 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "ab0270092cb38336815059a1db4a41b5cb95575db6de85678ef63c32465b8924",
-      "bytes": 10503
+      "sha256": "7b7bde1c02768739bb0af6e90563743b3aa4caa8e53ad8f32f36c143e53cb4f9",
+      "bytes": 11306
     },
     {
       "role": "source-checks",
       "path": "research/source-checks.json",
-      "sha256": "9006e2df963600f6b15e23650896f86c01ee8071df605d591e11185581a13e72",
-      "bytes": 7410
+      "sha256": "3c1f0445a6423f6ea19558e452224181962e971d95087d74231576e4677d3c3f",
+      "bytes": 8784
     },
     {
       "role": "source-access",
@@ -122,13 +122,13 @@
     {
       "role": "packets",
       "path": "review/packets.json",
-      "sha256": "8d9449b1920b9b8cbbd76ef84e930f380453173c00352baaeccf6eee3c37d753",
+      "sha256": "1c27f773897e96e8de23e606bd3618a343e5684e3f94b81ad6432d55e87b3adf",
       "bytes": 12271
     },
     {
       "role": "handoff-manifest",
       "path": "review/handoff-manifest.json",
-      "sha256": "63ed7e6a3c30072ceb7c723f401bbcc7683a6f6f6d0ad32dbac085391a7d975a",
+      "sha256": "17583afcdb0a683fc26f41e92f088a59c0fb1619f900b4ff7577a69e4832a394",
       "bytes": 2668
     },
     {
@@ -146,13 +146,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "f92c99959f6b91b107447cc2998e2e6f696676965a9119a6719b983a6ff903c5",
-      "bytes": 34199
+      "sha256": "24f1c6a4274f53eb80074b14e30df618df131c090c1383795e6ed7f3bf827c5f",
+      "bytes": 34469
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "4dc4ecef765672c5ce5fd0edd5d8ffdb95e720234b057ff192b13eb4ef25b355",
+      "sha256": "f73588b7efe8606599f0791a1f102527b15be45d632d33f6caa9da1e2c4181cb",
       "bytes": 1928
     },
     {
@@ -230,14 +230,14 @@
     {
       "role": "native_evidence_profile",
       "path": "research/evidence-query-profile.json",
-      "sha256": "02dcb5f46a9f65ab24da0383f3bea3bc6f9a41c78f62db175f18930f41359e03",
-      "bytes": 7338
+      "sha256": "78f54331dc2e39381e700427dae77cfef71f5185fa60889e3a6233dd311761e5",
+      "bytes": 7212
     },
     {
       "role": "native_evidence_coverage",
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "e7ef7d6c24270ad21835ead48ad3c83cd9f59a2d95a18e093fa5f2f46ba23727",
-      "bytes": 8962
+      "sha256": "3c5b747bb33589266a2ff4f5ffe04ab1c42c6b9016e41c90120dec69a4f6058a",
+      "bytes": 8836
     },
     {
       "role": "native_evidence_query",
@@ -260,13 +260,13 @@
     {
       "role": "attribution_review",
       "path": "research/attribution-review.json",
-      "sha256": "4e0cfc5ceeb726d3a4f2be486a01239ae90ba9a5cd4ac05f98733494680f2069",
+      "sha256": "975f81896b8423afdb0431a08f0f0785ea395826df8f462e2e4e830bbd41ddbb",
       "bytes": 10271
     },
     {
       "role": "attribution_review",
       "path": "analysis/attribution-review-audit.json",
-      "sha256": "5365ceaececc6cb22b1fde19654528ab26ee477075352021d1f4b1f78655d922",
+      "sha256": "74843662053ee020a2139c1eeb738965f81197bfb392845563d0afef7823626f",
       "bytes": 1136
     },
     {
@@ -290,20 +290,20 @@
     {
       "role": "selected_source_collation",
       "path": "research/source-collation-2026-10-15.json",
-      "sha256": "5fedbd6888655f162068aae1b762ef173b54d1ae219dd3a2b90951dfe10c97db",
-      "bytes": 12576
+      "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
+      "bytes": 20165
     },
     {
       "role": "selected_source_collation",
       "path": "analysis/source-collation-2026-10-15.json",
-      "sha256": "3538f4e38ec6504f534b56762e6a53bc9f0a86010f7a7cd543a8e5b26022ea2d",
-      "bytes": 822
+      "sha256": "f29a8e42157715035755fe632f2a4f408767d38af7b6c412ab07eec075a7cdd7",
+      "bytes": 765
     },
     {
       "role": "selected_source_collation",
       "path": "docs/SOURCE-COLLATION-2026-10-15.md",
-      "sha256": "cba02bdf988d5dc7d79662e262f80213770f7fad127edb97fbe1ef137cc0c866",
-      "bytes": 5700
+      "sha256": "46b02e7d65467f3b85ebba2b03f119a77e7128821278c71367f6624fa85dd800",
+      "bytes": 6476
     },
     {
       "role": "selected_source_collation",
