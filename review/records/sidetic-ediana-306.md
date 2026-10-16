@@ -5,7 +5,7 @@ Source label:  S7 (S I.2.3) (scriptio continua)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `2beeda2cc80d794c3127a77d9a0eae84e940bf73f1ea62ac9dd4ac243598faf4`
-Evidence fingerprint: `d4888965f6a7fb9e29fdf6a46ed12db61b73f2213072685e42ffc8ef512ee28a`
+Evidence fingerprint: `81a7e2c0bfa3befd89602cb079f11d3de35b58b9fc39e839258ca0057f536f51`
 
 ## Captured source evidence
 

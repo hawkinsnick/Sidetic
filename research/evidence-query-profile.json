@@ -32,7 +32,7 @@
       "pointer": "/cases",
       "id_pointer": "/review_id",
       "unit": "selected source collation task",
-      "scope": "Four selected comparisons. Correct the project-added underdots in the Ferrer proposal attribution: the paper prints ewpel and retains uncertainty in prose. Keep the earlier project string in correction history. Greek E/Y belongs to the Greek parallel, not the frozen Sidetic row. The two2025 S9 contexts were freshly inspected as publisher-provided web text, not PDF figures or project autopsy."
+      "scope": "All four selected source contexts now have rendered-PDF consultation records. The supplied2025 PDFs close the Abydos figure/notation check and the pigbe[s] printed-correction check. Source-specific sign/value uncertainty and separate object identities remain explicit."
     }
   ],
   "relations": [
@@ -75,7 +75,7 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "9006e2df963600f6b15e23650896f86c01ee8071df605d591e11185581a13e72",
+      "sha256": "3c1f0445a6423f6ea19558e452224181962e971d95087d74231576e4677d3c3f",
       "encoding": "json",
       "role": "corpus-level source/rights/context register",
       "source_snapshot_commit": null
@@ -131,14 +131,14 @@
     },
     {
       "path": "research/attribution-review.json",
-      "sha256": "4e0cfc5ceeb726d3a4f2be486a01239ae90ba9a5cd4ac05f98733494680f2069",
+      "sha256": "975f81896b8423afdb0431a08f0f0785ea395826df8f462e2e4e830bbd41ddbb",
       "encoding": "json",
       "role": "bounded attribution review",
       "source_snapshot_commit": null
     },
     {
       "path": "research/source-collation-2026-10-15.json",
-      "sha256": "5fedbd6888655f162068aae1b762ef173b54d1ae219dd3a2b90951dfe10c97db",
+      "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
       "encoding": "json",
       "role": "fresh bounded source collation; consultation modes differ by source",
       "source_snapshot_commit": null

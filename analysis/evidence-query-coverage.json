@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Sidetic",
-  "profile_sha256": "02dcb5f46a9f65ab24da0383f3bea3bc6f9a41c78f62db175f18930f41359e03",
+  "profile_sha256": "78f54331dc2e39381e700427dae77cfef71f5185fa60889e3a6233dd311761e5",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -54,7 +54,7 @@
       ],
       "provenance": {
         "path": "research/attribution-review.json",
-        "sha256": "4e0cfc5ceeb726d3a4f2be486a01239ae90ba9a5cd4ac05f98733494680f2069",
+        "sha256": "975f81896b8423afdb0431a08f0f0785ea395826df8f462e2e4e830bbd41ddbb",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded attribution review",
@@ -65,7 +65,7 @@
       "name": "source-collation-2026-10-15",
       "native_unit": "selected source collation task",
       "record_count": 4,
-      "scope": "Four selected comparisons. Correct the project-added underdots in the Ferrer proposal attribution: the paper prints ewpel and retains uncertainty in prose. Keep the earlier project string in correction history. Greek E/Y belongs to the Greek parallel, not the frozen Sidetic row. The two2025 S9 contexts were freshly inspected as publisher-provided web text, not PDF figures or project autopsy.",
+      "scope": "All four selected source contexts now have rendered-PDF consultation records. The supplied2025 PDFs close the Abydos figure/notation check and the pigbe[s] printed-correction check. Source-specific sign/value uncertainty and separate object identities remain explicit.",
       "example_ids": [
         "SID-EUEMPOLOS-2025",
         "SID-S6-GREEK-2020",
@@ -73,7 +73,7 @@
       ],
       "provenance": {
         "path": "research/source-collation-2026-10-15.json",
-        "sha256": "5fedbd6888655f162068aae1b762ef173b54d1ae219dd3a2b90951dfe10c97db",
+        "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "fresh bounded source collation; consultation modes differ by source",
@@ -116,7 +116,7 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "9006e2df963600f6b15e23650896f86c01ee8071df605d591e11185581a13e72",
+      "sha256": "3c1f0445a6423f6ea19558e452224181962e971d95087d74231576e4677d3c3f",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
@@ -180,7 +180,7 @@
     },
     {
       "path": "research/attribution-review.json",
-      "sha256": "4e0cfc5ceeb726d3a4f2be486a01239ae90ba9a5cd4ac05f98733494680f2069",
+      "sha256": "975f81896b8423afdb0431a08f0f0785ea395826df8f462e2e4e830bbd41ddbb",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded attribution review",
@@ -188,7 +188,7 @@
     },
     {
       "path": "research/source-collation-2026-10-15.json",
-      "sha256": "5fedbd6888655f162068aae1b762ef173b54d1ae219dd3a2b90951dfe10c97db",
+      "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "fresh bounded source collation; consultation modes differ by source",
