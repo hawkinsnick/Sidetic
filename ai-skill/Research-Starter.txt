@@ -80,6 +80,21 @@ Read `review/p1-human-request.json` and `docs/P1-HUMAN-VALIDATION.md`. Distingui
 
 Read `docs/ABYDOS-EDITION-COMPARISON-2026-10-16.md` and the expanded `SID-S9-ABYDOS-COMPARISON` in the source-collation packet. Ferrer–Soler–Adiego’s supplied2025 PDF is directly inspected: Pojau / final u competes with Phillips–Rutherford’s qualified w(?); possible overwriting and unknown order remain explicit. Preserve j/y source conventions, N02-versus-N22 identity, initial-independent-submission versus final-article dependence, first-graffito-only revised scope, and S9 as a separate object. This closes the selected two-edition documentary comparison, not sign adjudication or fuller new-vowel source acquisition. No new canonical reading, object, witness total or independent review follows.
 
+## Research delivery, evidence answers and feedback
+
+Read `docs/RESEARCH-DELIVERY.md` and verify `analysis/research-delivery.json`
+with `python scripts/research_delivery.py --check` before using delivery claims.
+Use `--dossier ID --collection COLLECTION` for exact evidence-bound answers;
+preserve the complete native payload, citations, categories and limitations.
+Use `--search TEXT` for source-record retrieval. Do not convert file pointers
+into missing primary-edition citations, catalogue rows into unique objects,
+source dependence into independent confirmation, or review forms into acceptance.
+Prepare bounded review drafts with `--review-template`; validate submissions with
+`--validate-review`, then require native human-maintainer acceptance. Treat delivery
+and deterministic answer tests as engineering checks, not empirical LLM validation
+or completion of scholarly/source-permission work. Local packaging grants no new
+redistribution rights. Label any model-generated analysis separately and cite it.
+
 
 # Corpus Project AI Research Contract — 0.3
 

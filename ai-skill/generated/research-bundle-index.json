@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "387e3e2814d07471bbc78e6cf9c22477e36c176e",
-  "evidence_fingerprint_sha256": "50e1f59af355a48a87dc7f1895e338102d6481e04d7063a9c1d9f8564a6fa028",
+  "source_commit": "a62770b5847e4989e878772f7765a4e412ec00f2",
+  "evidence_fingerprint_sha256": "8ddce95493d5e3f9d80c7312977c9f580d4393d422b68c7a82edac75b12b4a08",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "abcb0254bb7af34aaf599e7a37bfb89372faead03f80f9f93e778d9b4f088250",
-      "bytes": 12927
+      "sha256": "77c93b0447c0412c679a5f4f107fa1ff48e8f79eecb949fa9d3a0463639e08df",
+      "bytes": 13943
     },
     {
       "role": "source-checks",
@@ -370,6 +370,30 @@
       "path": "docs/ABYDOS-EDITION-COMPARISON-2026-10-16.md",
       "sha256": "abcbea205e5762cf64d4f1c5176c6643f447d265e85e36482b72a8def93d4368",
       "bytes": 4105
+    },
+    {
+      "role": "research_delivery",
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "role": "research_delivery",
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    },
+    {
+      "role": "research_delivery",
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "role": "research_delivery",
+      "path": "analysis/research-delivery.json",
+      "sha256": "cda72e30a78925238a538f4290378070d3574b370687119c5518ba8c16353c95",
+      "bytes": 10061
     }
   ],
   "contract": {
