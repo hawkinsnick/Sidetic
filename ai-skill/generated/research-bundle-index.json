@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "7e030332539fd3811679f8d27e79bef6f94b0821",
-  "evidence_fingerprint_sha256": "06fb64c1620b8a9ff5aa1e90a1a87aa194f7edb4c2ac0b539631d806c3a8b57b",
+  "source_commit": "88b6cfa45607a374d66d82a2cd87dc15cce87cb0",
+  "evidence_fingerprint_sha256": "bfa3864dc8de39b1d1e4ae9b59f8df996a12e89f634e4807146d51bbc2bd2a0b",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "ad7c107177636a63d160530b01bbe1323c4bf267c79a20fd816fb3a840b581d6",
-      "bytes": 11726
+      "sha256": "13dc1d21bcd46fbea7af846edd10cc6c2ff345712a93f40e14bc7a474ac9ad27",
+      "bytes": 12169
     },
     {
       "role": "source-checks",
@@ -238,6 +238,30 @@
       "path": "tests/test_p1_source_followup.py",
       "sha256": "c8acb26c91ec8eeed2b4d578145f15d034f8e7d86ff7234a30d14ee2a29b5738",
       "bytes": 3331
+    },
+    {
+      "role": "p1_human_request",
+      "path": "review/p1-human-request.json",
+      "sha256": "31ae690f5e0fe348276cc0ed2738bf57fd35accc289e32b00324456a3502e34e",
+      "bytes": 3992
+    },
+    {
+      "role": "p1_human_request",
+      "path": "docs/P1-HUMAN-VALIDATION.md",
+      "sha256": "dbbbfbf5fd7822de04d1deb94bf54ea3cd07070a37f51acff2f61f76cc7665e5",
+      "bytes": 1135
+    },
+    {
+      "role": "p1_human_request",
+      "path": "scripts/p1_human_request.py",
+      "sha256": "c24900a6da3d38ce7a81d03649f08e1a0ac2ad11aaca1ebe3441bb77f158b05e",
+      "bytes": 2575
+    },
+    {
+      "role": "p1_human_request",
+      "path": "tests/test_p1_human_request.py",
+      "sha256": "f0f287bdad90da54b98d6c951a1326263ce7224cccf585eb3f841b54d4c53e1c",
+      "bytes": 1587
     },
     {
       "role": "raw_source",
