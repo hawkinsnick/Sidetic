@@ -29,3 +29,10 @@ Added exact evidence-bound decision routing and preserved acquisition/maintainer
 ### 2026-10-16 Abydos alternative-edition comparison
 
 Compared the supplied Ferrer–Soler–Adiego2025 paper with Phillips–Rutherford at the first graffito’s final sign; five printed pages inspected. Retained competing u/w(?) and possible-overwriting analyses, author/photo dependence and separate S9 identity. Updated source receipts, native tasks, documentation and AI routing; no frozen reading or independent review added.
+
+## 2026-10-17 — Research delivery controls
+
+Add checksum-bound native search/evidence responses, deterministic local research
+packaging and offline replay, revision-bound review submission forms and rejection
+tests. Update individual AI instructions and documentation. No source record,
+reading, expert acceptance or redistribution permission is added by this change.
