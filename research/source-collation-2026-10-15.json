@@ -7,7 +7,7 @@
   "inputs": [
     {
       "path": "research/source-checks.json",
-      "sha256": "3c1f0445a6423f6ea19558e452224181962e971d95087d74231576e4677d3c3f",
+      "sha256": "e50deb8ed5eb6a01d1501ff373e4be08bbd614934d20424775a01870a21fc08b",
       "source_snapshot_commit": null
     },
     {
@@ -273,6 +273,65 @@
           "printed p.122, §3.1 continuation and n.6"
         ]
       }
+    },
+    {
+      "source_id": "ferrer-soler-adiego2025-egypt",
+      "citation": "Gem Ferrer, Susana Soler and Ignasi-Xavier Adiego (2025), Sidetic in Egypt, Kadmos64(1/2), printed189–193.",
+      "doi": "10.1515/kadmos-2025-0011",
+      "url": "https://doi.org/10.1515/kadmos-2025-0011",
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "b7917388008396ba6fac97e31c771e56e7c92f215e6290d4514244ddb9118e81",
+      "source_pdf_bytes": 358583,
+      "access_receipt": {
+        "acquisition": "USER_SUPPLIED_PDF",
+        "uploaded_filename": "Sidetic_in_Egypt.pdf",
+        "checked_local_date": "2026-10-16",
+        "bytes": 358583,
+        "sha256": "b7917388008396ba6fac97e31c771e56e7c92f215e6290d4514244ddb9118e81",
+        "pdf_magic": true,
+        "page_count": 6,
+        "public_download_succeeded": false
+      },
+      "limits": "All five printed pages visually inspected; published photographs/copy and author arguments, not project object autopsy or independent expert adjudication. The revised paper editions only the first graffito. Its final version consulted Phillips–Rutherford; initially independent submissions are not independent final-publication corroboration.",
+      "source_file_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 1,
+          "printed_locator": "p.189, title, authors, licence and initial discovery account",
+          "render_sha256": "a332f4e095960e4eb6ff815693281039cc7e905055b834b9068271dbdf3dba35",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 2,
+          "printed_locator": "p.190, two submissions, article exchange and limits of second-graffito reading",
+          "render_sha256": "731673d4e79d2f80f4458830960a524a0b2fcb57b6684add4d396c1e76fc0660",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 3,
+          "printed_locator": "p.191, narrowed first-graffito scope, Devéria copy Fig.1 and final-letter argument",
+          "render_sha256": "a558d45158d82350897c87a5e384c1bdcd3065d55439a01a8bff294ce7872cd7",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 4,
+          "printed_locator": "p.192, Pojau, photographs Figs.2–3 dated4 December2022, competing u/w argument",
+          "render_sha256": "5192e15dd86fbf0a7592738dd95f732f5013e4c0d9453421e75c9096fe61b3be",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 5,
+          "printed_locator": "p.193, possible overwriting with unknown order, palaeographic and onomastic interpretation",
+          "render_sha256": "98bfeffdc4f9b4f57a5d6da2a30d7fca4cf72e894349a9abc9f489f3a584b618",
+          "render_redistributed": false
+        }
+      ],
+      "rights_statement": {
+        "statement": "CC BY4.0",
+        "locator": "printed p.189",
+        "scope": "The supplied article states this licence; no source PDF or image is redistributed by this patch."
+      },
+      "bibliographic_qualification": "The article header and substantive pages are189–193; the supplied PDF has a sixth blank leaf. Publisher metadata previously reported189–194. This receipt uses printed loci and does not label the blank leaf194."
     }
   ],
   "cases": [
@@ -339,14 +398,18 @@
       "comparison_class": "SIGN_IDENTITY_AND_TRANSCRIPTION_SYSTEM",
       "source_ids": [
         "phillips2025",
-        "rizza-zinko2025"
+        "rizza-zinko2025",
+        "ferrer-soler-adiego2025-egypt"
       ],
       "observations": [
         "Printed p.177 Figs.2–3 and the adjacent table label the final graffito1 sign w(?) / N6; p.178 makes that preference conditional on discounting a stroke. Fig.1 is a published object photograph; the project has not examined the object.",
-        "Printed p.178 n.11 distinguishes N22 sign identity from a/a2/V notation. Printed p.182 n.20 reports the historical N6/N7 value reversal, still not conclusive. Rizza–Zinko’s p.144 table separately retains N22 as V (Vokal). Shared name evidence does not identify Abydos graffiti with S9."
+        "Printed p.178 n.11 distinguishes N22 sign identity from a/a2/V notation. Printed p.182 n.20 reports the historical N6/N7 value reversal, still not conclusive. Rizza–Zinko’s p.144 table separately retains N22 as V (Vokal). Shared name evidence does not identify Abydos graffiti with S9.",
+        "The supplied Sidetic in Egypt p.191–192 prints Pojau for Abydos graffito1 and argues that its final letter is the new u-like sign, formerly confused with N02 e variants. Its p.192 photographs are credited to Susana Soler and dated4 December2022. This is an attributed alternative to Phillips–Rutherford’s qualified final w(?), not a settled project reading.",
+        "At pp.192–193 Ferrer–Soler–Adiego also allow one letter written over the other, with the order unknown. At pp.190–191 they describe initially independent submissions but acknowledge consulting Phillips–Rutherford’s original article; the published revision focuses exclusively on graffito1. Two papers and two photographs do not create additional ancient witnesses or independent expert reviews."
       ],
       "remaining_work": [
-        "Selected PDF/figure/convention inspection is complete. N22 vowel adjudication and reconciliation with the other2025 Abydos edition remain open. Preserve literal frozen Vn<sub>2</sub>; no global w/y/j substitution or same-object join."
+        "The selected two-edition documentary comparison is complete; the final u versus w(?) or possible overwritten-sign question remains unadjudicated. Preserve each author’s letter labels and j/y conventions; the full new-vowel argument in Ferrer’s separate Kadmos article was not rechecked by this receipt.",
+        "Keep N22/S9.6 vowel disagreement separate from the proposed split of N02 e variants. Brixhe–Neumann1988, current object/inventory evidence and independent damaged-sign review remain outside this completed comparison. No Abydos object is joined to S9 by a shared personal name."
       ],
       "details": {
         "target_component": "S9.6 N22",
@@ -375,7 +438,50 @@
             "N24": "b"
           }
         },
-        "crosswalk_scope": "These are attributed source-specific labels, not adopted phonetic values or a global normalization rule."
+        "crosswalk_scope": "These are attributed source-specific labels, not adopted phonetic values or a global normalization rule.",
+        "abydos_two_edition_comparison": {
+          "state": "DOCUMENTARY_COMPARISON_COMPLETE_READING_UNRESOLVED",
+          "target": "Abydos graffito1, an external published comparandum; not the frozen S9 object",
+          "phillips_rutherford": {
+            "doi": "10.1515/kadmos-2025-0010",
+            "printed_loci": [
+              "p.177 Figs.2–3 and table",
+              "p.178 final-sign discussion"
+            ],
+            "final_sign_literal": "w(?)",
+            "sign_label": "N6",
+            "condition": "Treat upper-right stroke as accidental or later; preference remains qualified.",
+            "name_comparandum_literal": "poyaw"
+          },
+          "ferrer_soler_adiego": {
+            "doi": "10.1515/kadmos-2025-0011",
+            "printed_loci": [
+              "p.191 Fig.1",
+              "p.192 Figs.2–3 and discussion",
+              "p.193 opening continuation"
+            ],
+            "name_reading_literal": "Pojau",
+            "final_sign_transcription_literal": "u",
+            "sign_identity_claim": "New u-like letter formerly confused with variants of N02 e; not N22.",
+            "alternative": "One letter may have been written over the other; incision order unknown.",
+            "photograph_credit": "Susana Soler",
+            "photograph_date_as_reported": "2022-12-04",
+            "photographs_in_published_article": 2,
+            "published_edition_scope": "FIRST_GRAFFITO_ONLY"
+          },
+          "same_graffito_as_other_paper": "EXPLICIT_AUTHOR_REPORT_AT_P190_NOT_PROJECT_PHYSICAL_CERTIFICATION",
+          "relation_to_frozen_S9": "PERSONAL_NAME_COMPARISON_ONLY_NOT_OBJECT_IDENTITY",
+          "phonetic_values_adopted": false,
+          "global_j_y_crosswalk_adopted": false,
+          "independence": {
+            "initial_independent_submissions": "REPORTED_BY_AUTHORS",
+            "final_article_consulted_other_submission": true,
+            "starting_copy": "Devéria / CIS1-1 Tabulae plateXVI, as reproduced and described at p.191; original plate not newly consulted",
+            "second_graffito_independent_edition_added": false,
+            "project_independent_reviews_added": 0
+          },
+          "source_guide": "docs/ABYDOS-EDITION-COMPARISON-2026-10-16.md"
+        }
       },
       "new_canonical_reading": false,
       "independent_review": false,
@@ -431,5 +537,18 @@
       "rizza-zinko2025"
     ],
     "scope": "Printed publication typography/figures only; no object autopsy, interactive RTI examination, independent expert review or automatic reading admission."
-  }
+  },
+  "later_followups": [
+    {
+      "checked_local_date": "2026-10-16",
+      "source_ids": [
+        "ferrer-soler-adiego2025-egypt"
+      ],
+      "comparison_id": "SID-S9-ABYDOS-COMPARISON",
+      "new_page_inspections": 5,
+      "blank_final_leaf_counted_as_inspected_page": false,
+      "new_selected_tasks": 0,
+      "scientific_acceptance_added": false
+    }
+  ]
 }

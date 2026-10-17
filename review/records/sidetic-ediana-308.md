@@ -5,7 +5,7 @@ Source label:  S9 (S I.2.5) (scriptio continua)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `9b352ee33dbe148c96ff2a524415748ce0fa7c3949680e6e9d62cb6bf83ae37c`
-Evidence fingerprint: `81a7e2c0bfa3befd89602cb079f11d3de35b58b9fc39e839258ca0057f536f51`
+Evidence fingerprint: `95c6fbbe39670a2c10db4b046e62257843746310d0bb34182c92d01a64268a53`
 
 ## Captured source evidence
 
@@ -87,11 +87,11 @@ Source: [https://www.researchgate.net/publication/396359585_Sidetic_graffiti_in_
 
 Locators: printed pp.177–178, graffito1 comparison with S9; printed p.178 n.11, N22 and transcription disagreement; printed p.182 n.20, w/y value history
 
-The paper compares an Abydos name with S9 and discusses the unresolved N22 sign and differing transcription systems. Similar names do not identify the same object. Preserve the frozen V and HTML subscript; do not substitute a proposed vowel or unify w/y/j notation without an explicit source-specific crosswalk.
+The paper compares an Abydos name with S9 and discusses the unresolved N22 sign and differing transcription systems. Similar names do not identify the same object. Preserve the frozen V and HTML subscript; do not substitute a proposed vowel or unify w/y/j notation without an explicit source-specific crosswalk. The supplied Ferrer–Soler–Adiego2025 paper prints Pojau, disputes the first Abydos graffito’s final w(?) in favour of u, and allows possible overwriting of unknown order. This alternative concerns the graffito’s final sign, not an adopted value for S9.6 N22. Their revised paper covers the first graffito only and consulted the earlier Phillips–Rutherford submission.
 
 - Evaluate N22 independently of the proposed Abydos name
 - Distinguish common-name comparison from physical object identity
-- Reconcile the two 2025 Abydos editions before counting new objects
+- Adjudicate the final-sign u/w(?) or overwritten-sign alternatives; the two published editions have now been compared, without adding objects or independent reviews.
 
 ### SID-S9-2025-PIGBE
 

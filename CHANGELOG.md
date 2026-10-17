@@ -24,3 +24,8 @@ Added a [bounded P1 source/identity follow-up](docs/P1-SOURCE-FOLLOWUP-2026-10-1
 ## 2026-10-16 scoped human-validation preparation
 
 Added exact evidence-bound decision routing and preserved acquisition/maintainer prerequisites. See [P1 human-validation guidance](docs/P1-HUMAN-VALIDATION.md) and the prepared, unreviewed native request.
+
+
+### 2026-10-16 Abydos alternative-edition comparison
+
+Compared the supplied Ferrer–Soler–Adiego2025 paper with Phillips–Rutherford at the first graffito’s final sign; five printed pages inspected. Retained competing u/w(?) and possible-overwriting analyses, author/photo dependence and separate S9 identity. Updated source receipts, native tasks, documentation and AI routing; no frozen reading or independent review added.

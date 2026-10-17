@@ -24,7 +24,7 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "3c1f0445a6423f6ea19558e452224181962e971d95087d74231576e4677d3c3f",
+      "sha256": "e50deb8ed5eb6a01d1501ff373e4be08bbd614934d20424775a01870a21fc08b",
       "source_snapshot_commit": null
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "path": "research/source-collation-2026-10-15.json",
-      "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
+      "sha256": "35d1e964000a42df59c572408c6b77e074e3e1b091ef793c45f0d0c99161a8a0",
       "source_snapshot_commit": null
     }
   ],

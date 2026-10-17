@@ -93,6 +93,17 @@ class SourceCollationTests(unittest.TestCase):
             native = Collation().case('SID-EUEMPOLOS-2025')['native_evidence']
             self.assertEqual(native['proposed_reading'],'ewpel')
             self.assertEqual(native['superseded_project_representation'],r['previous_project_form'])
+            col = Collation()
+            c = col.cases['SID-S9-ABYDOS-COMPARISON']
+            pair = c['details']['abydos_two_edition_comparison']
+            self.assertEqual(pair['phillips_rutherford']['final_sign_literal'], 'w(?)')
+            self.assertEqual(pair['ferrer_soler_adiego']['name_reading_literal'], 'Pojau')
+            self.assertFalse(pair['phonetic_values_adopted'])
+            self.assertFalse(pair['independence']['second_graffito_independent_edition_added'])
+            self.assertTrue(pair['independence']['final_article_consulted_other_submission'])
+            self.assertFalse(c['physical_identity_certified'])
+            self.assertFalse(c['new_canonical_reading'])
+            self.assertEqual(len(col.sources['ferrer-soler-adiego2025-egypt']['page_inspections']), 5)
         elif name == 'Pisidian':
             self.assertEqual(d['PIS-N24-2023']['line_count_in_edition'],2)
             self.assertEqual(d['PIS-ADIEGO2012-N37']['limited_restoration_fragment'],'[Tas?]')

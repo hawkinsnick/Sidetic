@@ -2,13 +2,13 @@
   "format": "corpus-source-collation-audit-v1",
   "repository": "hawkinsnick/Sidetic",
   "status": "PASS_PACKET_INTEGRITY_NOT_EPIGRAPHIC_ADJUDICATION",
-  "packet_sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
+  "packet_sha256": "35d1e964000a42df59c572408c6b77e074e3e1b091ef793c45f0d0c99161a8a0",
   "implementation_sha256": "7b050980c9c807dd37070878e1b1e9f34bcec866861ba40bdec6d8d3c3ed4714",
   "comparison_tasks": 4,
   "source_consultation_modes": {
-    "DIRECT_RENDERED_PDF_PAGE_IMAGES": 4
+    "DIRECT_RENDERED_PDF_PAGE_IMAGES": 5
   },
-  "rendered_page_inspections": 18,
+  "rendered_page_inspections": 23,
   "project_representation_corrections": 1,
   "frozen_readings_changed": false,
   "accepted_readings_added": 0,
