@@ -9,6 +9,7 @@ def build():
     paths += [('native_evidence_profile', 'research/evidence-query-profile.json'), ('native_evidence_coverage', 'analysis/evidence-query-coverage.json'), ('native_evidence_query', 'scripts/evidence_query.py'), ('native_evidence_query_tests', 'scripts/test_native_evidence_query.py'), ('native_evidence_guide', 'docs/EVIDENCE-AND-ALTERNATIVES.md')]
     paths += [('attribution_review', 'research/attribution-review.json'), ('attribution_review', 'analysis/attribution-review-audit.json'), ('attribution_review', 'docs/ATTRIBUTION-REVIEW.md'), ('attribution_review', 'scripts/attribution_review.py'), ('attribution_review', 'scripts/test_attribution_review.py')]
     paths += [('selected_source_collation', 'research/source-collation-2026-10-15.json'), ('selected_source_collation', 'analysis/source-collation-2026-10-15.json'), ('selected_source_collation', 'docs/SOURCE-COLLATION-2026-10-15.md'), ('selected_source_collation', 'scripts/source_collation.py'), ('selected_source_collation', 'scripts/test_source_collation.py')]
+    paths += [('abydos_edition_comparison', 'docs/ABYDOS-EDITION-COMPARISON-2026-10-16.md')]
     artifacts=[]
     for role,path in paths:
         b=(ROOT/path).read_bytes();artifacts.append({'role':role,'path':path,'sha256':hashlib.sha256(b).hexdigest(),'bytes':len(b)})

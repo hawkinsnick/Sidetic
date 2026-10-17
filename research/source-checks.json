@@ -106,12 +106,12 @@
       ],
       "source_pointer": "/ S9 (S I.2.5) (scriptio continua)/6",
       "captured_reading": "tobVn<sub>2</sub>remar θanpijś talamonija[ś]",
-      "finding": "The paper compares an Abydos name with S9 and discusses the unresolved N22 sign and differing transcription systems. Similar names do not identify the same object. Preserve the frozen V and HTML subscript; do not substitute a proposed vowel or unify w/y/j notation without an explicit source-specific crosswalk.",
+      "finding": "The paper compares an Abydos name with S9 and discusses the unresolved N22 sign and differing transcription systems. Similar names do not identify the same object. Preserve the frozen V and HTML subscript; do not substitute a proposed vowel or unify w/y/j notation without an explicit source-specific crosswalk. The supplied Ferrer–Soler–Adiego2025 paper prints Pojau, disputes the first Abydos graffito’s final w(?) in favour of u, and allows possible overwriting of unknown order. This alternative concerns the graffito’s final sign, not an adopted value for S9.6 N22. Their revised paper covers the first graffito only and consulted the earlier Phillips–Rutherford submission.",
       "canonical_change": false,
       "expert_questions": [
         "Evaluate N22 independently of the proposed Abydos name",
         "Distinguish common-name comparison from physical object identity",
-        "Reconcile the two 2025 Abydos editions before counting new objects"
+        "Adjudicate the final-sign u/w(?) or overwritten-sign alternatives; the two published editions have now been compared, without adding objects or independent reviews."
       ],
       "previous_inspection": "PUBLISHER_PROVIDED_ARTICLE_TEXT_INSPECTED_VIA_WEB; NOT_OBJECT_OR_FIGURE_ADJUDICATION",
       "source_sha256": "6dfe48171e042688529be2214d7ba78b63fbdded61f0c6dadd191eac00de8c37",
@@ -122,7 +122,17 @@
         "p.178, final-sign qualification and N22 n.11",
         "p.181, comparative Tables1–2 and dependent figure note",
         "p.182, N24 b and N6/N7 convention history n.20"
-      ]
+      ],
+      "additional_edition_comparison": {
+        "source_id": "ferrer-soler-adiego2025-egypt",
+        "doi": "10.1515/kadmos-2025-0011",
+        "source_sha256": "b7917388008396ba6fac97e31c771e56e7c92f215e6290d4514244ddb9118e81",
+        "locators": [
+          "printed pp.189–193; especially p.192 Figs.2–3 and pp.192–193 competing final-letter discussion"
+        ],
+        "comparison_state": "COMPLETE_DOCUMENTARY_COMPARISON_NOT_SIGN_ADJUDICATION",
+        "guide": "docs/ABYDOS-EDITION-COMPARISON-2026-10-16.md"
+      }
     },
     {
       "check_id": "SID-S9-2025-PIGBE",

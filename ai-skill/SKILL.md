@@ -74,3 +74,8 @@ Read `research/p1-source-followup-2026-10-16.json` and `docs/P1-SOURCE-FOLLOWUP-
 ## Human/source-maintainer decision routing
 
 Read `review/p1-human-request.json` and `docs/P1-HUMAN-VALIDATION.md`. Distinguish source acquisition/editor clarification from epigraphic adjudication and policy controls. Keep the input hash, native case pointer and prerequisites with each question. Prepared requests, software checks and AI responses are never independent human validation; native human-maintainer acceptance remains required.
+
+
+## Abydos competing edition — 2026-10-16
+
+Read `docs/ABYDOS-EDITION-COMPARISON-2026-10-16.md` and the expanded `SID-S9-ABYDOS-COMPARISON` in the source-collation packet. Ferrer–Soler–Adiego’s supplied2025 PDF is directly inspected: Pojau / final u competes with Phillips–Rutherford’s qualified w(?); possible overwriting and unknown order remain explicit. Preserve j/y source conventions, N02-versus-N22 identity, initial-independent-submission versus final-article dependence, first-graffito-only revised scope, and S9 as a separate object. This closes the selected two-edition documentary comparison, not sign adjudication or fuller new-vowel source acquisition. No new canonical reading, object, witness total or independent review follows.

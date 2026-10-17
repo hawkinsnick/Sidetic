@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Sidetic",
-  "profile_sha256": "79211222e0382581480d3b5016a29d2c9dcbfc1dff97117b00d3f7c2fea7369e",
+  "profile_sha256": "5e2087449b8fa213b30dba0026ee2b5a7d48108a93590c012ae496115d0037b9",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -54,7 +54,7 @@
       ],
       "provenance": {
         "path": "research/attribution-review.json",
-        "sha256": "975f81896b8423afdb0431a08f0f0785ea395826df8f462e2e4e830bbd41ddbb",
+        "sha256": "240abb1d8bd4bf5a6b3cbba678d9d3bf1e19088e1f191a9a82c7153a0ac7080b",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded attribution review",
@@ -65,7 +65,7 @@
       "name": "source-collation-2026-10-15",
       "native_unit": "selected source collation task",
       "record_count": 4,
-      "scope": "All four selected source contexts now have rendered-PDF consultation records. The supplied2025 PDFs close the Abydos figure/notation check and the pigbe[s] printed-correction check. Source-specific sign/value uncertainty and separate object identities remain explicit.",
+      "scope": "Four selected tasks, five directly inspected source contexts; the two Abydos editions have a documented final-sign disagreement, not independent acceptance or a new object.",
       "example_ids": [
         "SID-EUEMPOLOS-2025",
         "SID-S6-GREEK-2020",
@@ -73,7 +73,7 @@
       ],
       "provenance": {
         "path": "research/source-collation-2026-10-15.json",
-        "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
+        "sha256": "35d1e964000a42df59c572408c6b77e074e3e1b091ef793c45f0d0c99161a8a0",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "fresh bounded source collation; consultation modes differ by source",
@@ -92,7 +92,7 @@
       ],
       "provenance": {
         "path": "research/p1-source-followup-2026-10-16.json",
-        "sha256": "bad037f0a965445ce0ce5a8547c23be1c5d5a8a15a8824f60f9c590dec57a992",
+        "sha256": "1f4f62bc2ab8b6e2e2764bc753df074687b80cb55f551bafe3e470a8f5af213e",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "p1-source-followup",
@@ -135,7 +135,7 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "3c1f0445a6423f6ea19558e452224181962e971d95087d74231576e4677d3c3f",
+      "sha256": "e50deb8ed5eb6a01d1501ff373e4be08bbd614934d20424775a01870a21fc08b",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "corpus-level source/rights/context register",
@@ -199,7 +199,7 @@
     },
     {
       "path": "research/attribution-review.json",
-      "sha256": "975f81896b8423afdb0431a08f0f0785ea395826df8f462e2e4e830bbd41ddbb",
+      "sha256": "240abb1d8bd4bf5a6b3cbba678d9d3bf1e19088e1f191a9a82c7153a0ac7080b",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded attribution review",
@@ -207,7 +207,7 @@
     },
     {
       "path": "research/source-collation-2026-10-15.json",
-      "sha256": "28eee2baba3da54e66b71c92f12a8feda2c008edbc1915b610e98e7a901483ea",
+      "sha256": "35d1e964000a42df59c572408c6b77e074e3e1b091ef793c45f0d0c99161a8a0",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "fresh bounded source collation; consultation modes differ by source",
@@ -215,7 +215,7 @@
     },
     {
       "path": "research/p1-source-followup-2026-10-16.json",
-      "sha256": "bad037f0a965445ce0ce5a8547c23be1c5d5a8a15a8824f60f9c590dec57a992",
+      "sha256": "1f4f62bc2ab8b6e2e2764bc753df074687b80cb55f551bafe3e470a8f5af213e",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "p1-source-followup",

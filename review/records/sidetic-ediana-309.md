@@ -5,7 +5,7 @@ Source label:  S10 (S III)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `9fc66fca075e98e6fcb08765d8d68f8a4fe0c449982a83e770ca7803af163490`
-Evidence fingerprint: `81a7e2c0bfa3befd89602cb079f11d3de35b58b9fc39e839258ca0057f536f51`
+Evidence fingerprint: `95c6fbbe39670a2c10db4b046e62257843746310d0bb34182c92d01a64268a53`
 
 ## Captured source evidence
 

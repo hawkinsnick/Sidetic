@@ -5,7 +5,7 @@ Source label:  S1 (S.I.1.1)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `fa6fa3b7af3f65b750acdc79c294fab65035745eb94cd1766df8f800884d8141`
-Evidence fingerprint: `81a7e2c0bfa3befd89602cb079f11d3de35b58b9fc39e839258ca0057f536f51`
+Evidence fingerprint: `95c6fbbe39670a2c10db4b046e62257843746310d0bb34182c92d01a64268a53`
 
 ## Captured source evidence
 
