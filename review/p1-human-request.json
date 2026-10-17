@@ -1,0 +1,92 @@
+{
+  "format": "corpus-p1-human-request-v1",
+  "repository": "hawkinsnick/Sidetic",
+  "status": "PREPARED_NOT_REVIEWED",
+  "scope": "Scoped human/source-maintainer questions only; does not certify the whole corpus ready for final acceptance.",
+  "inputs": [
+    {
+      "path": "research/p1-source-followup-2026-10-16.json",
+      "sha256": "bad037f0a965445ce0ce5a8547c23be1c5d5a8a15a8824f60f9c590dec57a992"
+    }
+  ],
+  "questions": [
+    {
+      "id": "SID-S6-DARGA-GREEK",
+      "role_required": "independent_epigrapher",
+      "stage": "SOURCE_ACQUISITION_BEFORE_ADJUDICATION",
+      "question": "After direct Brixhe–Neumann1988 consultation, assess E/Y and iota questions in the Greek component separately from the Sidetic personal-name proposal.",
+      "source_packet_pointer": "/cases/0",
+      "evidence_prerequisites": [
+        "Direct Brixhe–Neumann1988 comparison and damaged-letter assessment remain open."
+      ],
+      "decision_requested": [
+        "supported_with_scope",
+        "rejected_with_counterevidence",
+        "inconclusive",
+        "additional_source_required"
+      ],
+      "effect_of_no_decision": "Retain existing quarantine, alternatives and non-admission."
+    },
+    {
+      "id": "SID-S6-DARGA-NAME",
+      "role_required": "independent_epigrapher",
+      "stage": "POLICY_CONTROL_COMPLETE_READING_QUESTION_OPEN",
+      "question": "Compare the early restored-name proposal and later ewpel proposal without automatic historical-number/value normalization; identify which damaged signs remain unresolvable.",
+      "source_packet_pointer": "/cases/1",
+      "evidence_prerequisites": [
+        "Do not normalize historical sign numbers/values into modern Nollé numbering."
+      ],
+      "decision_requested": [
+        "supported_with_scope",
+        "rejected_with_counterevidence",
+        "inconclusive",
+        "additional_source_required"
+      ],
+      "effect_of_no_decision": "Retain existing quarantine, alternatives and non-admission."
+    },
+    {
+      "id": "SID-S6-DARGA-LOCATION",
+      "role_required": "museum_or_catalogue_authority",
+      "stage": "ITEM_LEVEL_INVENTORY_PENDING",
+      "question": "Identify the current item-level inventory and custody evidence; dated published custody alone is insufficient.",
+      "source_packet_pointer": "/cases/2",
+      "evidence_prerequisites": [
+        "Obtain a current item-level inventory; dated custody is not present-location certification."
+      ],
+      "decision_requested": [
+        "supported_with_scope",
+        "rejected_with_counterevidence",
+        "inconclusive",
+        "additional_source_required"
+      ],
+      "effect_of_no_decision": "Retain existing quarantine, alternatives and non-admission."
+    },
+    {
+      "id": "SID-S6-DARGA-PLATES",
+      "role_required": "independent_epigrapher",
+      "stage": "SCOPED_HUMAN_JUDGMENT_PENDING",
+      "question": "Assess what the published photo/squeeze can and cannot support at damaged signs; obtain better evidence where needed. Do not treat the historical no.6 as modern N6.",
+      "source_packet_pointer": "/cases/3",
+      "evidence_prerequisites": [
+        "Resolve damaged signs with adequate object evidence; historical no.6 u is not an automatic modern N6 mapping."
+      ],
+      "decision_requested": [
+        "supported_with_scope",
+        "rejected_with_counterevidence",
+        "inconclusive",
+        "additional_source_required"
+      ],
+      "effect_of_no_decision": "Retain existing quarantine, alternatives and non-admission."
+    }
+  ],
+  "reviewer": null,
+  "affiliation": null,
+  "review_date": null,
+  "expertise_evidence": null,
+  "conflicts_and_source_dependence": null,
+  "signed_or_attributed_review_evidence": null,
+  "decisions": [],
+  "scientific_approval_granted": false,
+  "automatic_admission": false,
+  "acceptance_route": "Use native independent-review and human-maintainer verification requirements. Filling or validating this prepared request grants no admission."
+}
