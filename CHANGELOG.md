@@ -36,3 +36,8 @@ Add checksum-bound native search/evidence responses, deterministic local researc
 packaging and offline replay, revision-bound review submission forms and rejection
 tests. Update individual AI instructions and documentation. No source record,
 reading, expert acceptance or redistribution permission is added by this change.
+
+
+### 2026-10-18 source acquisition follow-up
+
+Pursued the requested sources and recorded bounded consultation/access results, source-identity checks and unsent delivery requests. New source-intake tasks are queryable and included in collection/AI routing. Original-page typography work remains open; frozen readings unchanged.

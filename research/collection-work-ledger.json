@@ -1,8 +1,8 @@
 {
   "builder_sha256": "2c5306631cb0fa09a6c1d686d5f7e7265b32cb33c1faed1edf0d519dad2f196f",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "b46d1d44a2183da8d66e153cd71a7ec221e6b4bfeeb7ea0127a08f98024ff87d",
-  "evidence_fingerprint": "ce036b14d7fb1a21f87a2862f7b6f51a5bd7d87748166e619110f46486471c4b",
+  "config_sha256": "d178451e52941155de8a090ef0b38aaf78c1bf3aad66ab70520627579aef9bd6",
+  "evidence_fingerprint": "c7d2f45952f9551dcd7e5cdec9802d17a7cd4050b6262bfae9c78e36d302e4e6",
   "input_sha256": {
     "analysis/current-status.json": "8e9e2c4e09938a270254efc73b252bdf37b3d6d66fe7c23d5fb305deabd35f18",
     "analysis/upstream-epidoc-validation.json": "4e09ed53316dde0c1a59acc826123e2b0690cfe94d1808af2f1ffdfde6437f7e",
@@ -19,6 +19,7 @@
     "research/source-checks.json": "e50deb8ed5eb6a01d1501ff373e4be08bbd614934d20424775a01870a21fc08b",
     "research/source-collation-2026-10-15.json": "35d1e964000a42df59c572408c6b77e074e3e1b091ef793c45f0d0c99161a8a0",
     "research/source-frontier.json": "ee3340368cbf7fab2b781046cb8459b380c8a206941f7127d4f4bb50d053dee8",
+    "research/source-intake-2026-10-18.json": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
     "research/source-register.json": "4c0b2e073b7c605a8ba1da614fab05ac9d1c6ebca133aacbc64cbebba9b9267c",
     "research/source-worklist.json": "79eb737c1d67db89a12d03fc5fb20623cd55ce117446662d0a619960e856f95a"
   },
@@ -873,6 +874,126 @@
       "json_pointer": "/entries/4/title",
       "kind": "title",
       "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/doi",
+      "kind": "doi",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/locators/1",
+      "kind": "locators",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/locators/2",
+      "kind": "locators",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/locators/3",
+      "kind": "locators",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/access_attempts/0/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/access_attempts/1/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/access_attempts/2/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/metadata_receipt/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/metadata_receipt/title",
+      "kind": "title",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/doi",
+      "kind": "doi",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/access_attempts/0/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/access_attempts/1/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/metadata_receipt/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/metadata_receipt/title",
+      "kind": "title",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/rejected_prior_identifier/doi",
+      "kind": "doi",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/rejected_prior_identifier/metadata_receipt/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/rejected_prior_identifier/metadata_receipt/title",
+      "kind": "title",
+      "source_path": "research/source-intake-2026-10-18.json"
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",

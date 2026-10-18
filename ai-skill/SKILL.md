@@ -94,3 +94,8 @@ Prepare bounded review drafts with `--review-template`; validate submissions wit
 and deterministic answer tests as engineering checks, not empirical LLM validation
 or completion of scholarly/source-permission work. Local packaging grants no new
 redistribution rights. Label any model-generated analysis separately and cite it.
+
+
+## Source intake status — 2026-10-18
+
+Read `docs/SOURCE-INTAKE-2026-10-18.md` and `research/source-intake-2026-10-18.json` before reporting source completion. Preserve partial consultation versus unacquired original-page checks, corrected bibliographic identities, source-specific conventions and unchanged historical receipts. Request drafts are unsent; no purchase, accepted reading, extra witness or independent review follows.

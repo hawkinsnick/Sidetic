@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Sidetic",
-  "profile_sha256": "5e2087449b8fa213b30dba0026ee2b5a7d48108a93590c012ae496115d0037b9",
+  "profile_sha256": "e47bb5e2e826f935c54deaadfe2861dcf4aafe072f23363c409b59daf44974c4",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -96,6 +96,24 @@
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "p1-source-followup",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "source-intake-2026-10-18",
+      "native_unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
+      "record_count": 2,
+      "scope": "Current partial progress and unacquired originals; do not add these tasks to historical selected-comparison counts.",
+      "example_ids": [
+        "SID-FERRER2025-VOWEL-INTAKE",
+        "SID-BRIXHE-NEUMANN1988-INTAKE"
+      ],
+      "provenance": {
+        "path": "research/source-intake-2026-10-18.json",
+        "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source intake and bibliographic identity",
         "encoding": "json"
       }
     }
@@ -219,6 +237,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "p1-source-followup",
+      "encoding": "json"
+    },
+    {
+      "path": "research/source-intake-2026-10-18.json",
+      "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "bounded source intake and bibliographic identity",
       "encoding": "json"
     }
   ],
