@@ -41,6 +41,14 @@
       "id_pointer": "/id",
       "unit": "bounded source/identity follow-up disposition",
       "scope": "Bounded documentary source/identity follow-up; not complete corpus collation or independent epigraphic acceptance."
+    },
+    {
+      "name": "source-intake-2026-10-18",
+      "path": "research/source-intake-2026-10-18.json",
+      "pointer": "/cases",
+      "id_pointer": "/case_id",
+      "unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
+      "scope": "Current partial progress and unacquired originals; do not add these tasks to historical selected-comparison counts."
     }
   ],
   "relations": [
@@ -163,6 +171,13 @@
       "sha256": "1f4f62bc2ab8b6e2e2764bc753df074687b80cb55f551bafe3e470a8f5af213e",
       "encoding": "json",
       "role": "p1-source-followup",
+      "source_snapshot_commit": null
+    },
+    {
+      "path": "research/source-intake-2026-10-18.json",
+      "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+      "encoding": "json",
+      "role": "bounded source intake and bibliographic identity",
       "source_snapshot_commit": null
     }
   ],

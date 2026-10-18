@@ -1,0 +1,167 @@
+{
+  "format": "corpus-source-intake-v1",
+  "repository": "hawkinsnick/Sidetic",
+  "checked_local_date": "2026-10-18",
+  "date_basis": "America/Chicago",
+  "scope": "Bounded source acquisition, identity and consultation follow-up. Not completed primary typography collation. Existing dated source-collation receipts remain historical and are not overwritten.",
+  "cases": [
+    {
+      "case_id": "SID-FERRER2025-VOWEL-INTAKE",
+      "source_title": "A new Sidetic vowel. Splitting a misread sign into two",
+      "doi": "10.1515/kadmos-2025-0009",
+      "consultation": "DIRECT_PUBLISHER_PROVIDED_WEB_TEXT_PAGE_MARKERS",
+      "status": "SEMANTIC_MODEL_AND_APPENDIX_POLICY_CHECKED_PDF_TYPOGRAPHY_BLOCKED",
+      "url": "https://www.researchgate.net/publication/396360348_A_new_Sidetic_vowel_Splitting_a_misread_sign_into_two",
+      "locators": [
+        "p.149 article note",
+        "pp.150–153 distinction/history and Fig.2 discussion",
+        "pp.165–167 distribution and final transcription policy",
+        "pp.168–170 appendix introduction and scope"
+      ],
+      "pdf_acquired": false,
+      "pdf_sha256": null,
+      "page_images_inspected": 0,
+      "access_attempts": [
+        {
+          "id": "ferrer-rg",
+          "url": "https://www.researchgate.net/journal/Kadmos-1613-0723/publication/396360348_A_new_Sidetic_vowel_Splitting_a_misread_sign_into_two/links/6925ca39a130337711bf122f/A-new-Sidetic-vowel-Splitting-a-misread-sign-into-two.pdf",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "id": "ferrer-legacy",
+          "url": "https://www.degruyter.com/document/doi/10.1515/kadmos-2025-0009/pdf",
+          "resolved_url": "https://www.degruyterbrill.com:443/document/doi/10.1515/kadmos-2025-0009/pdf",
+          "status": 202,
+          "bytes": 0,
+          "content_type": "text/html; charset=UTF-8",
+          "pdf_magic": false
+        },
+        {
+          "id": "ferrer-xml",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-2025-0009/xml",
+          "resolved_url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-2025-0009/xml",
+          "status": 202,
+          "bytes": 0,
+          "content_type": "text/html; charset=UTF-8",
+          "pdf_magic": false
+        }
+      ],
+      "metadata_receipt": {
+        "url": "https://api.crossref.org/works/10.1515/kadmos-2025-0009",
+        "response_sha256": "78cc5ed758c32b891a112adc4ab6d548c3131ddb399f47b838f40672a43dd4b6",
+        "response_bytes": 3521,
+        "DOI": "10.1515/kadmos-2025-0009",
+        "title": "A new Sidetic vowel. Splitting a misread sign into two",
+        "authors": [
+          "Gem Ferrer"
+        ],
+        "volume": "64",
+        "issue": "1-2",
+        "publication_year": 2025,
+        "page_range_in_deposit": "149-174"
+      },
+      "source_attributed_observations": [
+        "Ferrer’s final policy labels his new sign28 as u, sign5 provisionally y, and sign6 w (p.167). The provisional y is conventional, not a newly certified phonetic value.",
+        "The appendix excludes S11/S12 and refers Abydos graffiti to separate editions. It uses lowercase and scriptio continua except inscriptional spaces (p.168). These are source policies, not instructions to remove or normalize frozen records.",
+        "The article note retains uncertain signs without phonetic transcription. Exact sign shapes, typography and a complete row-by-row appendix comparison remain unverified in this web-text pass."
+      ],
+      "model_labels_attributed_not_adopted": {
+        "source_numbering_authority": "Ferrer2025 only",
+        "28": "u",
+        "5": "y (provisional convention)",
+        "6": "w"
+      },
+      "not_a_global_crosswalk": true,
+      "related_native_task": "SID-S9-ABYDOS-COMPARISON",
+      "remaining_work": [
+        "Obtain a lawful PDF; visually inspect sign diagrams, uncertainty marks and the whole appendix before encoding a row-level alternative layer.",
+        "Preserve source-specific numbering (including other authors’28) and N02/N22 distinctions; do not infer sign identity from equal numbers or extracted glyphs."
+      ],
+      "request_text": "Please provide the published PDF of Gem Ferrer, A new Sidetic vowel. Splitting a misread sign into two, Kadmos64(1/2),2025,149–174, DOI10.1515/kadmos-2025-0009. It is listed open access. Needed for private scholarly inspection of typography, sign figures and appendix; no redistribution requested."
+    },
+    {
+      "case_id": "SID-BRIXHE-NEUMANN1988-INTAKE",
+      "source_title": "Die griechisch-sidetische Bilingue von Seleukeia",
+      "doi": "10.1515/kadmos-1988-0105",
+      "consultation": "PRIMARY_DEPOSIT_METADATA_ONLY",
+      "status": "BIBLIOGRAPHIC_IDENTITY_CORRECTED_PRIMARY_ARTICLE_UNACQUIRED",
+      "url": "https://doi.org/10.1515/kadmos-1988-0105",
+      "pdf_acquired": false,
+      "pdf_sha256": null,
+      "page_images_inspected": 0,
+      "access_attempts": [
+        {
+          "id": "brixhe-legacy",
+          "url": "https://www.degruyter.com/document/doi/10.1515/kadmos-1988-0108/pdf",
+          "resolved_url": "https://www.degruyterbrill.com:443/document/doi/10.1515/kadmos-1988-0108/pdf",
+          "status": 202,
+          "bytes": 0,
+          "content_type": "text/html; charset=UTF-8",
+          "pdf_magic": false
+        },
+        {
+          "id": "brixhe-correct",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-1988-0105/pdf",
+          "resolved_url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-1988-0105/pdf",
+          "status": 202,
+          "bytes": 0,
+          "content_type": "text/html; charset=UTF-8",
+          "pdf_magic": false
+        }
+      ],
+      "metadata_receipt": {
+        "url": "https://api.crossref.org/works/10.1515/kadmos-1988-0105",
+        "response_sha256": "d36425f9c2e6777fb8fad2b74f920b2ab2fd69a3a96b821858575b7cf0ad01fe",
+        "response_bytes": 1791,
+        "DOI": "10.1515/kadmos-1988-0105",
+        "title": "Die griechisch-sidetische Bilingue von Seleukeia",
+        "authors": [
+          "Claude Brixhe",
+          "Günter Neumann"
+        ],
+        "volume": "27",
+        "issue": "1",
+        "publication_year": 1988,
+        "page_range_in_deposit": null
+      },
+      "rejected_prior_identifier": {
+        "doi": "10.1515/kadmos-1988-0108",
+        "reason": "Different article by Günter Neumann alone; do not use for the joint article.",
+        "metadata_receipt": {
+          "url": "https://api.crossref.org/works/10.1515/kadmos-1988-0108",
+          "response_sha256": "cc6f3c98f462f0acc417ced59fbfc5cfdb1b4e93e9d0a6d95287f5e0f1d50aea",
+          "response_bytes": 1651,
+          "DOI": "10.1515/kadmos-1988-0108",
+          "title": "Zur sidetisch-griechischen Bilingue I",
+          "authors": [
+            "Günter Neumann"
+          ],
+          "volume": "27",
+          "issue": "1",
+          "publication_year": 1988,
+          "page_range_in_deposit": null
+        }
+      },
+      "page_range_requested": "35–43",
+      "page_range_basis": "Magnelli–Petrantoni2020 bibliography; Crossref deposit omits page range, original article not inspected.",
+      "related_native_tasks": [
+        "SID-S6-GREEK-2020",
+        "SID-S6-DARGA-GREEK"
+      ],
+      "remaining_work": [
+        "Obtain the joint article under DOI0105 and compare Greek E/Y and iota at the original loci; keep it separate from the Sidetic personal-name argument."
+      ],
+      "request_text": "Please supply Claude Brixhe and Günter Neumann, Die griechisch-sidetische Bilingue von Seleukeia, Kadmos27(1),1988,35–43, DOI10.1515/kadmos-1988-0105, for private scholarly consultation. Please match title and both authors: DOI10.1515/kadmos-1988-0108 is the separate Neumann article Zur sidetisch-griechischen Bilingue I."
+    }
+  ],
+  "limits": {
+    "frozen_readings_changed": false,
+    "accepted_readings_added": 0,
+    "independent_reviews_added": 0,
+    "physical_identities_certified": 0,
+    "source_files_redistributed": false,
+    "global_source_exhaustion_claimed": false
+  },
+  "requests_sent": false,
+  "purchases_made": false
+}
