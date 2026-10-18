@@ -102,6 +102,24 @@
         "role": "p1-source-followup",
         "encoding": "json"
       }
+    },
+    {
+      "name": "source-intake-2026-10-18",
+      "native_unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
+      "record_count": 2,
+      "scope": "Current partial progress and unacquired originals; do not add these tasks to historical selected-comparison counts.",
+      "example_ids": [
+        "SID-FERRER2025-VOWEL-INTAKE",
+        "SID-BRIXHE-NEUMANN1988-INTAKE"
+      ],
+      "provenance": {
+        "path": "research/source-intake-2026-10-18.json",
+        "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source intake and bibliographic identity",
+        "encoding": "json"
+      }
     }
   ],
   "scholarly_limits": [
@@ -142,8 +160,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "77c93b0447c0412c679a5f4f107fa1ff48e8f79eecb949fa9d3a0463639e08df",
-      "bytes": 13943
+      "sha256": "7e7e19e0a1f1bee43d5c6a43d25102842c785f5d95d1f0c5c6b1ce55ceabc4a2",
+      "bytes": 14378
     },
     {
       "path": "data/reference/records.json",
@@ -172,8 +190,8 @@
     },
     {
       "path": "research/collection-work-ledger.json",
-      "sha256": "57fbd1736232ff39fc868368292417750e9ec270ad9d87f0b834cb863fb391d2",
-      "bytes": 37207
+      "sha256": "4f4dd5e778ddfb26c11b8d340739c8428112a4383d7eac475c9eb82343460089",
+      "bytes": 42091
     },
     {
       "path": "research/disagreement-register.json",
@@ -182,8 +200,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "5e2087449b8fa213b30dba0026ee2b5a7d48108a93590c012ae496115d0037b9",
-      "bytes": 7961
+      "sha256": "e47bb5e2e826f935c54deaadfe2861dcf4aafe072f23363c409b59daf44974c4",
+      "bytes": 8649
     },
     {
       "path": "research/legacy-2025-concordance.json",
@@ -216,6 +234,11 @@
       "bytes": 27252
     },
     {
+      "path": "research/source-intake-2026-10-18.json",
+      "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+      "bytes": 8150
+    },
+    {
       "path": "research/source-issues.json",
       "sha256": "2fd2e11f36cb618fe9bf42d0b0ad742dc4009356e10d4e3e51ba6200586879ea",
       "bytes": 1032
@@ -242,8 +265,8 @@
     },
     {
       "path": "review/collection-packet.json",
-      "sha256": "4f5e312adf341e6a59a4fda20415821540c9b8f51fc7354f5395dfbc7a3579c9",
-      "bytes": 1928
+      "sha256": "65d1d2238ba304ad88bdd275238a8795d4b09c87d9f1720bfa4a510e4c7544f2",
+      "bytes": 1929
     },
     {
       "path": "scripts/evidence_query.py",
