@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a62770b5847e4989e878772f7765a4e412ec00f2",
-  "evidence_fingerprint_sha256": "8ddce95493d5e3f9d80c7312977c9f580d4393d422b68c7a82edac75b12b4a08",
+  "source_commit": "13cf969aa07eee1926ea17965451633974a1f82f",
+  "evidence_fingerprint_sha256": "bda5e1357c67cfac9182b986a9d1c00dc7eaf0368be0ef3cc393c9b6f7f7699c",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "77c93b0447c0412c679a5f4f107fa1ff48e8f79eecb949fa9d3a0463639e08df",
-      "bytes": 13943
+      "sha256": "7e7e19e0a1f1bee43d5c6a43d25102842c785f5d95d1f0c5c6b1ce55ceabc4a2",
+      "bytes": 14378
     },
     {
       "role": "source-checks",
@@ -146,14 +146,14 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "57fbd1736232ff39fc868368292417750e9ec270ad9d87f0b834cb863fb391d2",
-      "bytes": 37207
+      "sha256": "4f4dd5e778ddfb26c11b8d340739c8428112a4383d7eac475c9eb82343460089",
+      "bytes": 42091
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "4f5e312adf341e6a59a4fda20415821540c9b8f51fc7354f5395dfbc7a3579c9",
-      "bytes": 1928
+      "sha256": "65d1d2238ba304ad88bdd275238a8795d4b09c87d9f1720bfa4a510e4c7544f2",
+      "bytes": 1929
     },
     {
       "role": "reference_epidoc",
@@ -278,14 +278,14 @@
     {
       "role": "native_evidence_profile",
       "path": "research/evidence-query-profile.json",
-      "sha256": "5e2087449b8fa213b30dba0026ee2b5a7d48108a93590c012ae496115d0037b9",
-      "bytes": 7961
+      "sha256": "e47bb5e2e826f935c54deaadfe2861dcf4aafe072f23363c409b59daf44974c4",
+      "bytes": 8649
     },
     {
       "role": "native_evidence_coverage",
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "17504283217ea82af7130151e30b1d0f07790102f7c2678f636b41fa94729f02",
-      "bytes": 9751
+      "sha256": "15be85a733d89f12da8c84562457881bd73f8fa7d1a3623e13a286ca78d783ab",
+      "bytes": 10847
     },
     {
       "role": "native_evidence_query",
@@ -392,8 +392,20 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "cda72e30a78925238a538f4290378070d3574b370687119c5518ba8c16353c95",
-      "bytes": 10061
+      "sha256": "6c670aa2508df7bc766a966b5fd61ab152feeaf3567a7cffeceb1427b8fc7827",
+      "bytes": 11017
+    },
+    {
+      "role": "source_intake",
+      "path": "research/source-intake-2026-10-18.json",
+      "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+      "bytes": 8150
+    },
+    {
+      "role": "source_intake",
+      "path": "docs/SOURCE-INTAKE-2026-10-18.md",
+      "sha256": "ce12f0fb0b5e83408fb72e456c637a16c94158df7984288baaf9a82fee8cf4f6",
+      "bytes": 2006
     }
   ],
   "contract": {
