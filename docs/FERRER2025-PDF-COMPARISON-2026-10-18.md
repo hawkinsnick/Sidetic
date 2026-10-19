@@ -9,3 +9,5 @@ Ferrer S13 is the Lyrbe stele: directory `sidetic:ediana:310` calls it S11 (“S
 Read `research/ferrer2025-pdf-comparison-2026-10-18.json` or query collection `ferrer2025-appendix-comparison`. Comparison rows are editorial tasks, not independent witnesses. No frozen reading, physical identity or expert-review state changes. The PDF is CC BY4.0 on p149; the separately credited photograph is not copied into this repository.
 
 Brixhe–Neumann1988 and Olivier2007 original-page checks remain open. The source-intake guide and dated earlier receipts document the acquisition history; this direct-PDF packet supersedes the earlier Ferrer PDF-access blocker only.
+
+A magnified reinspection of the p149 article note confirms tentative sign15 is transcribed **s**, without an acute;24 is b. The source-specific distinction must remain literal.

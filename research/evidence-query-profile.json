@@ -190,7 +190,7 @@
     },
     {
       "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
-      "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
+      "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
       "source_snapshot_commit": null,
       "encoding": "json",
       "role": "Direct Ferrer PDF and appendix comparison"

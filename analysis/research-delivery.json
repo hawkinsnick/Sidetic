@@ -133,7 +133,7 @@
       ],
       "provenance": {
         "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
-        "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
+        "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
         "pointer": "/comparisons",
         "native_artifacts_snapshot_commit": null,
         "role": "Direct Ferrer PDF and appendix comparison",
@@ -209,7 +209,7 @@
     },
     {
       "path": "research/collection-work-ledger.json",
-      "sha256": "02e457bc9a4220315684adedf3e8015e97c86f03478c7f8837fd944b14dbeb4c",
+      "sha256": "5d7c29eade8e85af39bbf24eb428338e3f1b3d45ba21a9e0e3af57f37d34be35",
       "bytes": 44112
     },
     {
@@ -219,13 +219,13 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "f4310fa2bff437a0a8a1de2ca5d6820a9aac349d1bd7bd28017f17883ff4bcb0",
+      "sha256": "9550e329c20fb2b32d5fcefafb49c2ff39141b30e504f0d179b4af7193c6b2df",
       "bytes": 9393
     },
     {
       "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
-      "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
-      "bytes": 22261
+      "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
+      "bytes": 22260
     },
     {
       "path": "research/legacy-2025-concordance.json",
@@ -289,7 +289,7 @@
     },
     {
       "path": "review/collection-packet.json",
-      "sha256": "423ece3846ab8578d1b66ffaed2b9d8383cb2357c1ec21c1fc4fdbcc70564557",
+      "sha256": "d31f5ba5af8f5bd0ccffefb1079f90369ec0c1126e11e70a9c46e119949d86aa",
       "bytes": 1929
     },
     {
