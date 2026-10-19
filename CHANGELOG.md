@@ -41,3 +41,7 @@ reading, expert acceptance or redistribution permission is added by this change.
 ### 2026-10-18 source acquisition follow-up
 
 Pursued the requested sources and recorded bounded consultation/access results, source-identity checks and unsent delivery requests. New source-intake tasks are queryable and included in collection/AI routing. Original-page typography work remains open; frozen readings unchanged.
+
+## Ferrer PDF comparison (2026-10-18)
+
+Direct PDF and22 rendered pages now support33 appendix line/group comparison notes. Query `ferrer2025-appendix-comparison`; preserve discussion-versus-final sign conventions and directory S11/Ferrer S13 numbering. No exact diplomatic layer or accepted reading is claimed. Brixhe–Neumann and Olivier original checks remain open.

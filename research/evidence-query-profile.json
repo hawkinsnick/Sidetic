@@ -48,7 +48,15 @@
       "pointer": "/cases",
       "id_pointer": "/case_id",
       "unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
-      "scope": "Current partial progress and unacquired originals; do not add these tasks to historical selected-comparison counts."
+      "scope": "Direct Ferrer PDF follow-up; Brixhe–Neumann original remains unacquired. Tasks are not independent witnesses."
+    },
+    {
+      "name": "ferrer2025-appendix-comparison",
+      "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
+      "pointer": "/comparisons",
+      "id_pointer": "/comparison_id",
+      "unit": "editorial appendix line/group comparison, not an inscription or independent witness",
+      "scope": "All33 source lines/groups; bibliographic joins and explicit missing counterparts only; no glyph-complete diplomatic layer or accepted reading."
     }
   ],
   "relations": [
@@ -175,10 +183,17 @@
     },
     {
       "path": "research/source-intake-2026-10-18.json",
-      "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+      "sha256": "a1919eb40081340524a246309791d90d5bd38999be97d42795c277fa348472cd",
       "encoding": "json",
       "role": "bounded source intake and bibliographic identity",
       "source_snapshot_commit": null
+    },
+    {
+      "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
+      "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
+      "source_snapshot_commit": null,
+      "encoding": "json",
+      "role": "Direct Ferrer PDF and appendix comparison"
     }
   ],
   "scholarly_limits": [

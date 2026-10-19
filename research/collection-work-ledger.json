@@ -1,8 +1,8 @@
 {
   "builder_sha256": "2c5306631cb0fa09a6c1d686d5f7e7265b32cb33c1faed1edf0d519dad2f196f",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "d178451e52941155de8a090ef0b38aaf78c1bf3aad66ab70520627579aef9bd6",
-  "evidence_fingerprint": "c7d2f45952f9551dcd7e5cdec9802d17a7cd4050b6262bfae9c78e36d302e4e6",
+  "config_sha256": "cfe316e1a08f41f857191f6cb50d1904d5aabedbb6ef75b1de76d601b94ee321",
+  "evidence_fingerprint": "2c23efea319cc4566b3ceffecebfb253abe68c9f2c4021c0e5476bdc030575be",
   "input_sha256": {
     "analysis/current-status.json": "8e9e2c4e09938a270254efc73b252bdf37b3d6d66fe7c23d5fb305deabd35f18",
     "analysis/upstream-epidoc-validation.json": "4e09ed53316dde0c1a59acc826123e2b0690cfe94d1808af2f1ffdfde6437f7e",
@@ -11,6 +11,7 @@
     "interchange/epidoc/upstream-pins.json": "240d9f8b31142c9146b6c5f63ce29019af9101cefa276a590cbe78ff637ab01a",
     "interchange/export-manifest.json": "0e82a87b5099e9ed6126a6fa1aa88b6c3fb89a82d57cd8f20b73055654d1d618",
     "research/cross-corpus-dependencies.json": "b2890d635b92ced93c216db958cfc41b9db9f4aed5d754d270e2b68d7b10cd94",
+    "research/ferrer2025-pdf-comparison-2026-10-18.json": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
     "research/pre-expert-maximum.json": "e9d0fcbfe01d37730f83964e9782d57beca65c92340b37418b5484a0bfc327a9",
     "research/publication-reconciliation.json": "6a1df4a476c7b5d9aeaed85205283912f86646700f2b1f13b61ed676e63de022",
     "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
@@ -19,7 +20,7 @@
     "research/source-checks.json": "e50deb8ed5eb6a01d1501ff373e4be08bbd614934d20424775a01870a21fc08b",
     "research/source-collation-2026-10-15.json": "35d1e964000a42df59c572408c6b77e074e3e1b091ef793c45f0d0c99161a8a0",
     "research/source-frontier.json": "ee3340368cbf7fab2b781046cb8459b380c8a206941f7127d4f4bb50d053dee8",
-    "research/source-intake-2026-10-18.json": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+    "research/source-intake-2026-10-18.json": "a1919eb40081340524a246309791d90d5bd38999be97d42795c277fa348472cd",
     "research/source-register.json": "4c0b2e073b7c605a8ba1da614fab05ac9d1c6ebca133aacbc64cbebba9b9267c",
     "research/source-worklist.json": "79eb737c1d67db89a12d03fc5fb20623cd55ce117446662d0a619960e856f95a"
   },
@@ -364,6 +365,30 @@
       "json_pointer": "/10/source_url",
       "kind": "source_url",
       "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source",
+      "kind": "source",
+      "source_path": "research/ferrer2025-pdf-comparison-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source/title",
+      "kind": "title",
+      "source_path": "research/ferrer2025-pdf-comparison-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source/doi",
+      "kind": "doi",
+      "source_path": "research/ferrer2025-pdf-comparison-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source/url",
+      "kind": "url",
+      "source_path": "research/ferrer2025-pdf-comparison-2026-10-18.json"
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
@@ -931,6 +956,24 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/access_attempts/3/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/access_attempts/4/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/0/access_attempts/5/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/cases/0/metadata_receipt/url",
       "kind": "url",
       "source_path": "research/source-intake-2026-10-18.json"
@@ -962,6 +1005,12 @@
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/cases/1/access_attempts/1/url",
+      "kind": "url",
+      "source_path": "research/source-intake-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/cases/1/access_attempts/2/url",
       "kind": "url",
       "source_path": "research/source-intake-2026-10-18.json"
     },
