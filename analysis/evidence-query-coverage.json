@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Sidetic",
-  "profile_sha256": "f4310fa2bff437a0a8a1de2ca5d6820a9aac349d1bd7bd28017f17883ff4bcb0",
+  "profile_sha256": "9550e329c20fb2b32d5fcefafb49c2ff39141b30e504f0d179b4af7193c6b2df",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -129,7 +129,7 @@
       ],
       "provenance": {
         "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
-        "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
+        "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
         "pointer": "/comparisons",
         "native_artifacts_snapshot_commit": null,
         "role": "Direct Ferrer PDF and appendix comparison",
@@ -268,7 +268,7 @@
     },
     {
       "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
-      "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
+      "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "Direct Ferrer PDF and appendix comparison",
