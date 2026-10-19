@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "5fb86376599d04a95e2f294544fa274a98f8ebdf",
-  "evidence_fingerprint_sha256": "6d6f491ad0b6e69f62c329e141c5cfe93d36df542e71a6b5b97dc16010aa4949",
+  "source_commit": "2e605c6779bf93eff4ed9aa5291ae64cb194fd17",
+  "evidence_fingerprint_sha256": "a8da6a972d6ecdef258df07cc0a90993df1d1c9b303e5529da0613a2249f5fec",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -146,13 +146,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "02e457bc9a4220315684adedf3e8015e97c86f03478c7f8837fd944b14dbeb4c",
+      "sha256": "5d7c29eade8e85af39bbf24eb428338e3f1b3d45ba21a9e0e3af57f37d34be35",
       "bytes": 44112
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "423ece3846ab8578d1b66ffaed2b9d8383cb2357c1ec21c1fc4fdbcc70564557",
+      "sha256": "d31f5ba5af8f5bd0ccffefb1079f90369ec0c1126e11e70a9c46e119949d86aa",
       "bytes": 1929
     },
     {
@@ -278,13 +278,13 @@
     {
       "role": "native_evidence_profile",
       "path": "research/evidence-query-profile.json",
-      "sha256": "f4310fa2bff437a0a8a1de2ca5d6820a9aac349d1bd7bd28017f17883ff4bcb0",
+      "sha256": "9550e329c20fb2b32d5fcefafb49c2ff39141b30e504f0d179b4af7193c6b2df",
       "bytes": 9393
     },
     {
       "role": "native_evidence_coverage",
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "b34ca80d3e79baec0e46759ffd3c5b04934a978da9d844600dd69be331812323",
+      "sha256": "497c548b0e40bebca92449ac2ce8c46a2ef3a30cdee36cd850972227004f231d",
       "bytes": 11988
     },
     {
@@ -392,7 +392,7 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "89524e1bbe68e2026888740381ac6f295be1d5bee964ae3517dbdcd5ecabd43f",
+      "sha256": "8ff5e090c6a84dbe31ee4e3c83fb0111f8fedc193b7efa9468334f769ffdb174",
       "bytes": 12027
     },
     {
@@ -410,14 +410,14 @@
     {
       "role": "ferrer_pdf_comparison",
       "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
-      "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
-      "bytes": 22261
+      "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
+      "bytes": 22260
     },
     {
       "role": "ferrer_pdf_comparison",
       "path": "docs/FERRER2025-PDF-COMPARISON-2026-10-18.md",
-      "sha256": "f593902c9feb2b36771950b0069d22fe65a8612703a0dbbc6b9202612d7e0c06",
-      "bytes": 1920
+      "sha256": "a92f0ed67c8a787bcd37d57924f8a0a159fab21953f227ecb18f582733a875d6",
+      "bytes": 2098
     }
   ],
   "contract": {
