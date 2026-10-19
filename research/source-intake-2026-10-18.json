@@ -3,14 +3,14 @@
   "repository": "hawkinsnick/Sidetic",
   "checked_local_date": "2026-10-18",
   "date_basis": "America/Chicago",
-  "scope": "Bounded source acquisition, identity and consultation follow-up. Not completed primary typography collation. Existing dated source-collation receipts remain historical and are not overwritten.",
+  "scope": "Bounded source intake, followed by direct Ferrer PDF inspection and all-appendix line/group comparison. Brixhe–Neumann original remains unacquired; no scientific acceptance.",
   "cases": [
     {
       "case_id": "SID-FERRER2025-VOWEL-INTAKE",
       "source_title": "A new Sidetic vowel. Splitting a misread sign into two",
       "doi": "10.1515/kadmos-2025-0009",
-      "consultation": "DIRECT_PUBLISHER_PROVIDED_WEB_TEXT_PAGE_MARKERS",
-      "status": "SEMANTIC_MODEL_AND_APPENDIX_POLICY_CHECKED_PDF_TYPOGRAPHY_BLOCKED",
+      "consultation": "DIRECT_PDF_RENDERED_PAGES_149_170",
+      "status": "PDF_ACQUIRED_DIRECT_VISUAL_AND_APPENDIX_COMPARISON_COMPLETE_WITH_LIMITS",
       "url": "https://www.researchgate.net/publication/396360348_A_new_Sidetic_vowel_Splitting_a_misread_sign_into_two",
       "locators": [
         "p.149 article note",
@@ -18,9 +18,9 @@
         "pp.165–167 distribution and final transcription policy",
         "pp.168–170 appendix introduction and scope"
       ],
-      "pdf_acquired": false,
-      "pdf_sha256": null,
-      "page_images_inspected": 0,
+      "pdf_acquired": true,
+      "pdf_sha256": "7ed743e6e9b1ac4123b9533045f658b0c58bd877c3455c24242ce5833484cb60",
+      "page_images_inspected": 22,
       "access_attempts": [
         {
           "id": "ferrer-rg",
@@ -44,6 +44,36 @@
           "bytes": 0,
           "content_type": "text/html; charset=UTF-8",
           "pdf_magic": false
+        },
+        {
+          "id": "ferrer",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-2025-0009/pdf",
+          "status": 202,
+          "bytes": 0,
+          "content_type": "text/html; charset=UTF-8",
+          "resolved_url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-2025-0009/pdf",
+          "pdf_magic": false,
+          "response_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "id": "brixhe",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-1988-0105/pdf",
+          "status": 202,
+          "bytes": 0,
+          "content_type": "text/html; charset=UTF-8",
+          "resolved_url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-1988-0105/pdf",
+          "pdf_magic": false,
+          "response_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "id": "ferrer-rg",
+          "url": "https://www.researchgate.net/journal/Kadmos-1613-0723/publication/396360348_A_new_Sidetic_vowel_Splitting_a_misread_sign_into_two/links/6925ca39a130337711bf122f/A-new-Sidetic-vowel-Splitting-a-misread-sign-into-two.pdf",
+          "status": 200,
+          "bytes": 312521,
+          "content_type": "application/pdf",
+          "resolved_url": "https://www.researchgate.net/journal/Kadmos-1613-0723/publication/396360348_A_new_Sidetic_vowel_Splitting_a_misread_sign_into_two/links/6925ca39a130337711bf122f/A-new-Sidetic-vowel-Splitting-a-misread-sign-into-two.pdf",
+          "pdf_magic": true,
+          "response_sha256": "7ed743e6e9b1ac4123b9533045f658b0c58bd877c3455c24242ce5833484cb60"
         }
       ],
       "metadata_receipt": {
@@ -63,7 +93,7 @@
       "source_attributed_observations": [
         "Ferrer’s final policy labels his new sign28 as u, sign5 provisionally y, and sign6 w (p.167). The provisional y is conventional, not a newly certified phonetic value.",
         "The appendix excludes S11/S12 and refers Abydos graffiti to separate editions. It uses lowercase and scriptio continua except inscriptional spaces (p.168). These are source policies, not instructions to remove or normalize frozen records.",
-        "The article note retains uncertain signs without phonetic transcription. Exact sign shapes, typography and a complete row-by-row appendix comparison remain unverified in this web-text pass."
+        "Direct rendered pages verify figures1–3 and appendix typography;33 line/group comparison notes retain unresolved glyphs and source-specific uncertainty. This is not independent epigraphic acceptance."
       ],
       "model_labels_attributed_not_adopted": {
         "source_numbering_authority": "Ferrer2025 only",
@@ -74,10 +104,12 @@
       "not_a_global_crosswalk": true,
       "related_native_task": "SID-S9-ABYDOS-COMPARISON",
       "remaining_work": [
-        "Obtain a lawful PDF; visually inspect sign diagrams, uncertainty marks and the whole appendix before encoding a row-level alternative layer.",
-        "Preserve source-specific numbering (including other authors’28) and N02/N22 distinctions; do not infer sign identity from equal numbers or extracted glyphs."
+        "Independent expert/primary-photograph evaluation; no reading automatically accepted.",
+        "Glyph-complete diplomatic encoding remains separate; all33 appendix lines/groups have editorial comparison notes."
       ],
-      "request_text": "Please provide the published PDF of Gem Ferrer, A new Sidetic vowel. Splitting a misread sign into two, Kadmos64(1/2),2025,149–174, DOI10.1515/kadmos-2025-0009. It is listed open access. Needed for private scholarly inspection of typography, sign figures and appendix; no redistribution requested."
+      "request_text": "Please provide the published PDF of Gem Ferrer, A new Sidetic vowel. Splitting a misread sign into two, Kadmos64(1/2),2025,149–174, DOI10.1515/kadmos-2025-0009. It is listed open access. Needed for private scholarly inspection of typography, sign figures and appendix; no redistribution requested.",
+      "comparison_packet": "research/ferrer2025-pdf-comparison-2026-10-18.json",
+      "request_text_status": "SUPERSEDED_BY_LAWFUL_PDF_ACQUISITION"
     },
     {
       "case_id": "SID-BRIXHE-NEUMANN1988-INTAKE",
@@ -107,6 +139,16 @@
           "bytes": 0,
           "content_type": "text/html; charset=UTF-8",
           "pdf_magic": false
+        },
+        {
+          "id": "brixhe",
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-1988-0105/pdf",
+          "status": 202,
+          "bytes": 0,
+          "content_type": "text/html; charset=UTF-8",
+          "resolved_url": "https://www.degruyterbrill.com/document/doi/10.1515/kadmos-1988-0105/pdf",
+          "pdf_magic": false,
+          "response_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         }
       ],
       "metadata_receipt": {
@@ -143,7 +185,7 @@
         }
       },
       "page_range_requested": "35–43",
-      "page_range_basis": "Magnelli–Petrantoni2020 bibliography; Crossref deposit omits page range, original article not inspected.",
+      "page_range_basis": "University of Würzburg hosted Günter Neumann publication list, entries171–172; corroborates pp35–43 versus separate pp63f. Original article remains unacquired.",
       "related_native_tasks": [
         "SID-S6-GREEK-2020",
         "SID-S6-DARGA-GREEK"
@@ -151,7 +193,8 @@
       "remaining_work": [
         "Obtain the joint article under DOI0105 and compare Greek E/Y and iota at the original loci; keep it separate from the Sidetic personal-name argument."
       ],
-      "request_text": "Please supply Claude Brixhe and Günter Neumann, Die griechisch-sidetische Bilingue von Seleukeia, Kadmos27(1),1988,35–43, DOI10.1515/kadmos-1988-0105, for private scholarly consultation. Please match title and both authors: DOI10.1515/kadmos-1988-0108 is the separate Neumann article Zur sidetisch-griechischen Bilingue I."
+      "request_text": "Please supply Claude Brixhe and Günter Neumann, Die griechisch-sidetische Bilingue von Seleukeia, Kadmos27(1),1988,35–43, DOI10.1515/kadmos-1988-0105, for private scholarly consultation. Please match title and both authors: DOI10.1515/kadmos-1988-0108 is the separate Neumann article Zur sidetisch-griechischen Bilingue I.",
+      "institutional_bibliography_url": "https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2021/Publikationsliste_Guenter_Neumann.pdf"
     }
   ],
   "limits": {

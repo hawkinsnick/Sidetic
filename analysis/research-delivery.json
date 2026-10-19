@@ -107,17 +107,36 @@
       "name": "source-intake-2026-10-18",
       "native_unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
       "record_count": 2,
-      "scope": "Current partial progress and unacquired originals; do not add these tasks to historical selected-comparison counts.",
+      "scope": "Direct Ferrer PDF follow-up; Brixhe–Neumann original remains unacquired. Tasks are not independent witnesses.",
       "example_ids": [
         "SID-FERRER2025-VOWEL-INTAKE",
         "SID-BRIXHE-NEUMANN1988-INTAKE"
       ],
       "provenance": {
         "path": "research/source-intake-2026-10-18.json",
-        "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
+        "sha256": "a1919eb40081340524a246309791d90d5bd38999be97d42795c277fa348472cd",
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded source intake and bibliographic identity",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "ferrer2025-appendix-comparison",
+      "native_unit": "editorial appendix line/group comparison, not an inscription or independent witness",
+      "record_count": 33,
+      "scope": "All33 source lines/groups; bibliographic joins and explicit missing counterparts only; no glyph-complete diplomatic layer or accepted reading.",
+      "example_ids": [
+        "FERRER2025-S1-1",
+        "FERRER2025-S1-2",
+        "FERRER2025-S2-1"
+      ],
+      "provenance": {
+        "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
+        "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
+        "pointer": "/comparisons",
+        "native_artifacts_snapshot_commit": null,
+        "role": "Direct Ferrer PDF and appendix comparison",
         "encoding": "json"
       }
     }
@@ -160,8 +179,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "7e7e19e0a1f1bee43d5c6a43d25102842c785f5d95d1f0c5c6b1ce55ceabc4a2",
-      "bytes": 14378
+      "sha256": "88ae4203f8ef955d01262bd02bd127591eef9f753a8a8c1d89a9f08da44e7ecc",
+      "bytes": 14748
     },
     {
       "path": "data/reference/records.json",
@@ -190,8 +209,8 @@
     },
     {
       "path": "research/collection-work-ledger.json",
-      "sha256": "4f4dd5e778ddfb26c11b8d340739c8428112a4383d7eac475c9eb82343460089",
-      "bytes": 42091
+      "sha256": "02e457bc9a4220315684adedf3e8015e97c86f03478c7f8837fd944b14dbeb4c",
+      "bytes": 44112
     },
     {
       "path": "research/disagreement-register.json",
@@ -200,8 +219,13 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "e47bb5e2e826f935c54deaadfe2861dcf4aafe072f23363c409b59daf44974c4",
-      "bytes": 8649
+      "sha256": "f4310fa2bff437a0a8a1de2ca5d6820a9aac349d1bd7bd28017f17883ff4bcb0",
+      "bytes": 9393
+    },
+    {
+      "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
+      "sha256": "bdf654f81f7398266a23744830da26cfb8dc5746c6334cb5b84b9870172d6361",
+      "bytes": 22261
     },
     {
       "path": "research/legacy-2025-concordance.json",
@@ -235,8 +259,8 @@
     },
     {
       "path": "research/source-intake-2026-10-18.json",
-      "sha256": "29500c325bde09c71a8141442736d80856de1a5dfc9f62d664f1c88fea41fc74",
-      "bytes": 8150
+      "sha256": "a1919eb40081340524a246309791d90d5bd38999be97d42795c277fa348472cd",
+      "bytes": 10612
     },
     {
       "path": "research/source-issues.json",
@@ -265,7 +289,7 @@
     },
     {
       "path": "review/collection-packet.json",
-      "sha256": "65d1d2238ba304ad88bdd275238a8795d4b09c87d9f1720bfa4a510e4c7544f2",
+      "sha256": "423ece3846ab8578d1b66ffaed2b9d8383cb2357c1ec21c1fc4fdbcc70564557",
       "bytes": 1929
     },
     {

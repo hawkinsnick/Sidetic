@@ -100,6 +100,10 @@ redistribution rights. Label any model-generated analysis separately and cite it
 
 Read `docs/SOURCE-INTAKE-2026-10-18.md` and `research/source-intake-2026-10-18.json` before reporting source completion. Preserve partial consultation versus unacquired original-page checks, corrected bibliographic identities, source-specific conventions and unchanged historical receipts. Request drafts are unsent; no purchase, accepted reading, extra witness or independent review follows.
 
+## Ferrer PDF comparison (2026-10-18)
+
+Direct PDF and22 rendered pages now support33 appendix line/group comparison notes. Query `ferrer2025-appendix-comparison`; preserve discussion-versus-final sign conventions and directory S11/Ferrer S13 numbering. No exact diplomatic layer or accepted reading is claimed. Brixhe–Neumann and Olivier original checks remain open.
+
 
 # Corpus Project AI Research Contract — 0.3
 

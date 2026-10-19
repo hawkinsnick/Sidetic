@@ -16,3 +16,7 @@ python scripts/evidence_query.py --list source-intake-2026-10-18
 python scripts/evidence_query.py --record SID-FERRER2025-VOWEL-INTAKE --collection source-intake-2026-10-18
 python scripts/evidence_query.py --check
 ```
+
+## Subsequent direct-PDF result
+
+The Ferrer PDF is now acquired and22 rendered pages inspected. All33 appendix lines/groups have comparison notes in [the direct-PDF guide](FERRER2025-PDF-COMPARISON-2026-10-18.md). The earlier empty/blocked routes are access history; Brixhe–Neumann and Olivier remain unacquired. No reading is accepted automatically.
