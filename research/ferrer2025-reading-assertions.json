@@ -1,0 +1,249 @@
+{
+  "format": "sidetic-attributed-reading-assertions-v1",
+  "repository": "hawkinsnick/Sidetic",
+  "checked_local_date": "2026-10-19",
+  "date_basis": "America/Chicago",
+  "scope": "Six selected names on four appendix lines mapped to three frozen directory records. Not complete corpus or diplomatic encoding. No new original PDF acquisition or expert acceptance.",
+  "source_comparison_packet": {
+    "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
+    "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1"
+  },
+  "source_rights": {
+    "license": "CC-BY-4.0",
+    "attribution": "Gem Ferrer, A new Sidetic vowel. Splitting a misread sign into two, Kadmos64(1/2),2025,149–174, DOI10.1515/kadmos-2025-0009. Printed final appendix conventions retained.",
+    "upstream_directory_license": "CC-BY-SA-4.0; exact frozen quotations retain their source attribution and rights; corpus wrapper does not override component rights."
+  },
+  "assertions": [
+    {
+      "assertion_id": "FERRER2025-APP-DARKUW",
+      "category": "ATTRIBUTED_EDITION_READING_PROPOSAL",
+      "source_display_excerpt": "darkuw",
+      "source_extent": "selected name only; word boundaries follow the article discussion, not new inscriptional spaces",
+      "source_locus": {
+        "doi": "10.1515/kadmos-2025-0009",
+        "printed_page": 168,
+        "pdf_page": 20,
+        "unit": "S3",
+        "line": "2",
+        "edition_phase": "FINAL_P167_APPENDIX_CONVENTION",
+        "pdf_sha256": "7ed743e6e9b1ac4123b9533045f658b0c58bd877c3455c24242ce5833484cb60"
+      },
+      "native_comparison": {
+        "record_id": "sidetic:ediana:302",
+        "source_catalog_label": " S3 (S.I.2.1) (scriptio continua)",
+        "record_file": "data/reference/records.json",
+        "record_file_sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
+        "json_pointer": "/4/lines/1/reading",
+        "source_row_label": "· 2",
+        "verbatim_full_reading": "darkew diuneśijaś mewakaś iśtratag",
+        "literal_excerpt": "darkew",
+        "excerpt_start_codepoint": 0,
+        "excerpt_end_codepoint": 6,
+        "link_basis": "BIBLIOGRAPHIC_LOCUS_NOT_PHYSICAL_IDENTITY_CERTIFICATION"
+      },
+      "comparison_id": "FERRER2025-S3-2",
+      "difference_scope": "new-vowel assertion",
+      "questioned_letter_positions_1_based": [],
+      "review_state": "AWAITING_INDEPENDENT_EPIGRAPHIC_REVIEW",
+      "canonical_replacement": false,
+      "independence_group": "FERRER2025_KADMOS_SAME_EDITION",
+      "accepted": false
+    },
+    {
+      "assertion_id": "FERRER2025-APP-DIYNUSIJAS",
+      "category": "ATTRIBUTED_EDITION_READING_PROPOSAL",
+      "source_display_excerpt": "diynuśijaś",
+      "source_extent": "selected name only; word boundaries follow the article discussion, not new inscriptional spaces",
+      "source_locus": {
+        "doi": "10.1515/kadmos-2025-0009",
+        "printed_page": 168,
+        "pdf_page": 20,
+        "unit": "S3",
+        "line": "2",
+        "edition_phase": "FINAL_P167_APPENDIX_CONVENTION",
+        "pdf_sha256": "7ed743e6e9b1ac4123b9533045f658b0c58bd877c3455c24242ce5833484cb60"
+      },
+      "native_comparison": {
+        "record_id": "sidetic:ediana:302",
+        "source_catalog_label": " S3 (S.I.2.1) (scriptio continua)",
+        "record_file": "data/reference/records.json",
+        "record_file_sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
+        "json_pointer": "/4/lines/1/reading",
+        "source_row_label": "· 2",
+        "verbatim_full_reading": "darkew diuneśijaś mewakaś iśtratag",
+        "literal_excerpt": "diuneśijaś",
+        "excerpt_start_codepoint": 7,
+        "excerpt_end_codepoint": 17,
+        "link_basis": "BIBLIOGRAPHIC_LOCUS_NOT_PHYSICAL_IDENTITY_CERTIFICATION"
+      },
+      "comparison_id": "FERRER2025-S3-2",
+      "difference_scope": "new vowel plus provisional sign5 y",
+      "questioned_letter_positions_1_based": [],
+      "review_state": "AWAITING_INDEPENDENT_EPIGRAPHIC_REVIEW",
+      "canonical_replacement": false,
+      "independence_group": "FERRER2025_KADMOS_SAME_EDITION",
+      "accepted": false
+    },
+    {
+      "assertion_id": "FERRER2025-APP-MUWAKAS",
+      "category": "ATTRIBUTED_EDITION_READING_PROPOSAL",
+      "source_display_excerpt": "muwakaś",
+      "source_extent": "selected name only; word boundaries follow the article discussion, not new inscriptional spaces",
+      "source_locus": {
+        "doi": "10.1515/kadmos-2025-0009",
+        "printed_page": 168,
+        "pdf_page": 20,
+        "unit": "S3",
+        "line": "2",
+        "edition_phase": "FINAL_P167_APPENDIX_CONVENTION",
+        "pdf_sha256": "7ed743e6e9b1ac4123b9533045f658b0c58bd877c3455c24242ce5833484cb60"
+      },
+      "native_comparison": {
+        "record_id": "sidetic:ediana:302",
+        "source_catalog_label": " S3 (S.I.2.1) (scriptio continua)",
+        "record_file": "data/reference/records.json",
+        "record_file_sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
+        "json_pointer": "/4/lines/1/reading",
+        "source_row_label": "· 2",
+        "verbatim_full_reading": "darkew diuneśijaś mewakaś iśtratag",
+        "literal_excerpt": "mewakaś",
+        "excerpt_start_codepoint": 18,
+        "excerpt_end_codepoint": 25,
+        "link_basis": "BIBLIOGRAPHIC_LOCUS_NOT_PHYSICAL_IDENTITY_CERTIFICATION"
+      },
+      "comparison_id": "FERRER2025-S3-2",
+      "difference_scope": "new-vowel assertion",
+      "questioned_letter_positions_1_based": [],
+      "review_state": "AWAITING_INDEPENDENT_EPIGRAPHIC_REVIEW",
+      "canonical_replacement": false,
+      "independence_group": "FERRER2025_KADMOS_SAME_EDITION",
+      "accepted": false
+    },
+    {
+      "assertion_id": "FERRER2025-APP-EWPEL",
+      "category": "ATTRIBUTED_EDITION_READING_PROPOSAL",
+      "source_display_excerpt": "ewpe?l",
+      "source_extent": "selected name only; word boundaries follow the article discussion, not new inscriptional spaces",
+      "source_locus": {
+        "doi": "10.1515/kadmos-2025-0009",
+        "printed_page": 169,
+        "pdf_page": 21,
+        "unit": "S6",
+        "line": "1",
+        "edition_phase": "FINAL_P167_APPENDIX_CONVENTION",
+        "pdf_sha256": "7ed743e6e9b1ac4123b9533045f658b0c58bd877c3455c24242ce5833484cb60"
+      },
+      "native_comparison": {
+        "record_id": "sidetic:ediana:305",
+        "source_catalog_label": " S6 (S I.1.3) (scriptio continua)",
+        "record_file": "data/reference/records.json",
+        "record_file_sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
+        "json_pointer": "/7/lines/0/reading",
+        "source_row_label": "· 1",
+        "verbatim_full_reading": "ebpel śdiṯś",
+        "literal_excerpt": "ebpel",
+        "excerpt_start_codepoint": 0,
+        "excerpt_end_codepoint": 5,
+        "link_basis": "BIBLIOGRAPHIC_LOCUS_NOT_PHYSICAL_IDENTITY_CERTIFICATION"
+      },
+      "comparison_id": "FERRER2025-S6-1",
+      "difference_scope": "damaged dedicator-name assertion; fourth letter questioned",
+      "questioned_letter_positions_1_based": [
+        4
+      ],
+      "review_state": "AWAITING_INDEPENDENT_EPIGRAPHIC_REVIEW",
+      "canonical_replacement": false,
+      "independence_group": "FERRER2025_KADMOS_SAME_EDITION",
+      "accepted": false,
+      "parallel_publication_warning": "The separate Gephyra2025 paper prints ewpel while qualifying damaged letters in prose. This appendix prints ewpe?l. Same author and reused evidence: these are source-specific displays, not independent votes."
+    },
+    {
+      "assertion_id": "FERRER2025-APP-ISTORUOR",
+      "category": "ATTRIBUTED_EDITION_READING_PROPOSAL",
+      "source_display_excerpt": "iśtoru?o?r",
+      "source_extent": "selected name only; word boundaries follow the article discussion, not new inscriptional spaces",
+      "source_locus": {
+        "doi": "10.1515/kadmos-2025-0009",
+        "printed_page": 169,
+        "pdf_page": 21,
+        "unit": "S13",
+        "line": "1",
+        "edition_phase": "FINAL_P167_APPENDIX_CONVENTION",
+        "pdf_sha256": "7ed743e6e9b1ac4123b9533045f658b0c58bd877c3455c24242ce5833484cb60"
+      },
+      "native_comparison": {
+        "record_id": "sidetic:ediana:310",
+        "source_catalog_label": " S11 (“S13”, S I.2.6)",
+        "record_file": "data/reference/records.json",
+        "record_file_sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
+        "json_pointer": "/2/lines/0/reading",
+        "source_row_label": "· 1",
+        "verbatim_full_reading": "i̤śtorẹmr",
+        "literal_excerpt": "i̤śtorẹmr",
+        "excerpt_start_codepoint": 0,
+        "excerpt_end_codepoint": 10,
+        "link_basis": "BIBLIOGRAPHIC_LOCUS_NOT_PHYSICAL_IDENTITY_CERTIFICATION"
+      },
+      "comparison_id": "FERRER2025-S13-1",
+      "difference_scope": "damaged-name assertion; sixth and seventh letters questioned",
+      "questioned_letter_positions_1_based": [
+        6,
+        7
+      ],
+      "review_state": "AWAITING_INDEPENDENT_EPIGRAPHIC_REVIEW",
+      "canonical_replacement": false,
+      "independence_group": "FERRER2025_KADMOS_SAME_EDITION",
+      "accepted": false,
+      "numbering_warning": "Ferrer S13 is directory S11 (“S13”, S I.2.6); not excluded Mnemon Characters S11."
+    },
+    {
+      "assertion_id": "FERRER2025-APP-TBYATMUWS",
+      "category": "ATTRIBUTED_EDITION_READING_PROPOSAL",
+      "source_display_excerpt": "tbyatmuwś",
+      "source_extent": "selected name only; word boundaries follow the article discussion, not new inscriptional spaces",
+      "source_locus": {
+        "doi": "10.1515/kadmos-2025-0009",
+        "printed_page": 169,
+        "pdf_page": 21,
+        "unit": "S13",
+        "line": "2",
+        "edition_phase": "FINAL_P167_APPENDIX_CONVENTION",
+        "pdf_sha256": "7ed743e6e9b1ac4123b9533045f658b0c58bd877c3455c24242ce5833484cb60"
+      },
+      "native_comparison": {
+        "record_id": "sidetic:ediana:310",
+        "source_catalog_label": " S11 (“S13”, S I.2.6)",
+        "record_file": "data/reference/records.json",
+        "record_file_sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
+        "json_pointer": "/2/lines/1/reading",
+        "source_row_label": "· 2",
+        "verbatim_full_reading": "tbi<sup>?</sup>atmemś",
+        "literal_excerpt": "tbi<sup>?</sup>atmemś",
+        "excerpt_start_codepoint": 0,
+        "excerpt_end_codepoint": 21,
+        "link_basis": "BIBLIOGRAPHIC_LOCUS_NOT_PHYSICAL_IDENTITY_CERTIFICATION"
+      },
+      "comparison_id": "FERRER2025-S13-2",
+      "difference_scope": "revised compound-name assertion and sign5 convention",
+      "questioned_letter_positions_1_based": [],
+      "review_state": "AWAITING_INDEPENDENT_EPIGRAPHIC_REVIEW",
+      "canonical_replacement": false,
+      "independence_group": "FERRER2025_KADMOS_SAME_EDITION",
+      "accepted": false,
+      "numbering_warning": "Ferrer S13 is directory S11 (“S13”, S I.2.6)."
+    }
+  ],
+  "counts": {
+    "assertions": 6,
+    "selected_source_lines": 4,
+    "frozen_directory_targets": 3,
+    "accepted_readings_added": 0,
+    "independent_reviews_added": 0
+  },
+  "limits": [
+    "The source supports these names as scholarly proposals; it does not independently certify object readings.",
+    "Source display excerpts preserve the printed question marks; HTML uncertainty in the frozen directory remains literal.",
+    "No automatic e/u/y substitution, no synthetic full inscription or reconstruction of untranscribed glyphs.",
+    "Brixhe–Neumann and Olivier originals remain unacquired."
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Sidetic",
-  "profile_sha256": "9550e329c20fb2b32d5fcefafb49c2ff39141b30e504f0d179b4af7193c6b2df",
+  "profile_sha256": "6ecec7cf7f71f36be9976d47ee06ee7bc6cf3aa429fd265104a0c78ade3c85ce",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -133,6 +133,25 @@
         "pointer": "/comparisons",
         "native_artifacts_snapshot_commit": null,
         "role": "Direct Ferrer PDF and appendix comparison",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "ferrer2025-reading-assertions",
+      "native_unit": "source-attributed selected name proposal; not independent witness or physical object",
+      "record_count": 6,
+      "scope": "Six names at four source lines and three directory targets; final appendix display and source-specific uncertainty retained.",
+      "example_ids": [
+        "FERRER2025-APP-DARKUW",
+        "FERRER2025-APP-DIYNUSIJAS",
+        "FERRER2025-APP-MUWAKAS"
+      ],
+      "provenance": {
+        "path": "research/ferrer2025-reading-assertions.json",
+        "sha256": "094d5f94a620f0472470c5aef2beca657132be37d5d046aa9ed1981cd0b2af22",
+        "pointer": "/assertions",
+        "native_artifacts_snapshot_commit": null,
+        "role": "selected attributed edition assertions",
         "encoding": "json"
       }
     }
@@ -272,6 +291,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "Direct Ferrer PDF and appendix comparison",
+      "encoding": "json"
+    },
+    {
+      "path": "research/ferrer2025-reading-assertions.json",
+      "sha256": "094d5f94a620f0472470c5aef2beca657132be37d5d046aa9ed1981cd0b2af22",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "selected attributed edition assertions",
       "encoding": "json"
     }
   ],

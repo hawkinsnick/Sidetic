@@ -1,8 +1,8 @@
 {
   "builder_sha256": "2c5306631cb0fa09a6c1d686d5f7e7265b32cb33c1faed1edf0d519dad2f196f",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "cfe316e1a08f41f857191f6cb50d1904d5aabedbb6ef75b1de76d601b94ee321",
-  "evidence_fingerprint": "a7383c5fdb5117c5ec3d093023c20e94781d0bd93047a583c10c0debaedb12a3",
+  "config_sha256": "ad6efff52e4fa423e1ce5bb8588cb07b3826c76f1d03465cdf4e644fd5136aa7",
+  "evidence_fingerprint": "8030c0210a4614cabdaea0b9e7970abf46122a9d67089145152c15efc3854217",
   "input_sha256": {
     "analysis/current-status.json": "8e9e2c4e09938a270254efc73b252bdf37b3d6d66fe7c23d5fb305deabd35f18",
     "analysis/upstream-epidoc-validation.json": "4e09ed53316dde0c1a59acc826123e2b0690cfe94d1808af2f1ffdfde6437f7e",
@@ -12,6 +12,7 @@
     "interchange/export-manifest.json": "0e82a87b5099e9ed6126a6fa1aa88b6c3fb89a82d57cd8f20b73055654d1d618",
     "research/cross-corpus-dependencies.json": "b2890d635b92ced93c216db958cfc41b9db9f4aed5d754d270e2b68d7b10cd94",
     "research/ferrer2025-pdf-comparison-2026-10-18.json": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
+    "research/ferrer2025-reading-assertions.json": "094d5f94a620f0472470c5aef2beca657132be37d5d046aa9ed1981cd0b2af22",
     "research/pre-expert-maximum.json": "e9d0fcbfe01d37730f83964e9782d57beca65c92340b37418b5484a0bfc327a9",
     "research/publication-reconciliation.json": "6a1df4a476c7b5d9aeaed85205283912f86646700f2b1f13b61ed676e63de022",
     "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
@@ -389,6 +390,42 @@
       "json_pointer": "/source/url",
       "kind": "url",
       "source_path": "research/ferrer2025-pdf-comparison-2026-10-18.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/assertions/0/source_locus/doi",
+      "kind": "doi",
+      "source_path": "research/ferrer2025-reading-assertions.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/assertions/1/source_locus/doi",
+      "kind": "doi",
+      "source_path": "research/ferrer2025-reading-assertions.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/assertions/2/source_locus/doi",
+      "kind": "doi",
+      "source_path": "research/ferrer2025-reading-assertions.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/assertions/3/source_locus/doi",
+      "kind": "doi",
+      "source_path": "research/ferrer2025-reading-assertions.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/assertions/4/source_locus/doi",
+      "kind": "doi",
+      "source_path": "research/ferrer2025-reading-assertions.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/assertions/5/source_locus/doi",
+      "kind": "doi",
+      "source_path": "research/ferrer2025-reading-assertions.json"
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",

@@ -139,6 +139,25 @@
         "role": "Direct Ferrer PDF and appendix comparison",
         "encoding": "json"
       }
+    },
+    {
+      "name": "ferrer2025-reading-assertions",
+      "native_unit": "source-attributed selected name proposal; not independent witness or physical object",
+      "record_count": 6,
+      "scope": "Six names at four source lines and three directory targets; final appendix display and source-specific uncertainty retained.",
+      "example_ids": [
+        "FERRER2025-APP-DARKUW",
+        "FERRER2025-APP-DIYNUSIJAS",
+        "FERRER2025-APP-MUWAKAS"
+      ],
+      "provenance": {
+        "path": "research/ferrer2025-reading-assertions.json",
+        "sha256": "094d5f94a620f0472470c5aef2beca657132be37d5d046aa9ed1981cd0b2af22",
+        "pointer": "/assertions",
+        "native_artifacts_snapshot_commit": null,
+        "role": "selected attributed edition assertions",
+        "encoding": "json"
+      }
     }
   ],
   "scholarly_limits": [
@@ -179,8 +198,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "88ae4203f8ef955d01262bd02bd127591eef9f753a8a8c1d89a9f08da44e7ecc",
-      "bytes": 14748
+      "sha256": "5a2cdfb8180ed9a3935d10fd0adb99cc557bccd44b93b64b60d393acba885349",
+      "bytes": 15124
     },
     {
       "path": "data/reference/records.json",
@@ -209,8 +228,8 @@
     },
     {
       "path": "research/collection-work-ledger.json",
-      "sha256": "5d7c29eade8e85af39bbf24eb428338e3f1b3d45ba21a9e0e3af57f37d34be35",
-      "bytes": 44112
+      "sha256": "7c9195ed94fe25b50b8c780c472385e186c54557fa3cbe2287aa1cccd2e427b2",
+      "bytes": 45701
     },
     {
       "path": "research/disagreement-register.json",
@@ -219,13 +238,18 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "9550e329c20fb2b32d5fcefafb49c2ff39141b30e504f0d179b4af7193c6b2df",
-      "bytes": 9393
+      "sha256": "6ecec7cf7f71f36be9976d47ee06ee7bc6cf3aa429fd265104a0c78ade3c85ce",
+      "bytes": 10372
     },
     {
       "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
       "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
       "bytes": 22260
+    },
+    {
+      "path": "research/ferrer2025-reading-assertions.json",
+      "sha256": "094d5f94a620f0472470c5aef2beca657132be37d5d046aa9ed1981cd0b2af22",
+      "bytes": 11679
     },
     {
       "path": "research/legacy-2025-concordance.json",
@@ -289,7 +313,7 @@
     },
     {
       "path": "review/collection-packet.json",
-      "sha256": "d31f5ba5af8f5bd0ccffefb1079f90369ec0c1126e11e70a9c46e119949d86aa",
+      "sha256": "cfe8e0370807f5710a3dcb5b4940094e1ac814b8d41fe649a7d9770830301866",
       "bytes": 1929
     },
     {
