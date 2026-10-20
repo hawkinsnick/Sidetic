@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "2e605c6779bf93eff4ed9aa5291ae64cb194fd17",
-  "evidence_fingerprint_sha256": "a8da6a972d6ecdef258df07cc0a90993df1d1c9b303e5529da0613a2249f5fec",
+  "source_commit": "c7b9e23209f9cfe23bc26dee234270a79cd9fb98",
+  "evidence_fingerprint_sha256": "6b17b2c944e19dbcab4f00f4fcf4fc5d567004aae664d8842a0fd536e1acaf23",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "88ae4203f8ef955d01262bd02bd127591eef9f753a8a8c1d89a9f08da44e7ecc",
-      "bytes": 14748
+      "sha256": "5a2cdfb8180ed9a3935d10fd0adb99cc557bccd44b93b64b60d393acba885349",
+      "bytes": 15124
     },
     {
       "role": "source-checks",
@@ -146,13 +146,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "5d7c29eade8e85af39bbf24eb428338e3f1b3d45ba21a9e0e3af57f37d34be35",
-      "bytes": 44112
+      "sha256": "7c9195ed94fe25b50b8c780c472385e186c54557fa3cbe2287aa1cccd2e427b2",
+      "bytes": 45701
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "d31f5ba5af8f5bd0ccffefb1079f90369ec0c1126e11e70a9c46e119949d86aa",
+      "sha256": "cfe8e0370807f5710a3dcb5b4940094e1ac814b8d41fe649a7d9770830301866",
       "bytes": 1929
     },
     {
@@ -278,14 +278,14 @@
     {
       "role": "native_evidence_profile",
       "path": "research/evidence-query-profile.json",
-      "sha256": "9550e329c20fb2b32d5fcefafb49c2ff39141b30e504f0d179b4af7193c6b2df",
-      "bytes": 9393
+      "sha256": "6ecec7cf7f71f36be9976d47ee06ee7bc6cf3aa429fd265104a0c78ade3c85ce",
+      "bytes": 10372
     },
     {
       "role": "native_evidence_coverage",
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "497c548b0e40bebca92449ac2ce8c46a2ef3a30cdee36cd850972227004f231d",
-      "bytes": 11988
+      "sha256": "1d6f747851cf3d19a278596d8c105beeee7312e59487177aa7850a533f6e3cc4",
+      "bytes": 13116
     },
     {
       "role": "native_evidence_query",
@@ -392,8 +392,8 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "8ff5e090c6a84dbe31ee4e3c83fb0111f8fedc193b7efa9468334f769ffdb174",
-      "bytes": 12027
+      "sha256": "316026de702ecb7a5a2e6136f1096c47e9e85086d26d7fb4b824033887776466",
+      "bytes": 13027
     },
     {
       "role": "source_intake",
@@ -418,6 +418,18 @@
       "path": "docs/FERRER2025-PDF-COMPARISON-2026-10-18.md",
       "sha256": "a92f0ed67c8a787bcd37d57924f8a0a159fab21953f227ecb18f582733a875d6",
       "bytes": 2098
+    },
+    {
+      "role": "ferrer_reading_assertions",
+      "path": "research/ferrer2025-reading-assertions.json",
+      "sha256": "094d5f94a620f0472470c5aef2beca657132be37d5d046aa9ed1981cd0b2af22",
+      "bytes": 11679
+    },
+    {
+      "role": "ferrer_reading_assertions",
+      "path": "docs/FERRER2025-READING-ASSERTIONS.md",
+      "sha256": "c3a6897058135807ef5b82a01fd025d19a64c593aa28daeec58e27ea5b97ad0d",
+      "bytes": 2033
     }
   ],
   "contract": {
