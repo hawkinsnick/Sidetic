@@ -13,6 +13,7 @@ def build():
     paths += [("research_delivery", p) for p in ['scripts/research_delivery.py','scripts/test_research_delivery.py','docs/RESEARCH-DELIVERY.md','analysis/research-delivery.json']]
     paths += [('source_intake', 'research/source-intake-2026-10-18.json'), ('source_intake', 'docs/SOURCE-INTAKE-2026-10-18.md')]
     paths += [('ferrer_pdf_comparison', 'research/ferrer2025-pdf-comparison-2026-10-18.json'), ('ferrer_pdf_comparison', 'docs/FERRER2025-PDF-COMPARISON-2026-10-18.md')]
+    paths += [('ferrer_reading_assertions', 'research/ferrer2025-reading-assertions.json'), ('ferrer_reading_assertions', 'docs/FERRER2025-READING-ASSERTIONS.md')]
     artifacts=[]
     for role,path in paths:
         b=(ROOT/path).read_bytes();artifacts.append({'role':role,'path':path,'sha256':hashlib.sha256(b).hexdigest(),'bytes':len(b)})

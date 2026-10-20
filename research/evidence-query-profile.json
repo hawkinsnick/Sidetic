@@ -57,6 +57,14 @@
       "id_pointer": "/comparison_id",
       "unit": "editorial appendix line/group comparison, not an inscription or independent witness",
       "scope": "All33 source lines/groups; bibliographic joins and explicit missing counterparts only; no glyph-complete diplomatic layer or accepted reading."
+    },
+    {
+      "name": "ferrer2025-reading-assertions",
+      "path": "research/ferrer2025-reading-assertions.json",
+      "pointer": "/assertions",
+      "id_pointer": "/assertion_id",
+      "unit": "source-attributed selected name proposal; not independent witness or physical object",
+      "scope": "Six names at four source lines and three directory targets; final appendix display and source-specific uncertainty retained."
     }
   ],
   "relations": [
@@ -73,6 +81,13 @@
       "from_pointer": "/record_id",
       "to_pointer": "/record_id",
       "label": "EXACT_S6_RECORD_TARGET_NOT_INDEPENDENT_OBJECT_CERTIFICATION"
+    },
+    {
+      "from": "digital-reference",
+      "to": "ferrer2025-reading-assertions",
+      "from_pointer": "/record_id",
+      "to_pointer": "/native_comparison/record_id",
+      "label": "EXACT_DIRECTORY_ID_BIBLIOGRAPHIC_LOCUS_ONLY_NO_PHYSICAL_CERTIFICATION"
     }
   ],
   "artifacts": [
@@ -194,6 +209,13 @@
       "source_snapshot_commit": null,
       "encoding": "json",
       "role": "Direct Ferrer PDF and appendix comparison"
+    },
+    {
+      "path": "research/ferrer2025-reading-assertions.json",
+      "sha256": "094d5f94a620f0472470c5aef2beca657132be37d5d046aa9ed1981cd0b2af22",
+      "encoding": "json",
+      "role": "selected attributed edition assertions",
+      "source_snapshot_commit": null
     }
   ],
   "scholarly_limits": [

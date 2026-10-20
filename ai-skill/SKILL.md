@@ -103,3 +103,7 @@ Read `docs/SOURCE-INTAKE-2026-10-18.md` and `research/source-intake-2026-10-18.j
 ## Ferrer PDF comparison (2026-10-18)
 
 Direct PDF and22 rendered pages now support33 appendix line/group comparison notes. Query `ferrer2025-appendix-comparison`; preserve discussion-versus-final sign conventions and directory S11/Ferrer S13 numbering. No exact diplomatic layer or accepted reading is claimed. Brixhe–Neumann and Olivier original checks remain open.
+
+## Selected Ferrer reading assertions (2026-10-19)
+
+Query `ferrer2025-reading-assertions` for six attributed names at four appendix lines and three directory targets. Read `docs/FERRER2025-READING-ASSERTIONS.md`; preserve exact source displays, uncertainty, edition dependence and native pointers. No canonical substitution, new physical object or expert acceptance follows.
