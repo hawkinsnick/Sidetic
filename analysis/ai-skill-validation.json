@@ -1,0 +1,123 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Sidetic",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "sidetic-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "a15cf988178453f736d5184a0ce8a11b484855bd274c815eed7202d66307c716",
+  "bundle_source_commit": "7dd8fab8ff5451ff61c2b2093ac28c61af7ad5ff",
+  "bundle_sha256": "500b45899454bc46a91378bf3f1b59c401233ce98fc732508907fe782ae8c1e0",
+  "indexed_artifact_entries_checked": 79,
+  "unique_indexed_paths_checked": 78,
+  "lookups": [
+    {
+      "collection": "digital-reference",
+      "id": "sidetic:ediana:300",
+      "native_unit": "frozen eDiAna directory record",
+      "provenance": {
+        "path": "data/reference/records.json",
+        "sha256": "f7f3c7784191302bbe50eaf2bacbfb035973ba8932ece865d2ff859dac93edde",
+        "pointer": "/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "digital-reference",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "disagreement-register",
+      "id": "SID-DIS-001",
+      "native_unit": "research disagreement/control item",
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "71766e8a253694768ceed6a49c821bc4da161cb9e835ae6c6b9e7b66aae44063",
+        "pointer": "/items/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "SID-DIS-001",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "240abb1d8bd4bf5a6b3cbba678d9d3bf1e19088e1f191a9a82c7153a0ac7080b",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "source-collation-2026-10-15",
+      "id": "SID-EUEMPOLOS-2025",
+      "native_unit": "selected source collation task",
+      "provenance": {
+        "path": "research/source-collation-2026-10-15.json",
+        "sha256": "35d1e964000a42df59c572408c6b77e074e3e1b091ef793c45f0d0c99161a8a0",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "fresh bounded source collation; consultation modes differ by source",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "p1-source-followup",
+      "id": "SID-S6-DARGA-GREEK",
+      "native_unit": "bounded source/identity follow-up disposition",
+      "provenance": {
+        "path": "research/p1-source-followup-2026-10-16.json",
+        "sha256": "1f4f62bc2ab8b6e2e2764bc753df074687b80cb55f551bafe3e470a8f5af213e",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "p1-source-followup",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "source-intake-2026-10-18",
+      "id": "SID-FERRER2025-VOWEL-INTAKE",
+      "native_unit": "source acquisition/identity follow-up task, not an inscription or independent witness",
+      "provenance": {
+        "path": "research/source-intake-2026-10-18.json",
+        "sha256": "a1919eb40081340524a246309791d90d5bd38999be97d42795c277fa348472cd",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded source intake and bibliographic identity",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "ferrer2025-appendix-comparison",
+      "id": "FERRER2025-S1-1",
+      "native_unit": "editorial appendix line/group comparison, not an inscription or independent witness",
+      "provenance": {
+        "path": "research/ferrer2025-pdf-comparison-2026-10-18.json",
+        "sha256": "487f4e5544232a5ab2d9a754d656cfc25d57e659d7ac5e2d38e668821345eda1",
+        "pointer": "/comparisons/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "Direct Ferrer PDF and appendix comparison",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "ferrer2025-reading-assertions",
+      "id": "FERRER2025-APP-DARKUW",
+      "native_unit": "source-attributed selected name proposal; not independent witness or physical object",
+      "provenance": {
+        "path": "research/ferrer2025-reading-assertions.json",
+        "sha256": "094d5f94a620f0472470c5aef2beca657132be37d5d046aa9ed1981cd0b2af22",
+        "pointer": "/assertions/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "selected attributed edition assertions",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
