@@ -14,6 +14,8 @@ def build():
     paths += [('source_intake', 'research/source-intake-2026-10-18.json'), ('source_intake', 'docs/SOURCE-INTAKE-2026-10-18.md')]
     paths += [('ferrer_pdf_comparison', 'research/ferrer2025-pdf-comparison-2026-10-18.json'), ('ferrer_pdf_comparison', 'docs/FERRER2025-PDF-COMPARISON-2026-10-18.md')]
     paths += [('ferrer_reading_assertions', 'research/ferrer2025-reading-assertions.json'), ('ferrer_reading_assertions', 'docs/FERRER2025-READING-ASSERTIONS.md')]
+    paths += [('skill_function_validation', p) for p in ['ai-skill/SKILL.md', 'ai-skill/manifest.json', 'scripts/validate_ai_skill.py', 'scripts/test_ai_skill_validation.py', 'docs/AI-SKILL-VALIDATION.md', '.github/workflows/ai-skill-function.yml']]
+    paths += [('skill_validator_code', p) for p in ['ai-skill/scripts/build_bundle.py', 'ai-skill/scripts/validate_bundle.py']]
     artifacts=[]
     for role,path in paths:
         b=(ROOT/path).read_bytes();artifacts.append({'role':role,'path':path,'sha256':hashlib.sha256(b).hexdigest(),'bytes':len(b)})

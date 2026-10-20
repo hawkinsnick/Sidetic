@@ -1,5 +1,16 @@
 # Sidetic research corpus — 0.1.0
 
+
+## Use the AI research skill
+
+Start with [the individual skill](ai-skill/SKILL.md) and the
+[step-by-step use and validation guide](docs/AI-SKILL-VALIDATION.md).
+Run `python scripts/validate_ai_skill.py` on a complete matching checkout.
+The skill requires access to its native evidence; a GitHub link alone does not
+install it. Passing checks establish the documented retrieval scope, not accepted
+readings, expert review or cross-platform model accuracy.
+
+
 An attributed, reproducible digital reference corpus for inscription research.
 
 **[Start here: use it with your AI](docs/START-HERE.md)** · [Download starter](ai-skill/Research-Starter.txt) · [Current coverage](analysis/current-status.json)

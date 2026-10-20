@@ -4,8 +4,9 @@
   "skill_version": "0.3.1",
   "canonical_project": "hawkinsnick/Sidetic",
   "bundle_schema": "0.3.1",
-  "governing_file": "SKILL.md",
+  "governing_file": "ai-skill/SKILL.md",
   "authority_profile": "ai-skill/references/authority-profile.json",
   "research_contract": "references/corpus-project-contract.md",
-  "vendor_neutral": true
+  "vendor_neutral": true,
+  "function_validation": "scripts/validate_ai_skill.py"
 }
