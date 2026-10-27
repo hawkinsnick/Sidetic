@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a19c4b201bfaf39bc36b41301c9744e8f118b98f",
-  "evidence_fingerprint_sha256": "645137802dab9ab193b597a3aa91ecafbc13d63817de3edf9dad580f67e6b5e8",
+  "source_commit": "c9d8e20edbf9179ae4ce03cb0e7f08289bc518ef",
+  "evidence_fingerprint_sha256": "65eadc51a5f54d3de40923206adfdf93b53a5e7db7b6b14fe1ddc8a62a851a53",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "d1aa40398a3a89f059269641977838f06b606be5204467a50cdc0d138429255d",
-      "bytes": 17060
+      "sha256": "6c295ed4d1c11bd9bd9807978a092be1e91b6faa9562ef08652aed733d188a58",
+      "bytes": 18707
     },
     {
       "role": "source-checks",
@@ -264,6 +264,12 @@
       "bytes": 1587
     },
     {
+      "role": "nonreview_workflow",
+      "path": "docs/NONREVIEW-WORK.md",
+      "sha256": "df87cf9d435bd44c0b17a0954b9f0ee2b7e4ef2e68c86572c5a3cfe1d678b463",
+      "bytes": 2958
+    },
+    {
       "role": "raw_source",
       "path": "data/upstream/ediana/response.json",
       "sha256": "1f5ddd790a2d53294c30c75fd8b487d4c1f06f686e4691d3b1991d9cff9ecb1b",
@@ -374,8 +380,8 @@
     {
       "role": "research_delivery",
       "path": "scripts/research_delivery.py",
-      "sha256": "2c82a9f1fdac786da4b9583c3d463002a77d45fcdd604be86e4234b09070d756",
-      "bytes": 10387
+      "sha256": "41a6e40571391e2a4303b06a9a6eb4bf8575a84ca715d3932b8907edda64566c",
+      "bytes": 10514
     },
     {
       "role": "research_delivery",
@@ -392,8 +398,8 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "5852482edde2f8a47360fc34d0173bbd9849cbaf44bd43b25399f0549dc4f23a",
-      "bytes": 13027
+      "sha256": "6e62ef08eef5ed7901266197f015caaeab8d2da9742a4cf30c20ddd51f068c4f",
+      "bytes": 13184
     },
     {
       "role": "source_intake",
@@ -434,8 +440,8 @@
     {
       "role": "skill_function_validation",
       "path": "ai-skill/SKILL.md",
-      "sha256": "d1aa40398a3a89f059269641977838f06b606be5204467a50cdc0d138429255d",
-      "bytes": 17060
+      "sha256": "6c295ed4d1c11bd9bd9807978a092be1e91b6faa9562ef08652aed733d188a58",
+      "bytes": 18707
     },
     {
       "role": "skill_function_validation",
